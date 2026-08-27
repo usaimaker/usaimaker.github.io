@@ -1,0 +1,61 @@
+{
+  "title": "GitHub Copilot vs Cursor: My honest comparison",
+  "slug": "github-copilot-vs-cursor-my-honest-comparison",
+  "content": "I'll be the first to admit, I was beyond excited when I heard about GitHub Copilot - a tool that could potentially write code for me, or at least make suggestions that would save me a ton of time. My friend had been raving about it, and I just had to try it out for myself. So I dove in headfirst, thinking it would be a magical solution to all my coding woes.\n\n## Getting Started\nMy experience with GitHub Copilot started off a bit rocky, to be honest - I was trying to implement a fairly complex algorithm, and I found myself getting frustrated with the suggestions it was making. They just didn't seem to be quite right, and I ended up spending more time trying to work around them than if I had just written the code myself. I was about to give up when I stumbled upon Cursor, another tool that promised to make my coding life easier.\n\nI decided to give Cursor a shot, and I was surprised at how much more intuitive it felt - the suggestions it made were actually helpful, and I found myself using them more and more as I worked on my project. But I was still curious about GitHub Copilot, and I wanted to give it another chance, so I kept switching back and forth between the two tools. My code was a mess, but I was determined to figure out which one was better.\n\n## The Good and the Bad\nOne thing that really stood out to me about GitHub Copilot was its ability to learn my coding style - after using it for a while, it started making suggestions that were actually in line with how I would write code. But at the same time, I found myself getting annoyed with its tendency to suggest entire blocks of code that I didn't really need. I mean, I just wanted a simple function, not a whole library - it was like it was trying to show off or something. Cursor, on the other hand, seemed to be more focused on making targeted suggestions that actually helped me get my work done.\n\n## Honest Moment\nI have to admit, there was one point where I got so frustrated with GitHub Copilot that I ended up deleting a whole day's worth of code - I had been trying to implement a feature, and it just wasn't working, and I got so fed up that I just threw my hands up and started over from scratch. It was a bit of a disaster, but it taught me a valuable lesson - sometimes, it's better to just write the code yourself, rather than relying on a tool to do it for you. And that's exactly what I did - I started over, and this time, I used Cursor to help me out.\n\n## A Turning Point\nAs I worked on my project, I started to notice that Cursor was actually helping me catch errors and bugs that I would have otherwise missed - it was like having a second pair of eyes on my code, and it gave me a lot more confidence in what I was doing. GitHub Copilot, on the other hand, seemed to be more focused on just getting the code written, without necessarily worrying about whether it was correct or not. And that's when it hit me - I wasn't just looking for a tool to write code for me, I was looking for a tool that would help me write better code.\n\n## The Verdict\nSo, after all my experimenting and frustration, I have to say that I'm a bit of a Cursor convert - it's not perfect, but it's definitely been more helpful to me than GitHub Copilot. That being said, I do think that GitHub Copilot has its uses - it's great for exploring new ideas and getting a feel for how something might work. But when it comes down to it, I need a tool that's going to help me get my work done, and for me, that tool is Cursor. I'm not gonna lie, it's been a bit of a journey, but I'm glad I took the time to figure out what works best for me.",
+  "category": "AI Coding Tools",
+  "date": "2026-05-20",
+  "readTime": "4 min read",
+  "comments": [
+    {
+      "id": "comment_1779755438085_nv1876xid",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-05-03T19:47:46.092Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1779755438085_5siybipo6",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-05-13T04:36:12.754Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1779755438085_gtm9pof48",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-05-18T08:44:47.490Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1779755438085_01lle5fe1",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-05-22T01:43:50.020Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 4,
+  "viewCount": 363,
+  "likeCount": 33
+}

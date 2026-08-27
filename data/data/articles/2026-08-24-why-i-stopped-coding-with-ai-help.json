@@ -1,0 +1,85 @@
+{
+  "title": "Why I Stopped Coding With AI Help",
+  "slug": "why-i-stopped-coding-with-ai-help",
+  "content": "## I was chasing the quick fix  \nI remember the first time I pulled a language model into a project.  \nIt felt like having a co‑developer who never sleeps, and I was eager to test the waters.  \n\n## The first sprint was a sprint of shortcuts  \nI had a simple API to build, a deadline looming, and the model suggested a three‑line solution.  \nIt looked good on paper, but the production server crashed after the first deployment.  \n\n## I learned that AI can misinterpret context  \nThe model wrote a function that assumed a different database schema.  \nMy database had an extra column I’d added last week, and the query failed spectacularly.  \n\n## That crash was my first honest moment  \nI admitted in the Slack thread that I’d leaned too heavily on the AI.  \nI felt a sting of embarrassment, but the team appreciated my transparency.  \n\n## I started to question the “trust” factor  \nIf the model can get something so basic wrong, how can I rely on it for complex logic?  \nI realized I was letting a tool dictate my code style and architecture without a second thought.  \n\n## A pattern emerged: AI shortcuts and human errors  \nDuring a refactor, the AI suggested renaming a variable to “temp.”  \nI didn’t catch that I’d already used “temp” elsewhere, and the collision caused a subtle bug.  \n\n## I tried to fix the bug, but the AI kept offering the same suggestion  \nI ended up spending 90 minutes chasing a variable name, while the team’s deadline loomed.  \nI started to feel the AI was a hindrance, not a help.  \n\n## I turned to the fundamentals again  \nI dug back into the textbooks, re‑examined design patterns, and rewrote the function from scratch.  \nIt took longer, but the code was now self‑documenting and easier to maintain.  \n\n## I noticed the difference in code quality  \nThe hand‑crafted version had clearer comments, a consistent naming scheme, and a robust error‑handling block.  \nThe AI version had a terse docstring and a couple of TODO comments that never got addressed.  \n\n## My confidence in my own debugging improved  \nI no longer needed the AI’s “quick fix” to solve a runtime exception.  \nI could trace the stack, understand the root cause, and fix it myself.  \n\n## The learning curve felt worthwhile  \nI spent two extra hours learning about dependency injection, and my team noticed the code’s flexibility.  \nThey asked if I’d been reading any new books, and I proudly mentioned “Clean Architecture.”  \n\n## I realized the AI was a shortcut that stunted growth  \nEach time I let the model write the boilerplate, my understanding of the underlying patterns slipped.  \nI felt like I was riding a treadmill that kept me moving forward, but not learning how to run.  \n\n## I found myself chasing the AI again and again  \nDuring a refactor for a new feature, the AI suggested adding an extra endpoint that didn’t make sense.  \nI had to spend an afternoon arguing with the model about REST principles and resource design.  \n\n## I had a breakthrough moment on a rainy Thursday  \nI decided to commit to writing all new code manually, using the AI only for documentation.  \nI set a rule: “No auto‑generated code unless it’s a trivial template.”  \n\n## I tested the new rule in a microservice project  \nI wrote a function to calculate shipping cost from scratch.  \nI wrote every line, added unit tests, and got it working in 45 minutes.  \n\n## The AI was still useful for the docs  \nWhen I needed to write a README, I used the model to generate a first draft.  \nThen I polished it, added my own voice, and the final document felt authentic.  \n\n## I noticed a tangible improvement in my workflow  \nMy commit messages became more descriptive, and my pull requests received fewer comments about unclear logic.  \nMy teammates started asking for my code review on more complex modules.  \n\n## I started to appreciate the slower, deliberate coding process  \nThe time it took to write the function manually was offset by the time saved on debugging later.  \nI also found myself writing better tests because I understood the code’s intent from the outset.  \n\n## My frustration with the AI grew when it suggested a dependency I didn’t know  \nThe model recommended a new library for logging, but I didn’t understand its API.  \nI spent an hour reading the docs and learning a new tool, only to realize my own logging system was sufficient.  \n\n## The honest moment came when I realized I was still using the AI for quick answers  \nI was about to paste a snippet from a stack overflow answer into my project, and the model suggested a slightly different version.  \nI paused, opened a local editor, and wrote the code myself, testing each line.  \n\n## That pause was a turning point  \nI felt a sense of ownership, as if my code was genuinely mine.  \nThe satisfaction of solving a problem without a digital mentor was a new kind of pride.  \n\n## I began to share my journey on a forum  \nI wrote about the pitfalls I’d seen and how I’d turned off the AI for critical code paths.  \nThe community responded with stories of similar experiences, and the conversation grew organically.  \n\n## I realized the value of “human error” as a learning tool  \nWhen I made a mistake, I could trace back to a specific design decision and fix it.  \nThe AI would often mask the underlying logic, making it harder to spot the root cause.  \n\n## I experimented with a “human‑in‑the‑loop” workflow  \nI’d write a stub, let the AI fill in the details, then review it thoroughly.  \nThat approach kept the efficiency of the model while preserving my oversight.  \n\n## My code quality metrics improved after I stopped over‑reliance  \nI started measuring cyclomatic complexity, and the numbers dropped.  \nI also saw a reduction in the number of bugs reported in production.  \n\n## I found that the AI’s suggestions were often too generic  \nWhen I was building a feature that required a custom caching strategy, the model offered a standard solution that didn’t fit.  \nI had to rewrite it entirely, which taught me the nuances of cache invalidation.  \n\n## I realized that the AI was not a neutral tool  \nIt had biases based on the data it was trained on, and those biases seeped into my code.  \nI started to think critically about each suggestion, questioning whether it aligned with my project’s goals.  \n\n## The learning curve of the AI’s syntax was another barrier  \nWhen the model output code in a different style, I had to spend time refactoring it to match my team’s conventions.  \nThat extra effort added up, and I began to wonder if it was worth the time.  \n\n## I discovered that my own coding style was an asset  \nI could write clean, readable code that my teammates could understand instantly.  \nThe AI, on the other hand, produced code that felt like a foreign dialect, requiring translation.  \n\n## My frustration peaked during a deadline crunch  \nI had a feature to deliver, but the AI’s suggested solution kept failing tests.  \nI finally decided to cut the AI out entirely and write the code myself from scratch.  \n\n## That decision paid off in a dramatic way  \nThe feature was delivered on time, and the post‑mortem highlighted the clear logic and thorough testing.  \nMy manager praised the clarity of the implementation, and the team celebrated the success.  \n\n## I started to see AI as a complementary tool, not a crutch  \nI use it to generate boilerplate, not to write core business logic.  \nThat distinction keeps my coding muscles strong and my problem‑solving sharp.  \n\n## The change also influenced my approach to learning  \nI now seek out tutorials, books, and hands‑on labs rather than relying on AI for quick answers.  \nThis deepened my understanding of frameworks, libraries, and architectural patterns.  \n\n## I’ve learned that the best code comes from deliberate effort  \nWhen I write the code myself, I’m forced to think through edge cases, design trade‑offs, and performance implications.  \nThe AI can’t force me to do that; it can only give me a starting point.  \n\n## My team’s culture shifted too  \nWe started discussing code design in more depth during reviews, and the quality of our discussions improved.  \nThe team now feels more confident that their code is robust and maintainable.  \n\n## I’ve kept the AI in my toolbox for specific tasks  \nGenerating documentation, summarizing large codebases, and translating code comments are still useful.  \nBut I’ve set boundaries, so the AI never writes the heart of my applications.  \n\n## My productivity is now a balanced blend of manual and assisted work  \nI spend less time chasing bugs and more time building features.  \nThe time saved is not just in minutes; it’s in the confidence that comes from knowing my code.  \n\n## I’ve also become a better mentor  \nWhen I explain a concept, I can illustrate it with my own code examples, which are clearer than the generic snippets the AI might produce.  \nMy mentees appreciate the real‑world context and the hands‑on approach.  \n\n## The experience taught me humility and resilience  \nI’m still not perfect, and I still make mistakes, but I’ve learned to own them.  \nThe AI can be a guide, but it can’t replace the process of grappling with a problem and emerging with a solution.  \n\n## My code is now a reflection of my growth  \nEvery line tells a story of a problem I solved without a shortcut.  \nIt’s a testament to the fact that the most valuable skill in programming is not how fast you write code, but how deeply you understand it.  \n\n## I’m still curious about AI’s potential, but with caution  \nI keep an eye on new developments, testing them against real projects.  \nI’ll only adopt them if they genuinely add value without diluting my own expertise.  \n\n## The journey from AI‑dependent to AI‑supplemented has reshaped my career  \nIt’s taught me to value the craft, to challenge assumptions, and to keep learning.  \nI’m excited to keep writing code that’s not just functional, but also elegant and purposeful.",
+  "category": "AI Coding Tools",
+  "date": "2026-08-24",
+  "readTime": "9 min read",
+  "comments": [
+    {
+      "id": "comment_1787554463438_vyn3tskwv",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-02T09:59:24.372Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787554463438_2cp1c3fw5",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-08-05T09:33:32.855Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787554463438_2qlnu4x1a",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-23T05:04:51.272Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787640140065_i2428tzqs",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-08T20:00:54.462Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661298_nzdwi3b3v",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-01T00:00:53.943Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661298_7gccb4ci5",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-17T23:05:44.704Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 6,
+  "viewCount": 39,
+  "likeCount": 8
+}

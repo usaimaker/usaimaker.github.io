@@ -1,0 +1,49 @@
+{
+  "title": "My AI Learning Roadmap for Beginners: A No-BS Guide",
+  "slug": "my-ai-learning-roadmap-for-beginners-a-no-bs-guide",
+  "content": "I still remember the day I decided to dive into AI - I was both excited and overwhelmed by the sheer amount of resources available online. My goal was to learn as much as I could in the shortest time possible, so I started by reading every article and watching every video I could find. I quickly realized that this approach was not only inefficient but also frustrating, as I was spending more time searching for information than actually learning.\n\n## Getting Started\nI began by focusing on the basics of machine learning, which included understanding supervised and unsupervised learning, regression, and classification. My first project was to build a simple chatbot using a pre-trained model, which was a great way to get my hands dirty and see the practical applications of AI. I was surprised by how quickly I was able to get started and see results, which motivated me to keep learning.\n\n## Choosing the Right Resources\nAs I progressed, I realized that not all resources are created equal - some were too theoretical, while others were too practical. I found that a combination of online courses, books, and real-world projects worked best for me. I made the mistake of spending too much money on expensive courses, only to realize that many of the same resources were available for free online. My honest moment - I wasted a lot of money on courses that didn't provide much value.\n\n## Building Projects\nBuilding projects is where the real learning happens, and I tries to work on as many projects as I could. My first project was a disaster - I tried to build a complex model using a dataset that was too large for my computer to handle. I spent hours trying to troubleshoot the issue, only to realize that I had made a simple mistake. I learned a valuable lesson - start small and scale up gradually.\n\n## Joining a Community\nJoining a community of like-minded individuals was one of the best decisions I made. I found a group of people who were passionate about AI and willing to help others learn. We worked on projects together, shared resources, and provided feedback on each other's work. I was amazed by how much I learned from others and how much they learned from me.\n\n## Staying Motivated\nStaying motivated is key when learning AI, as it can be a long and difficult journey. I found that setting realistic goals and rewarding myself when I achieved them helped to keep me motivated. I also tried to focus on the practical applications of AI, rather than just the theory. I have to admit, there were times when I felt like giving up, but the thought of building something that could make a real difference kept me going.\n\n## Overcoming Obstacles\nI faced many obstacles along the way, from struggling to understand complex concepts to dealing with frustrating errors. I learned to be patient and persistent, and to take breaks when I needed to. I also learned to ask for help when I was stuck, rather than trying to figure everything out on my own. My honest moment - I still get frustrated when I encounter an error that I don't know how to fix.\n\n## Putting it all Together\nAs I look back on my journey, I realize that learning AI is a continuous process. I'm still learning, and I'm still making mistakes. But I'm also building projects that I'm proud of, and I'm seeing the real-world impact of AI. I'm excited to see where this journey takes me, and I'm happy to share my experiences with others. I hope that my story can inspire and motivate others to start their own AI learning journey.",
+  "category": "AI Learning",
+  "date": "2026-05-30",
+  "readTime": "4 min read",
+  "comments": [
+    {
+      "id": "comment_1782212363334_fxlr78bua",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-06-02T11:09:33.147Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1782212363339_wzhiemehy",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-06-13T18:03:11.885Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1782212363339_lcb53kah3",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-06-15T11:22:33.484Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": true
+    }
+  ],
+  "commentCount": 3,
+  "viewCount": 450,
+  "likeCount": 11
+}

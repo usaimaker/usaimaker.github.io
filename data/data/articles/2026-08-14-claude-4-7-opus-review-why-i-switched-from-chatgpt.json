@@ -1,0 +1,8 @@
+{
+  "title": "Claude 4.7 Opus Review: Why I Switched from ChatGPT",
+  "slug": "claude-4-7-opus-review-why-i-switched-from-chatgpt",
+  "category": "AI Tools",
+  "date": "2026-08-14",
+  "readTime": "6 min read",
+  "content": "After six months of being a die-hard ChatGPT user, I finally made the switch to Claude 4.7 Opus. Here's why.\n\n## The Writing Quality Difference\n\nThe first thing I noticed was the writing quality. Claude 4.7 Opus writes like a human, not like a machine trying to sound human. The prose is natural, varied, and actually enjoyable to read. When I asked it to write a blog post about quantum computing, it produced content that my editor thought I'd written myself.\n\n## Context Window That Actually Works\n\nWith a 500K token context window, Claude 4.7 Opus can handle entire codebases, long documents, and complex conversations without losing track. I fed it my entire 50,000-line codebase and asked it to find a memory leak. It not only found the leak but also suggested three optimizations I hadn't considered.\n\n## Code Generation\n\nClaude's code generation is noticeably more accurate than GPT-4. It writes cleaner code, follows best practices, and rarely makes syntax errors. I've been using it for Python, JavaScript, and Rust, and the quality is consistently excellent across all three.\n\n## The Verdict\n\nIf you're primarily doing creative writing, coding, or analysis, Claude 4.7 Opus is the better choice. If you need multimodal capabilities or integration with OpenAI's ecosystem, GPT-5 might be worth the premium. But for my money, Claude is the better value."
+}

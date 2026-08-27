@@ -1,0 +1,49 @@
+{
+  "title": "My AI writing stack revealed",
+  "slug": "my-ai-writing-stack-revealed",
+  "content": "My writing workflow used to be a mess, with a gazillion tabs open and a constant feeling of overwhelm - but then I discovered the power of AI tools. I've spent countless hours experimenting with different software, and I'm excited to share my current setup with you. It's not perfect, but it's saved me a ton of time and reduced my stress levels significantly.\n\n## The Foundation\nMy writing process starts with a tool called Language Tool, which helps me with grammar and spell checking - it's not foolproof, but it catches most of my careless mistakes. I've also been using a browser extension that suggests alternative phrases and sentences, which can be hit or miss, but sometimes it surprises me with a great suggestion. I've learned to ignore its annoying tendency to suggest overly formal language, though.\n\nI've tried other grammar checking tools, but Language Tool is the one that's stuck - it's free, it's simple, and it just works. I've even started using it for my personal emails and chat messages, just to make sure I don't embarrass myself with silly typos. My friends have started noticing the difference, and they're always asking me what my secret is.\n\n## The AI Assistant\nThe next tool in my stack is an AI-powered writing assistant that helps me with research and organization - it's called Citationsy, and it's been a lifesaver for my blog posts. I just feed it a topic, and it spits out a list of relevant sources, complete with summaries and quotes. It's not perfect, and sometimes it misses important information, but it's saved me hours of tedious research.\n\nI have to admit, I was skeptical at first - I thought it would just regurgitate the same old information, but it's actually really good at finding hidden gems. I've discovered some amazing authors and researchers through Citationsy, and it's expanded my knowledge on topics I thought I knew inside out. Of course, there are times when it gets things wrong, and I have to fact-check everything manually - but that's just part of the process.\n\n## The Content Generator\nNow we get to the really interesting part - the AI-powered content generator that helps me with my first drafts. I've been using a tool called WordLift, which uses natural language processing to generate human-sounding text. It's not perfect, and sometimes it produces complete nonsense, but it's amazing for getting me started when I'm stuck.\n\nI've had some hilarious moments with WordLift, like the time it generated a paragraph that was completely unrelated to the topic I was writing about - it was like it had a mind of its own. But most of the time, it's really helpful, and it's saved me from plenty of writer's block. I just feed it a prompt, and it starts generating text - it's like having a virtual writing buddy.\n\n## Honest Moment\nOkay, I have to admit - I've made some mistakes with these tools, and I've had to learn from them the hard way. Like the time I accidentally published a blog post with a bunch of grammatical errors, because I relied too heavily on Language Tool - it was mortifying. Or the time I used Citationsy to research a topic, only to realize that it had missed a critical piece of information - it was a real face-palm moment.\n\nBut the biggest mistake I've made is probably relying too much on WordLift - I've caught myself using it as a crutch, rather than actually writing from the heart. It's easy to get lazy when you have a tool that can generate text for you, but at the end of the day, it's still just a tool. I've had to remind myself that the real value lies in my own unique perspective and voice - not in some AI-generated text.\n\n## The Editor\nOnce I've generated my first draft, I move on to the editing phase - this is where the real magic happens. I use a tool called ProWritingAid, which helps me with sentence structure, tone, and style. It's like having a personal editor, minus the attitude and the hefty price tag.\n\nI've learned to trust ProWritingAid's suggestions, even when they seem counterintuitive - it's amazing how often it catches things that I've missed. Like the time it pointed out that I was using the same word three times in a row, or the time it suggested a simpler way to phrase a complex idea. It's not perfect, but it's saved me from plenty of awkward phrasing and clumsy sentences.\n\n## The Final Touches\nFinally, I move on to the final touches - this is where I add my own personal flair to the article. I've started using a tool called Canva, which helps me with graphics and formatting - it's ridiculously easy to use, and it's saved me a ton of time. I just drag and drop my text, add some images, and voila - I've got a beautifully formatted article.\n\nI've also started using a tool called Grammarly, which helps me with the final proofread - it's like having a second pair of eyes, minus the distractions and interruptions. I just feed it my text, and it points out any remaining errors - it's amazing how often it catches things that I've missed. And with that, my article is ready to go - it's a great feeling, knowing that I've done everything I can to make it the best it can be.",
+  "category": "AI Writing",
+  "date": "2026-05-31",
+  "readTime": "5 min read",
+  "comments": [
+    {
+      "id": "comment_1780779504479_f2hzg2idw",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-05-12T11:03:45.979Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780779504479_94qmkfolx",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-05-20T13:44:46.410Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780779504479_fx2rdixv9",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-05-25T23:41:36.613Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 3,
+  "viewCount": 427,
+  "likeCount": 11
+}
