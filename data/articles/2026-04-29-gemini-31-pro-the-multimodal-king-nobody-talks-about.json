@@ -1,0 +1,37 @@
+{
+  "title": "Gemini 3.1 Pro: The Multimodal King Nobody Talks About",
+  "slug": "gemini-31-pro-the-multimodal-king-nobody-talks-about",
+  "content": "Everyone's obsessed with GPT-5.4 and Claude 4.6. Meanwhile, Gemini 3.1 Pro quietly became the best multimodal model I've ever used.\n\n## 1 Million Tokens is a Game Changer\n\nI uploaded a 400-page technical manual and asked Gemini to find specific information. Not only did it find the right section, it quoted the page number and explained the context.\n\nTry doing that with any other model. Spoiler: you can't.\n\n## Video Understanding That Actually Works\n\nI tested Gemini with a 30-minute product demo video. It:\n- Summarized the key features\n- Identified the speaker's main points\n- Even caught a small error in the demo that I missed\n\nFor content creators and researchers, this is huge.\n\n## The Price is Right\n\n$20/month for Gemini Advanced. Compare that to GPT-5.4's $200/month Pro tier.\n\nFor most users, Gemini gives you 90% of the capability at 10% of the price.\n\n## What's Not Perfect\n\nThe coding ability is good, but Claude 4.6 still wins there. And some of the \"creative\" outputs feel a bit safe, like Google's safety filters are working overtime.\n\nAlso, the API documentation could be better. Had to dig through forums to figure out some edge cases.\n\n## Who Should Use Gemini 3.1 Pro\n\n- Researchers dealing with long documents\n- Content creators analyzing videos\n- Anyone who needs strong multimodal understanding\n- Budget-conscious users who want top-tier performance\n\n## My Take\n\nGemini 3.1 Pro is the underrated champion of 2026. While everyone argues about GPT vs Claude, Google quietly built something special.\n\nGive it a try. You might be surprised.",
+  "category": "AI Models",
+  "date": "2026-04-29",
+  "readTime": "3 min read",
+  "comments": [
+    {
+      "id": "comment_1780296621273_mubv1iqrc",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-05-11T02:54:23.500Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780296621273_fu1qjaym1",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-05-19T21:29:01.332Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 2,
+  "viewCount": 416,
+  "likeCount": 25
+}

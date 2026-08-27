@@ -1,0 +1,73 @@
+{
+  "title": "Building My First AI Agent: The Good, The Bad, and the Surprising Truths",
+  "slug": "building-my-first-ai-agent-the-good-the-bad-and-the-surprisi",
+  "content": "I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decide which emails needed a reply, which could be archived, and which deserved a quick draft. But the reality was a messy mix of triumphs and frustrations that I’d never seen in the glossy demos.  \n\n## Why I Decided to Build an AI Agent  \n\nI’ve watched too many hype cycles to ignore the promise that a well‑crafted agent could free up hours each week. My inbox swelled with 200–300 emails daily, many of which were spam or low‑priority newsletters. I thought an AI could sift through that noise and let me focus on the few that mattered.  \n\n## Choosing the Right Toolkit  \n\nI started with LangChain because it felt modular and promised easy integration with OpenAI’s API. I also pulled in a lightweight Flask server to expose an endpoint for the agent’s decisions. The choice seemed simple: a single language, a couple of libraries, and a clear path to deployment.  \n\n## Data Collection: The First Hard Truth  \n\nI spent three days scraping my past three months of emails to build a training set. That yielded 2,300 messages, split into three classes: “reply needed,” “archive,” and “delegate.” The initial labeling was noisy; I mis‑tagged a few important newsletters as “archive,” which later cost me a missed meeting.  \n\n## Prompt Engineering: A Love‑Hate Relationship  \n\nCrafting prompts turned into an iterative art form. One day I wrote, “Classify this email as urgent, normal, or low priority.” The next day I added, “Include a brief rationale.” The agent started providing explanations, but the explanations were often generic, and the classification accuracy hovered around 68%. I began to wonder if my prompt was the problem or the underlying model.  \n\n## Training the Model: It Took Longer Than Expected  \n\nI opted for OpenAI’s fine‑tuning endpoint because the base GPT‑3.5 already understood natural language. Fine‑tuning 2,300 examples took 12 hours on a modest laptop and cost me about $120. The first epoch produced an accuracy of 70%, and the second 75%. Still, that was far below the 90% I’d read about in research papers.  \n\n## Deploying: The Real Test  \n\nI wrapped the fine‑tuned model in a Flask app and exposed a /classify route. I integrated it with my email client via a Zapier workflow that sent new messages to the agent. The first week was a disaster: the agent flagged 30% of urgent emails as “low priority,” and I missed a client deadline.  \n\n## Real‑World Performance: Where It Fell Short  \n\nWhen the bot classified emails, the confidence scores were misleadingly high. A message about a budget request received a 0.98 confidence “archive” label, even though the content clearly required a reply. My own manual reviews uncovered that the model was overfitting to the word “budget” as a spam trigger.  \n\n## Unexpected Wins: The Surprising Benefits  \n\nDespite the misclassifications, the agent did handle 40% of the routine emails automatically. It generated concise drafts for 18 out of 200 daily messages, saving me roughly 15 minutes per day. I also discovered that the agent’s “rationale” feature helped me understand why certain emails were flagged, a subtle but useful transparency tool.  \n\n## An Honest Moment: My Biggest Mistake  \n\nI admit I was too eager to rely on the default prompt. I didn’t iterate on the instruction set until I saw that the model was treating “urgent” as a synonym for “spam.” The prompt read, “Classify this email.” The model took that literally and over‑reacted to any exclamation mark or capital letters.  \n\n## What I Learned About Overfitting  \n\nThe dataset was small and imbalanced; “archive” dominated at 60%. The model learned to default to that class. I realized that I needed a more balanced training set and perhaps a cost‑sensitive loss function. I added a synthetic set of 300 “reply needed” emails to counterbalance the bias.  \n\n## The Human Factor: When the Agent Needs a Human Touch  \n\nEven with a balanced dataset, the agent still required human oversight. I created a simple dashboard that logged each decision and highlighted low‑confidence cases for review. That simple step reduced misclassifications by 12% over a month. The experience taught me that AI is a tool, not a replacement for judgment.  \n\n## Future Tweaks: Where I’m Heading Next  \n\nI’m experimenting with a hierarchical approach: first a lightweight classifier to weed out obvious spam, then a more sophisticated model for the remaining 20%. I also plan to integrate user feedback directly into the fine‑tuning loop, so the agent learns from my corrections in real time.  \n\nThe journey taught me that building an AI agent is less about finding a silver bullet and more about incremental improvement. It’s a process of constant testing, honest error admission, and a willingness to accept that the bot will never be perfect. That humility, I believe, is what turns an early adopter’s enthusiasm into a sustainable workflow.",
+  "category": "AI Agents",
+  "date": "2026-08-24",
+  "readTime": "5 min read",
+  "comments": [
+    {
+      "id": "comment_1787554463434_dqtplfj3f",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-07-30T22:23:09.485Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787554463434_fuzzbut7n",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-03T09:28:02.979Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787554463434_o6z2n5r3g",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-10T02:46:44.935Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787640140058_3g9xcgod1",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "good points, though I've seen some issues with this approach",
+      "timestamp": "2026-07-31T04:56:35.518Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661293_ogabd5oxv",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-10T18:21:58.589Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 5,
+  "viewCount": 36,
+  "likeCount": 11
+}

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <meta name="robots" content="noindex,nofollow">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding: 40px;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+    </style>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="spinner"></div>
+        <h2>Redirecting to AI Tool...</h2>
+        <p id="status">Please wait...</p>
+        <p><a id="manual-link" href="#">Click here if not redirected</a></p>
+    </div>
+    
+    <script>
+        // ============================================
+        // AFFILIATE LINKS MAP
+        // ============================================
+        // Tools with affiliate programs are marked with affiliate: true
+        // Tools without affiliate programs link directly to the official site
+        // To add your affiliate link: replace the URL with your affiliate tracking link
+        //
+        // AFFILIATE PROGRAMS STATUS:
+        //   - Notion: https://www.notion.com/affiliates (50% recurring, 12 months) - CURRENTLY CLOSED
+        //   - ElevenLabs: https://try.elevenlabs.io/xx60gzp9dkyo (22% recurring, 12 months) - ACTIVE
+        //
+        // NO AFFILIATE PROGRAM (direct link):
+        //   - DeepSeek, ChatGPT, Claude, Gemini, Midjourney, Sora, Cursor,
+        //     Runway, Kling, Perplexity, Stability, Grok
+        // ============================================
+        const affiliateLinks = {
+            // --- Tools with ACTIVE affiliate programs ---
+            'elevenlabs': {
+                url: 'https://try.elevenlabs.io/xx60gzp9dkyo',
+                affiliate: true,
+                note: 'Active - 22% recurring 12 months'
+            },
+            // --- Tools with affiliate programs (NEED TO REGISTER) ---
+            // Register at PartnerStack: https://partnerstack.com
+            'jasper': {
+                url: 'https://jasper.ai',
+                affiliate: 'pending',
+                affiliateSignup: 'https://jasper.ai/affiliates',
+                note: '25-30% recurring - register to get tracking link'
+            },
+            'copyai': {
+                url: 'https://copy.ai',
+                affiliate: 'pending',
+                affiliateSignup: 'https://copy.ai/affiliates',
+                note: '45% recurring - register to get tracking link'
+            },
+            'frase': {
+                url: 'https://frase.io',
+                affiliate: 'pending',
+                affiliateSignup: 'https://frase.io/affiliates',
+                note: '30% recurring - register to get tracking link'
+            },
+            'surferseo': {
+                url: 'https://surferseo.com',
+                affiliate: 'pending',
+                affiliateSignup: 'https://surferseo.com/affiliate-program',
+                note: '25% recurring - register to get tracking link'
+            },
+            'getresponse': {
+                url: 'https://getresponse.com',
+                affiliate: 'pending',
+                affiliateSignup: 'https://www.getresponse.com/affiliate-programs',
+                note: '33% recurring - register to get tracking link'
+            },
+            'synthesia': {
+                url: 'https://synthesia.io',
+                affiliate: 'pending',
+                affiliateSignup: 'https://www.synthesia.io/affiliate-program',
+                note: '20-25% commission - register to get tracking link'
+            },
+            // --- Tools without affiliate programs (direct link) ---
+            'notion': { url: 'https://notion.so', affiliate: false, note: 'Affiliate program currently closed' },
+            'deepseek': { url: 'https://deepseek.com', affiliate: false },
+            'chatgpt': { url: 'https://chat.openai.com', affiliate: false },
+            'claude': { url: 'https://claude.ai', affiliate: false },
+            'gemini': { url: 'https://gemini.google.com', affiliate: false },
+            'midjourney': { url: 'https://midjourney.com', affiliate: false },
+            'sora': { url: 'https://openai.com/sora', affiliate: false },
+            'cursor': { url: 'https://cursor.sh', affiliate: false },
+            'runway': { url: 'https://runwayml.com', affiliate: false },
+            'kling': { url: 'https://klingai.com', affiliate: false },
+            'perplexity': { url: 'https://perplexity.ai', affiliate: false },
+            'stability': { url: 'https://stability.ai', affiliate: false },
+            'grok': { url: 'https://x.ai', affiliate: false }
+        };
+        // ============================================
+
+        // Track click with GA4 and localStorage
+        function trackClick(tool, targetUrl) {
+            // GA4 event tracking
+            if (typeof gtag === 'function') {
+                gtag('event', 'tool_redirect', {
+                    'tool_name': tool,
+                    'target_url': targetUrl,
+                    'event_category': 'monetization',
+                    'event_label': 'affiliate_redirect'
+                });
+            }
+            try {
+                let clicks = JSON.parse(localStorage.getItem('tool_clicks') || '[]');
+                clicks.push({
+                    tool: tool,
+                    url: targetUrl,
+                    time: new Date().toISOString(),
+                    userAgent: navigator.userAgent.substring(0, 100)
+                });
+                if (clicks.length > 1000) clicks = clicks.slice(-1000);
+                localStorage.setItem('tool_clicks', JSON.stringify(clicks));
+                
+                let counts = JSON.parse(localStorage.getItem('click_counts') || '{}');
+                counts[tool] = (counts[tool] || 0) + 1;
+                localStorage.setItem('click_counts', JSON.stringify(counts));
+            } catch (e) {
+                console.log('Click tracking error:', e);
+            }
+        }
+
+        // Main redirect logic
+        function init() {
+            const params = new URLSearchParams(window.location.search);
+            const tool = params.get('tool');
+            const directUrl = params.get('url');
+
+            let targetUrl = directUrl;
+            let linkData = null;
+
+            if (!targetUrl && tool && affiliateLinks[tool]) {
+                linkData = affiliateLinks[tool];
+                targetUrl = linkData.url;
+            }
+
+            if (targetUrl) {
+                document.getElementById('manual-link').href = targetUrl;
+                document.getElementById('status').textContent = `Taking you to ${tool || 'the tool'}...`;
+                
+                trackClick(tool || 'direct', targetUrl);
+                
+                setTimeout(() => {
+                    window.location.href = targetUrl;
+                }, 800);
+            } else {
+                document.getElementById('status').textContent = 'Tool not found. Redirecting to homepage...';
+                document.getElementById('manual-link').href = '/';
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>

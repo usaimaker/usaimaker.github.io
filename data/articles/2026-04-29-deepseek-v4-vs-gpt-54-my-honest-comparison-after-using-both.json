@@ -1,0 +1,73 @@
+{
+  "title": "DeepSeek V4 vs GPT-5.4: My Honest Comparison After Using Both",
+  "slug": "deepseek-v4-vs-gpt-54-my-honest-comparison-after-using-both",
+  "content": "I've been testing both DeepSeek V4 Pro and GPT-5.4 Pro for the past week, and the results surprised me.\n\n## The Price Difference is Insane\n\nLet's start with the elephant in the room. DeepSeek V4 Pro costs ¥24 per million tokens. GPT-5.4 Pro? $200 per month for the subscription, plus API costs that make my wallet cry.\n\nFor my daily coding tasks, I honestly couldn't tell the difference in quality. Both handled complex refactoring, both caught edge cases, both gave me working code.\n\n## Where GPT-5.4 Wins\n\nThe computer control feature is genuinely useful. I showed it a screenshot of my IDE, and it told me exactly which buttons to click. That's something DeepSeek can't do yet.\n\nAlso, GPT-5.4's multimodal capabilities feel more polished. Upload an image, ask questions, get detailed answers. Simple and reliable.\n\n## Where DeepSeek V4 Surprised Me\n\nThe 1M context window isn't just marketing fluff. I fed it an entire codebase - seriously, like 50 files - and it actually remembered details from the first file when we discussed the last one.\n\nThe coding quality? I ran a blind test with my team. We couldn't reliably tell which model wrote which code. That's insane considering the price difference.\n\n## The Honest Truth\n\nIf you're building a product and need reliable API access, DeepSeek V4 is a no-brainer. The cost savings alone could fund your entire infrastructure.\n\nBut if you need that computer control feature or the absolute best multimodal experience, GPT-5.4 still holds the crown.\n\n## My Recommendation\n\nStart with DeepSeek V4 Flash (¥2/million tokens!) for most tasks. Upgrade to Pro only when you hit its limits. Use GPT-5.4 for specific tasks that need its unique features.\n\nYour wallet will thank you.",
+  "category": "AI Models",
+  "date": "2026-04-29",
+  "readTime": "4 min read",
+  "comments": [
+    {
+      "id": "comment_1781072346747_pixou330m",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-05-22T06:53:28.839Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1781072346747_judxplv1e",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-05-22T11:41:10.048Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1781072346747_5of0tpz09",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-05-28T16:52:54.875Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1781072346747_ogd8tlvoc",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-05-30T15:56:57.514Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1781072346747_dbvzc6mh6",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-06-09T13:27:56.903Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 5,
+  "viewCount": 288,
+  "likeCount": 15
+}

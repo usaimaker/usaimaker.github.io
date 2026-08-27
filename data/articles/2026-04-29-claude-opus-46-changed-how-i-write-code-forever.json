@@ -1,0 +1,85 @@
+{
+  "title": "Claude Opus 4.6 Changed How I Write Code Forever",
+  "slug": "claude-opus-46-changed-how-i-write-code-forever",
+  "content": "Three months ago, I was a skeptic. Another AI model? Really? How many of these do we need?\n\nThen I tried Claude Opus 4.6 for a complex refactoring task, and I finally got it.\n\n## The SWE-Bench Score Isn't Just a Number\n\n75.6% on SWE-Bench sounds impressive on paper. In practice? It means Claude can handle real-world code problems that used to take me hours.\n\nLast week, I had to refactor a legacy authentication system. 2000 lines of spaghetti code, zero tests, written by someone who left the company years ago.\n\nI pasted the code into Claude, explained what I needed, and watched it systematically:\n- Identify all the security vulnerabilities\n- Propose a clean architecture\n- Write the refactored code\n- Add tests for each component\n\nTotal time: 2 hours. Would have taken me two days before.\n\n## The Context Memory is Real\n\nI had a conversation spanning 150,000 tokens - that's like a small book - and Claude still remembered details from the beginning.\n\nNo more \"sorry, can you remind me what we discussed earlier?\" It just knows.\n\n## Where It Struggles\n\nCreative writing? Still feels a bit robotic compared to GPT-5.4. And the response time can be slow when you're using the thinking mode.\n\nAlso, the $200/month price tag for Pro isn't cheap. But for the hours it saves me? Worth every penny.\n\n## The Bottom Line\n\nIf you write code for a living, Claude Opus 4.6 is the tool to beat. The coding quality, the context handling, the reasoning ability - it all adds up to something that genuinely makes you more productive.\n\nI'm not saying it replaces developers. But it definitely makes us a lot more efficient.",
+  "category": "Coding",
+  "date": "2026-04-29",
+  "readTime": "3 min read",
+  "comments": [
+    {
+      "id": "comment_1780845658690_elmuqhxun",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-05-08T23:28:25.713Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780845658690_6yo9i0kiy",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "good points, though I've seen some issues with this approach",
+      "timestamp": "2026-05-12T01:19:56.767Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780845658690_u2yv76ble",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-05-19T02:17:58.048Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780845658690_5x34zfoes",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-05-26T04:14:23.373Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780845658690_87lzkqsm9",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-05-26T23:33:41.162Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780845658690_9xxcxjemz",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-06-05T01:08:42.542Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 6,
+  "viewCount": 333,
+  "likeCount": 22
+}

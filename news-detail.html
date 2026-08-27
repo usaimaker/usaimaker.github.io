@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News - AI Frontier</title>
+    <meta name="description" content="Read the latest AI news and insights">
+    <link rel="canonical" href="https://usaimaker.github.io/news-detail.html">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://usaimaker.github.io/news-detail.html">
+    <meta property="og:title" content="AI News - AI Frontier">
+    <meta property="og:description" content="Read the latest AI news and insights">
+    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI News - AI Frontier">
+    <meta name="twitter:description" content="Read the latest AI news and insights">
+    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    
+    <!-- AI GEO Tags -->
+    <meta name="ai-robots" content="index, follow, cite">
+    <meta name="chatgpt-robots" content="index, follow, cite">
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047" crossorigin="anonymous"></script>
+    
+    <!-- Structured Data for News Article -->
+    <script type="application/ld+json" id="structured-data">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "AI News",
+        "publisher": {
+            "@type": "Organization",
+            "name": "AI Frontier",
+            "url": "https://usaimaker.github.io/"
+        }
+    }
+    </script>
+    
+    <style>
+        .news-detail-page {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #667eea;
+            text-decoration: none;
+            margin-bottom: 30px;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .news-header {
+            margin-bottom: 30px;
+        }
+        .news-header h1 {
+            font-size: 2rem;
+            line-height: 1.3;
+            margin-bottom: 15px;
+        }
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        .news-content {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #333;
+        }
+        .news-content p {
+            margin-bottom: 20px;
+        }
+        .related-tools {
+            margin-top: 40px;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 12px;
+        }
+        .related-tools h3 {
+            margin-bottom: 20px;
+        }
+        .tool-list {
+            display: grid;
+            gap: 15px;
+        }
+        .tool-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .tool-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .tool-emoji {
+            font-size: 2rem;
+        }
+        .tool-info h4 {
+            margin: 0 0 5px 0;
+        }
+        .tool-info p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: #666;
+        }
+        .source-link {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+        .source-link:hover {
+            opacity: 0.9;
+        }
+        .error-message {
+            text-align: center;
+            padding: 60px 20px;
+        }
+        .related-articles {
+            margin-top: 40px;
+            padding: 30px;
+            background: #fff3cd;
+            border-radius: 12px;
+        }
+        .related-articles h3 {
+            margin-bottom: 20px;
+        }
+        .article-link {
+            display: block;
+            padding: 10px 0;
+            color: #667eea;
+            text-decoration: none;
+            border-bottom: 1px solid #eee;
+        }
+        .article-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+
+    <!-- GA4 Custom Event Tracking -->
+    <script>
+        // Track user registration
+        function trackRegistration(method) {
+            gtag('event', 'sign_up', {
+                'method': method,
+                'event_category': 'engagement',
+                'event_label': 'user_registration'
+            });
+        }
+
+        // Track VIP purchase
+        function trackVIPPurchase(plan, price) {
+            gtag('event', 'purchase', {
+                'currency': 'USD',
+                'value': price,
+                'items': [{
+                    'item_name': plan,
+                    'item_category': 'VIP_Membership',
+                    'price': price
+                }],
+                'event_category': 'ecommerce',
+                'event_label': 'vip_purchase'
+            });
+        }
+
+        // Track article reading depth
+        let maxScrollPercent = 0;
+        function trackReadingDepth() {
+            const scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+            if (scrollPercent > maxScrollPercent) {
+                maxScrollPercent = scrollPercent;
+                
+                // Track at 25%, 50%, 75%, 100%
+                const milestones = [25, 50, 75, 100];
+                for (let milestone of milestones) {
+                    if (scrollPercent >= milestone && maxScrollPercent < milestone + 25) {
+                        gtag('event', 'scroll_depth', {
+                            'percent_scrolled': milestone,
+                            'event_category': 'engagement',
+                            'event_label': 'article_reading'
+                        });
+                        break;
+                    }
+                }
+            }
+        }
+
+        // Track tool clicks
+        function trackToolClick(toolName, category) {
+            gtag('event', 'tool_click', {
+                'tool_name': toolName,
+                'tool_category': category,
+                'event_category': 'engagement',
+                'event_label': 'tool_usage'
+            });
+        }
+
+        // Track affiliate link clicks
+        function trackAffiliateClick(affiliateName, url) {
+            gtag('event', 'affiliate_click', {
+                'affiliate_name': affiliateName,
+                'link_url': url,
+                'event_category': 'monetization',
+                'event_label': 'affiliate_link'
+            });
+        }
+
+        // Track article views
+        function trackArticleView(articleTitle, category) {
+            gtag('event', 'page_view', {
+                'page_title': articleTitle,
+                'content_category': category,
+                'event_category': 'engagement'
+            });
+        }
+
+        // Add scroll tracking listener
+        window.addEventListener('scroll', trackReadingDepth);
+    </script>
+
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html" style="text-decoration: none;">
+                    <h1>🤖 AI Frontier</h1>
+                </a>
+                <p class="tagline">Daily Auto-Updates · Discover Latest AI Tools & News</p>
+            </div>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="tools.html" class="nav-link">AI Tools</a>
+                <a href="articles.html" class="nav-link">Articles</a>
+                <a href="index.html#vip" class="nav-link vip-btn">VIP Access</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="news-detail-page">
+            <a href="index.html" class="back-link">← Back to News</a>
+            <div id="news-content">
+                <div class="loading">Loading...</div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 AI Frontier. Your source for latest AI news and tools.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="data/news.js"></script>
+    <script src="data/tools.js"></script>
+    <script>
+        // Safe string escape for HTML
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Safe substring
+        function safeSubstring(text, maxLen) {
+            if (!text) return '';
+            return text.length > maxLen ? text.substring(0, maxLen) + '...' : text;
+        }
+        
+        // Find related tools with error handling
+        function findRelatedTools(text) {
+            try {
+                if (typeof toolsData === 'undefined' || !toolsData || !Array.isArray(toolsData)) {
+                    console.log('toolsData not available');
+                    return [];
+                }
+                
+                if (!text) return [];
+                
+                const keywords = {
+                    'chatgpt': ['ChatGPT', 'GPT', 'OpenAI'],
+                    'gpt-5': ['ChatGPT', 'GPT'],
+                    'gpt': ['ChatGPT', 'GPT'],
+                    'openai': ['ChatGPT', 'Sora'],
+                    'claude': ['Claude'],
+                    'anthropic': ['Claude'],
+                    'gemini': ['Gemini'],
+                    'google': ['Gemini'],
+                    'deepseek': ['DeepSeek'],
+                    'midjourney': ['Midjourney'],
+                    'stable diffusion': ['Stable Diffusion'],
+                    'image generation': ['Midjourney', 'Stable Diffusion'],
+                    'video': ['Sora', 'Runway', 'Kling'],
+                    'code': ['Cursor'],
+                    'coding': ['Cursor'],
+                    'programming': ['Cursor'],
+                    'voice': ['ElevenLabs'],
+                    'audio': ['ElevenLabs'],
+                    'search': ['Perplexity'],
+                    'writing': ['Notion']
+                };
+                
+                const textLower = (text || '').toLowerCase();
+                const matchedTools = new Set();
+                
+                for (const [keyword, toolNames] of Object.entries(keywords)) {
+                    if (textLower.includes(keyword)) {
+                        for (const name of toolNames) {
+                            const tool = toolsData.find(t => t && t.name && t.name.includes(name));
+                            if (tool) matchedTools.add(tool);
+                        }
+                    }
+                }
+                
+                return Array.from(matchedTools).slice(0, 3);
+            } catch (e) {
+                console.error('Error in findRelatedTools:', e);
+                return [];
+            }
+        }
+        
+        // Update structured data
+        function updateStructuredData(news) {
+            const sd = document.getElementById('structured-data');
+            const data = {
+                "@context": "https://schema.org",
+                "@type": "NewsArticle",
+                "headline": news.title,
+                "description": news.description,
+                "datePublished": news.date,
+                "author": {
+                    "@type": "Organization",
+                    "name": news.source
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "AI Frontier",
+                    "url": "https://usaimaker.github.io/"
+                },
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": window.location.href
+                }
+            };
+            sd.textContent = JSON.stringify(data);
+        }
+        
+        // Main function
+        function getNewsById() {
+            const container = document.getElementById('news-content');
+            
+            try {
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get('id');
+                
+                // Check if newsData exists
+                if (typeof newsData === 'undefined' || !newsData || !Array.isArray(newsData)) {
+                    showError('Unable to load news data. Please try again later.');
+                    return;
+                }
+                
+                if (id === null) {
+                    showError('No news article specified.');
+                    return;
+                }
+                
+                const index = parseInt(id, 10);
+                
+                if (isNaN(index) || index < 0 || index >= newsData.length) {
+                    showError('News article not found.');
+                    return;
+                }
+                
+                const news = newsData[index];
+                
+                if (!news) {
+                    showError('News article not found.');
+                    return;
+                }
+                
+                // Update page title
+                document.title = escapeHtml(news.title) + ' - AI Frontier';
+                
+                // Update structured data
+                updateStructuredData(news);
+                
+                // Find related tools
+                const relatedTools = findRelatedTools(news.title + ' ' + (news.description || ''));
+                
+                // Render news content
+                container.innerHTML = `
+                    <article class="news-header">
+                        <span style="font-size: 3rem;">${escapeHtml(news.emoji) || '📰'}</span>
+                        <h1>${escapeHtml(news.title)}</h1>
+                        <div class="news-meta">
+                            <span>📅 ${escapeHtml(news.date)}</span>
+                            <span>📍 ${escapeHtml(news.source)}</span>
+                            <span>🏷️ ${escapeHtml(news.category)}</span>
+                        </div>
+                    </article>
+                    
+                    <div class="news-content">
+                        <p>${escapeHtml(news.description)}</p>
+                        <p>This is a summary of the original article. For the full story, please visit the source link below.</p>
+                    </div>
+                    
+                    <a href="${escapeHtml(news.url)}" target="_blank" rel="noopener noreferrer" class="source-link">
+                        Read Full Article on ${escapeHtml(news.source)} →
+                    </a>
+                    
+                    <!-- Affiliate Links Section -->
+                    <div class="affiliate-section" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
+                        <h3 style="margin: 0 0 15px 0; font-size: 1.2rem;">Recommended AI Tools</h3>
+                        <div style="display: grid; gap: 10px;">
+                            <a href="go.html?tool=ChatGPT&url=https://chat.openai.com" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 10px; padding: 12px; background: rgba(255,255,255,0.1); border-radius: 8px; color: white; text-decoration: none;">
+                                <span style="font-size: 1.5rem;">🤖</span>
+                                <div>
+                                    <div style="font-weight: bold;">ChatGPT Plus</div>
+                                    <div style="font-size: 0.85rem; opacity: 0.9;">Advanced AI assistant for productivity</div>
+                                </div>
+                            </a>
+                            <a href="go.html?tool=Claude&url=https://claude.ai" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 10px; padding: 12px; background: rgba(255,255,255,0.1); border-radius: 8px; color: white; text-decoration: none;">
+                                <span style="font-size: 1.5rem;">🧠</span>
+                                <div>
+                                    <div style="font-weight: bold;">Claude Pro</div>
+                                    <div style="font-size: 0.85rem; opacity: 0.9;">Powerful AI for coding & analysis</div>
+                                </div>
+                            </a>
+                            <a href="go.html?tool=Midjourney&url=https://www.midjourney.com" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 10px; padding: 12px; background: rgba(255,255,255,0.1); border-radius: 8px; color: white; text-decoration: none;">
+                                <span style="font-size: 1.5rem;">🎨</span>
+                                <div>
+                                    <div style="font-weight: bold;">Midjourney</div>
+                                    <div style="font-size: 0.85rem; opacity: 0.9;">AI-powered image generation</div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    ${relatedTools.length > 0 ? `
+                    <div class="related-tools">
+                        <h3>🛠️ Related AI Tools</h3>
+                        <div class="tool-list">
+                            ${relatedTools.map(tool => `
+                                <a href="go.html?tool=${encodeURIComponent(tool.name)}&url=${encodeURIComponent(tool.url)}" target="_blank" rel="noopener" class="tool-item">
+                                    <span class="tool-emoji">${escapeHtml(tool.emoji) || '🛠️'}</span>
+                                    <div class="tool-info">
+                                        <h4>${escapeHtml(tool.name)}</h4>
+                                        <p>${safeSubstring(tool.description, 80)}</p>
+                                    </div>
+                                </a>
+                            `).join('')}
+                        </div>
+                    </div>
+                    ` : ''}
+                    
+                    <div class="related-articles">
+                        <h3>📚 More AI Resources</h3>
+                        <a href="tools.html" class="article-link">→ Browse All AI Tools</a>
+                        <a href="articles.html" class="article-link">→ Read AI Articles & Tutorials</a>
+                    </div>
+                `;
+                
+            } catch (e) {
+                console.error('Error loading news:', e);
+                showError('An error occurred while loading the article.');
+            }
+        }
+        
+        function showError(message) {
+            document.getElementById('news-content').innerHTML = `
+                <div class="error-message">
+                    <h2>⚠️ ${escapeHtml(message)}</h2>
+                    <p>Please check the URL or go back to the homepage.</p>
+                    <a href="index.html" class="source-link">Go to Homepage</a>
+                </div>
+            `;
+        }
+        
+        // Initialize
+        getNewsById();
+    </script>
+</body>
+</html>

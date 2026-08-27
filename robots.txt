@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /go.html
+Disallow: /click-stats.html
+Disallow: /system-monitor.html
+
+
+Disallow: /test_grid.html
+
+Sitemap: https://usaimaker.github.io/sitemap.xml

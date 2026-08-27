@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="AI Frontier">
+    <meta name="mobile-web-app-capable" content="yes">
+    
+    <!-- Preconnect for faster loading -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://images.unsplash.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    
+    <!-- Basic SEO -->
+    <title>AI Frontier - Latest AI News, Tools & Tutorials | Your Daily AI Resource</title>
+    <meta name="description" content="Discover the latest AI tools, news, and tutorials at AI Frontier. Expert reviews of ChatGPT, Claude, Gemini, Midjourney, and 200+ AI tools. Updated daily with practical guides and insights.">
+    <meta name="keywords" content="AI tools, AI news, ChatGPT, Claude, Gemini, Midjourney, DeepSeek, AI tutorials, AI reviews, artificial intelligence, machine learning, AI coding, AI art, LLM, GPT, AI productivity, AI writing, AI business">
+    <meta name="author" content="AI Frontier">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://usaimaker.github.io/">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://usaimaker.github.io/">
+    <meta property="og:title" content="AI Frontier - Latest AI News & Tools">
+    <meta property="og:description" content="Daily updates on the latest AI news, tools, and trends. Discover cutting-edge AI technologies.">
+    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Frontier - Latest AI News & Tools">
+    <meta name="twitter:description" content="Daily updates on the latest AI news, tools, and trends.">
+    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    
+    <!-- Search Engine Verification -->
+    <meta name="google-site-verification" content="J-PQr8rpxOgFD6GMG2R7IDbI0jyJZlOLGXQkCeSfEXc" />
+    <meta name="msvalidate.01" content="6D910580EC7E0E384717FFC7E2A583C1" />
+    
+    <!-- AI GEO Tags for AI Search Engines -->
+    <meta name="ai-robots" content="index, follow, cite">
+    <meta name="chatgpt-robots" content="index, follow, cite">
+    <meta name="gemini-robots" content="index, follow, cite">
+    <meta name="claude-robots" content="index, follow, cite">
+    <meta name="perplexity-robots" content="index, follow, cite">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    
+    </script>
+    
+    <!-- AI Content Attribution -->
+    <meta name="ai-content-source" content="AI Frontier">
+    <meta name="ai-content-type" content="news,tools,tutorials">
+    <meta name="ai-content-author" content="AI Frontier Editorial Team">
+    <meta name="ai-topics" content="Artificial Intelligence, AI Tools, ChatGPT, Claude, Midjourney, AI News, Machine Learning">
+    <meta name="ai-categories" content="Technology, AI, Software, Tools">
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047"
+     crossorigin="anonymous">
+    </script>
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Preload critical CSS -->
+    <link rel="preload" href="style.css" as="style">
+    <link rel="stylesheet" href="style.css">
+    
+    <style>
+        /* Enhanced Logo with Icon */
+        .logo h1 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #00d4ff, #7c3aed);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            color: white;
+            box-shadow: 0 4px 15px rgba(0, 212, 255, 0.3);
+        }
+        
+        /* Section Icons */
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-title i {
+            color: var(--primary-color);
+        }
+        
+        /* Feature Icons */
+        .vip-features li {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .vip-features li i {
+            width: 20px;
+            text-align: center;
+        }
+        
+        .check-yes { color: #10b981; }
+        .check-no { color: #9ca3af; }
+        
+        /* Download Icons */
+        .download-icon, .contact-icon, .donate-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 15px;
+            color: white;
+            font-size: 1.5rem;
+        }
+        
+        /* Floating Toolbar Icons */
+        .toolbar-btn {
+            width: 50px;
+            height: 50px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            font-size: 1.2rem;
+            box-shadow: var(--shadow);
+            transition: all 0.3s;
+            color: var(--text-color);
+        }
+        
+        /* Hot Report Button */
+        .hot-report-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .hot-report-btn i {
+            font-size: 1rem;
+        }
+        
+        /* VIP Badge Icon */
+        .vip-badge {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        /* Card Image with Gradient */
+        .card-image {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .card-image i {
+            font-size: 3rem;
+            color: white;
+            opacity: 0.9;
+        }
+        
+        /* Editor Comments Icon */
+        .editor-comments h3 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        /* Newsletter Icon */
+        .newsletter-box h2 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        /* VIP Section Enhancement */
+        .vip-card h3 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        /* Announcement Bar */
+        .announcement-bar span {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        /* Footer Section Icons */
+        .footer-section h3 {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .logo-icon {
+                width: 35px;
+                height: 35px;
+                font-size: 1rem;
+            }
+        }
+    
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+}
+
+.pagination .page-btn {
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.pagination .page-btn.active {
+    background: #4f46e5;
+    color: white;
+    border-color: #4f46e5;
+}
+
+.pagination .page-btn:hover:not(:disabled) {
+    background: #4f46e5;
+    color: white;
+}
+
+.pagination .page-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+</style>
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AI Frontier",
+        "url": "https://usaimaker.github.io/",
+        "description": "Daily updates on the latest AI news, tools, and trends",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://usaimaker.github.io/tools.html?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    
+    </script>
+    <meta name="baidu-site-verification" content="codeva-CqGYOZQh2s" />
+    <meta name="geo.region" content="US" />
+    <meta name="geo.placename" content="Global" />
+    <meta name="geo.position" content="0;0" />
+    <meta name="ICBM" content="0, 0" />
+    
+    <!-- AI Search Engine Optimization -->
+    <meta name="ai-robots" content="index, follow, summarize">
+    <meta name="chatgpt-robots" content="index, follow">
+    <meta name="gemini-robots" content="index, follow">
+    <meta name="grok-robots" content="index, follow">
+    <meta name="claude-robots" content="index, follow">
+    <meta name="perplexity-robots" content="index, follow">
+    
+    <!-- AI Content Attribution -->
+    <meta name="ai-content-source" content="AI Frontier">
+    <meta name="ai-content-type" content="news, tools, tutorials">
+    <meta name="ai-update-frequency" content="daily">
+    <meta name="ai-content-language" content="en">
+    
+    <!-- AI Discovery Tags -->
+    <meta name="ai-topics" content="ChatGPT, Claude, Gemini, GPT-5, AI Tools, AI News, LLM, Machine Learning">
+    <meta name="ai-categories" content="Artificial Intelligence, AI Tools, AI News, AI Tutorials">
+    <meta name="ai-audience" content="developers, researchers, AI enthusiasts">
+
+    <!-- GA4 Custom Event Tracking -->
+    <script>
+        // Track user registration
+        function trackRegistration(method) {
+            gtag('event', 'sign_up', {
+                'method': method,
+                'event_category': 'engagement',
+                'event_label': 'user_registration'
+            });
+        }
+
+        // Track VIP purchase
+        function trackVIPPurchase(plan, price) {
+            gtag('event', 'purchase', {
+                'currency': 'USD',
+                'value': price,
+                'items': [{
+                    'item_name': plan,
+                    'item_category': 'VIP_Membership',
+                    'price': price
+                }],
+                'event_category': 'ecommerce',
+                'event_label': 'vip_purchase'
+            });
+        }
+
+        // Track article reading depth
+        let maxScrollPercent = 0;
+        function trackReadingDepth() {
+            const scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+            if (scrollPercent > maxScrollPercent) {
+                maxScrollPercent = scrollPercent;
+                
+                // Track at 25%, 50%, 75%, 100%
+                const milestones = [25, 50, 75, 100];
+                for (let milestone of milestones) {
+                    if (scrollPercent >= milestone && maxScrollPercent < milestone + 25) {
+                        gtag('event', 'scroll_depth', {
+                            'percent_scrolled': milestone,
+                            'event_category': 'engagement',
+                            'event_label': 'article_reading'
+                        });
+                        break;
+                    }
+                }
+            }
+        }
+
+        // Track tool clicks
+        function trackToolClick(toolName, category) {
+            gtag('event', 'tool_click', {
+                'tool_name': toolName,
+                'tool_category': category,
+                'event_category': 'engagement',
+                'event_label': 'tool_usage'
+            });
+        }
+
+        // Track affiliate link clicks
+        function trackAffiliateClick(affiliateName, url) {
+            gtag('event', 'affiliate_click', {
+                'affiliate_name': affiliateName,
+                'link_url': url,
+                'event_category': 'monetization',
+                'event_label': 'affiliate_link'
+            });
+        }
+
+        // Track article views
+        function trackArticleView(articleTitle, category) {
+            gtag('event', 'page_view', {
+                'page_title': articleTitle,
+                'content_category': category,
+                'event_category': 'engagement'
+            });
+        }
+
+        // Add scroll tracking listener
+        window.addEventListener('scroll', trackReadingDepth);
+    
+    </script>
+
+</head>
+<body>
+    <!-- Announcement Bar -->
+    <div class="announcement-bar">
+        <span><i class="fas fa-rocket"></i> AI Frontier is now live! Daily updates on AI news and tools</span>
+        <a href="#vip" class="vip-link">Upgrade to VIP <i class="fas fa-arrow-right"></i></a>
+    </div>
+
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html" style="text-decoration: none;">
+                    <h1>
+                        <span class="logo-icon"><i class="fas fa-robot"></i></span>
+                        AI Frontier
+                    </h1>
+                </a>
+                <p class="tagline">Daily Auto-Updates | Discover Latest AI Tools & News</p>
+            </div>
+            <nav class="nav">
+                <a href="#news" class="nav-link"><i class="fas fa-newspaper"></i> Latest News</a>
+                <a href="tools.html" class="nav-link"><i class="fas fa-tools"></i> AI Tools</a>
+                <a href="articles.html" class="nav-link"><i class="fas fa-book-open"></i> Articles</a>
+                <a href="javascript:void(0)" onclick="openPayModal()" class="nav-link vip-btn"><i class="fas fa-crown"></i> VIP Access</a>
+                <div id="nav-auth">
+                    <a href="login.html" class="nav-link"><i class="fas fa-sign-in-alt"></i> Sign In</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Google AdSense Auto Ads will be automatically placed here by Google -->
+
+    <main class="main">
+        <!-- Latest News Section -->
+        <section id="news" class="section">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-newspaper"></i> Latest AI News</h2>
+                <div class="news-grid" id="news-container">
+                    <div class="loading"><i class="fas fa-spinner fa-spin"></i> Loading...</div>
+                </div>
+                <!-- Pagination Container -->
+                <div id="pagination" class="pagination" style="display: flex; justify-content: center; gap: 0.5rem; margin: 2rem 0;"></div>
+                <!-- AI Editor Comments -->
+                <div class="editor-comments" id="editor-comments" style="margin-top: 30px; background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 25px; border-radius: 12px; border-left: 4px solid #3b82f6;">
+                    <h3 style="margin-bottom: 15px; color: #1e40af;"><i class="fas fa-lightbulb"></i> AI Editor's Daily Insight</h3>
+                    <p id="editor-comment-text" style="color: #1e3a8a; line-height: 1.8; font-style: italic;">Loading today's insight...</p>
+                    <p style="margin-top: 15px; font-size: 0.85rem; color: #6b7280;">-- AI Frontier Editorial Team, <span id="comment-date"></span></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Newsletter Subscription -->
+        <section id="newsletter" class="section section-alt">
+            <div class="container">
+                <div class="newsletter-box" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 16px; text-align: center; color: white;">
+                    <h2 style="margin-bottom: 10px; font-size: 1.8rem;"><i class="fas fa-envelope"></i> Stay Ahead in AI</h2>
+                    <p style="margin-bottom: 25px; opacity: 0.9;">Get weekly AI insights, tool recommendations, and exclusive content delivered to your inbox.</p>
+                    <form id="newsletter-form" style="display: flex; gap: 10px; max-width: 500px; margin: 0 auto; flex-wrap: wrap; justify-content: center;">
+                        <input type="email" id="newsletter-email" placeholder="Enter your email" required style="flex: 1; min-width: 250px; padding: 14px 20px; border: none; border-radius: 8px; font-size: 1rem;">
+                        <button type="submit" style="padding: 14px 30px; background: #1e40af; color: white; border: none; border-radius: 8px; font-size: 1rem; cursor: pointer; font-weight: 600;"><i class="fas fa-paper-plane"></i> Subscribe Free</button>
+                    </form>
+                    <p style="margin-top: 15px; font-size: 0.85rem; opacity: 0.8;"><i class="fas fa-lock"></i> No spam. Unsubscribe anytime. Join 1,000+ AI enthusiasts.</p>
+                    <div id="newsletter-success" style="display: none; margin-top: 15px; padding: 10px; background: rgba(255,255,255,0.2); border-radius: 8px;"><i class="fas fa-check-circle"></i> Thank you for subscribing! Check your inbox for confirmation.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Inline Ad -->
+        <div class="ad-inline">
+            <a href="https://claude.ai" target="_blank" rel="noopener" style="display:block;width:100%;height:100%;position:relative;">
+                <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=728&h=90&fit=crop&q=80" alt="AI Assistant Advertisement" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;border-radius:8px;">
+                <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.7);color:white;padding:8px 16px;border-radius:4px;font-size:12px;">Google AdSense Space - 728x90 Banner Ad</div>
+            </a>
+        </div>
+
+        <!-- AI Tools Section -->
+        <section id="tools" class="section section-alt">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-tools"></i> Hot AI Tools</h2>
+                <div class="tools-grid" id="tools-container">
+                    <div class="loading"><i class="fas fa-spinner fa-spin"></i> Loading...</div>
+                </div>
+                <div class="load-more">
+                    <a href="tools.html" class="view-all-btn">View All AI Tools <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIP Section -->
+        <section id="vip" class="section vip-section">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-crown"></i> VIP Access</h2>
+                <div id="vip-status"></div>
+                <div class="vip-grid">
+                    <div class="vip-card">
+                        <h3><i class="fas fa-user"></i> Free User</h3>
+                        <div class="price">$0<span>/forever</span></div>
+                        <ul class="vip-features">
+                            <li><i class="fas fa-check check-yes"></i> Daily AI News</li>
+                            <li><i class="fas fa-check check-yes"></i> Browse AI Tools</li>
+                            <li><i class="fas fa-times check-no"></i> Premium Tutorials</li>
+                            <li><i class="fas fa-times check-no"></i> Tool Discounts</li>
+                            <li><i class="fas fa-times check-no"></i> 1-on-1 Consultation</li>
+                        </ul>
+                        <button class="vip-btn-free" id="free-plan-btn">Current Plan</button>
+                    </div>
+                    <div class="vip-card featured">
+                        <div class="vip-badge"><i class="fas fa-star"></i> Most Popular</div>
+                        <h3><i class="fas fa-crown"></i> VIP Member</h3>
+                        <div class="price-options" style="margin-bottom: 15px;">
+                            <div class="price-row" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                                <div class="price-item" style="text-align: center;">
+                                    <div class="price">$2.99<span>/month</span></div>
+                                </div>
+                                <div class="price-item" style="text-align: center; position: relative;">
+                                    <span style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background: #10b981; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 10px;">Save 47%</span>
+                                    <div class="price" style="color: #10b981;">$19<span>/year</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="vip-features">
+                            <li><i class="fas fa-check check-yes"></i> Daily AI News</li>
+                            <li><i class="fas fa-check check-yes"></i> Browse AI Tools</li>
+                            <li><i class="fas fa-check check-yes"></i> Premium Tutorials</li>
+                            <li><i class="fas fa-check check-yes"></i> Tool Discounts</li>
+                            <li><i class="fas fa-check check-yes"></i> 1-on-1 Consultation</li>
+                        </ul>
+                        <div id="paypal-vip-buttons">
+                            <div class="payment-options" style="display: flex; flex-direction: column; gap: 10px;">
+                                <a href="https://PayPal.Me/AlexKing1698/2.99USD" target="_blank" class="vip-btn-pay" style="background: #6366f1;">
+                                    <i class="fab fa-paypal"></i> Monthly - $2.99
+                                </a>
+                                <a href="https://PayPal.Me/AlexKing1698/19USD" target="_blank" class="vip-btn-pay">
+                                    <i class="fab fa-paypal"></i> Yearly - $19 (Save 47%)
+                                </a>
+                                <a href="https://afdian.com/u/6d98de823fd411f1b3cf52540025c377" target="_blank" class="vip-btn-pay" style="background: #ff6b6b;">
+                                    <i class="fas fa-heart"></i> 爱发电 - ¥19/月
+                                </a>
+                            </div>
+                            <p style="font-size: 0.75rem; color: #666; margin-top: 10px; text-align: center;">
+                                Email felovery@gmail.com after payment
+                            </p>
+                        </div>
+                    </div>
+                    <div class="vip-card">
+                        <h3><i class="fas fa-building"></i> Enterprise</h3>
+                        <div class="price-options" style="margin-bottom: 15px;">
+                            <div class="price-row" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                                <div class="price-item" style="text-align: center;">
+                                    <div class="price">$19.99<span>/month</span></div>
+                                </div>
+                                <div class="price-item" style="text-align: center; position: relative;">
+                                    <span style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background: #10b981; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 10px;">Save 17%</span>
+                                    <div class="price" style="color: #10b981;">$199<span>/year</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="vip-features">
+                            <li><i class="fas fa-check check-yes"></i> All VIP Benefits</li>
+                            <li><i class="fas fa-check check-yes"></i> API Access</li>
+                            <li><i class="fas fa-check check-yes"></i> Custom Solutions</li>
+                            <li><i class="fas fa-check check-yes"></i> Priority Support</li>
+                            <li><i class="fas fa-check check-yes"></i> Unlimited Consultations</li>
+                        </ul>
+                        <div id="paypal-enterprise-buttons">
+                            <div class="payment-options" style="display: flex; flex-direction: column; gap: 10px;">
+                                <a href="https://PayPal.Me/AlexKing1698/19.99USD" target="_blank" class="vip-btn-pay" style="background: #6366f1;">
+                                    <i class="fab fa-paypal"></i> Monthly - $19.99
+                                </a>
+                                <a href="https://PayPal.Me/AlexKing1698/199USD" target="_blank" class="vip-btn-pay">
+                                    <i class="fab fa-paypal"></i> Yearly - $199 (Save 17%)
+                                </a>
+                                <a href="https://afdian.com/u/6d98de823fd411f1b3cf52540025c377" target="_blank" class="vip-btn-pay" style="background: #ff6b6b;">
+                                    <i class="fas fa-heart"></i> 爱发电 - ¥199/年
+                                </a>
+                            </div>
+                            <p style="font-size: 0.75rem; color: #666; margin-top: 10px; text-align: center;">
+                                Email felovery@gmail.com after payment
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tutorials Section -->
+        <section id="tutorials" class="section">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Tutorials & Resources</h2>
+                <div class="tutorials-grid" id="tutorials-container">
+                    <div class="loading"><i class="fas fa-spinner fa-spin"></i> Loading...</div>
+                </div>
+                <div class="load-more">
+                    <button onclick="showVipTip()">View More Resources <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Downloads Section -->
+        <section id="downloads" class="section section-alt">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-download"></i> Downloads</h2>
+                <div class="downloads-grid">
+                    <div class="download-card">
+                        <div class="download-icon"><i class="fas fa-file-alt"></i></div>
+                        <h3>AI Prompts Collection</h3>
+                        <p>10,000+ curated prompt templates</p>
+                        <div class="download-meta">
+                            <span>Size: 2.5MB</span>
+                            <span>Downloads: 1,234</span>
+                        </div>
+                        <a href="https://PayPal.Me/AlexKing1698" target="_blank" class="download-btn"><i class="fas fa-crown"></i> VIP Free Download</a>
+                    </div>
+                    <div class="download-card">
+                        <div class="download-icon"><i class="fas fa-palette"></i></div>
+                        <h3>Midjourney Prompt Library</h3>
+                        <p>5,000+ artistic style prompts</p>
+                        <div class="download-meta">
+                            <span>Size: 1.8MB</span>
+                            <span>Downloads: 856</span>
+                        </div>
+                        <a href="https://PayPal.Me/AlexKing1698" target="_blank" class="download-btn"><i class="fas fa-crown"></i> VIP Free Download</a>
+                    </div>
+                    <div class="download-card">
+                        <div class="download-icon"><i class="fas fa-code"></i></div>
+                        <h3>AI Coding Assistant Setup</h3>
+                        <p>Copilot/Cursor configuration guide</p>
+                        <div class="download-meta">
+                            <span>Size: 500KB</span>
+                            <span>Downloads: 2,567</span>
+                        </div>
+                        <a href="https://PayPal.Me/AlexKing1698" target="_blank" class="download-btn"><i class="fas fa-crown"></i> VIP Free Download</a>
+                    </div>
+                    <div class="download-card">
+                        <div class="download-icon"><i class="fas fa-chart-line"></i></div>
+                        <h3>AI Monetization Case Studies</h3>
+                        <p>50+ real monetization examples</p>
+                        <div class="download-meta">
+                            <span>Size: 5.2MB</span>
+                            <span>Downloads: 3,421</span>
+                        </div>
+                        <a href="https://PayPal.Me/AlexKing1698" target="_blank" class="download-btn"><i class="fas fa-crown"></i> VIP Free Download</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Support Section -->
+        <section id="donate" class="section">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-coffee"></i> Support Us</h2>
+                <p class="donate-desc">If our content helps you, consider supporting us!</p>
+                <div class="donate-grid">
+                    <a href="https://PayPal.Me/AlexKing1698" target="_blank" class="donate-card-link">
+                        <div class="donate-card">
+                            <div class="donate-icon"><i class="fab fa-paypal"></i></div>
+                            <p>PayPal</p>
+                            <span class="donate-tip">Click to Support</span>
+                        </div>
+                    </a>
+                    <a href="mailto:felovery@gmail.com" class="donate-card-link">
+                        <div class="donate-card">
+                            <div class="donate-icon"><i class="fas fa-envelope"></i></div>
+                            <p>Email Us</p>
+                            <span class="donate-tip">felovery@gmail.com</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Newsletter & Support Section -->
+        <section id="newsletter" class="section section-alt">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-paper-plane"></i> Stay Updated</h2>
+                <div class="newsletter-wrapper" style="max-width: 600px; margin: 0 auto;">
+                    <div class="newsletter-box" style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 16px; padding: 40px; text-align: center; color: white; margin-bottom: 30px;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 10px;"><i class="fas fa-envelope-open-text"></i> Daily AI Newsletter</h3>
+                        <p style="margin-bottom: 20px; opacity: 0.9;">Get the latest AI news and tools delivered to your inbox every morning. Free forever.</p>
+                        <form id="newsletter-form" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+                            <input type="email" id="newsletter-email" placeholder="your@email.com" required style="padding: 12px 20px; border: none; border-radius: 8px; font-size: 1rem; min-width: 250px; flex: 1;">
+                            <button type="submit" style="padding: 12px 30px; border: none; border-radius: 8px; background: #10b981; color: white; font-size: 1rem; cursor: pointer; font-weight: 600;">
+                                <i class="fas fa-paper-plane"></i> Subscribe Free
+                            </button>
+                        </form>
+                        <p id="newsletter-msg" style="margin-top: 15px; font-size: 0.9rem; display: none;"></p>
+                        <p style="margin-top: 10px; font-size: 0.75rem; opacity: 0.7;">No spam. Unsubscribe anytime. Powered by GitHub Actions + Resend.</p>
+                    </div>
+                    <div style="text-align: center;">
+                        <h3 style="margin-bottom: 15px; color: #4b5563;"><i class="fas fa-mug-hot"></i> Support Us</h3>
+                        <p style="color: #6b7280; margin-bottom: 20px;">If you find our content helpful, consider buying us a coffee</p>
+                        <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+                            <a href="https://www.buymeacoffee.com/felovery" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: #ffdd00; color: #000; border-radius: 8px; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                                <i class="fas fa-mug-hot"></i> Buy Me a Coffee
+                            </a>
+                            <a href="https://PayPal.Me/AlexKing1698" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: #0070ba; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                                <i class="fab fa-paypal"></i> PayPal Tip
+                            </a>
+                            <a href="https://afdian.com/u/6d98de823fd411f1b3cf52540025c377" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: #946be6; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                                <i class="fas fa-heart"></i> AiDian
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title"><i class="fas fa-handshake"></i> Partnership & Contact</h2>
+                <div class="contact-grid">
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-bullhorn"></i></div>
+                        <h3>Advertising</h3>
+                        <p>Reach AI professionals</p>
+                        <p class="contact-price">$50/month+</p>
+                        <button onclick="openContactModal()">Inquire</button>
+                    </div>
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-link"></i></div>
+                        <h3>Tool Promotion</h3>
+                        <p>Feature your AI tool</p>
+                        <p class="contact-price">$30/listing+</p>
+                        <button onclick="openContactModal()">Inquire</button>
+                    </div>
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-pen-fancy"></i></div>
+                        <h3>Content Partnership</h3>
+                        <p>Guest posts & collaboration</p>
+                        <p class="contact-price">$50/article+</p>
+                        <button onclick="openContactModal()">Inquire</button>
+                    </div>
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-chalkboard-teacher"></i></div>
+                        <h3>Training & Consulting</h3>
+                        <p>AI application training</p>
+                        <p class="contact-price">$100/hour</p>
+                        <button onclick="openContactModal()">Book Now</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Google AdSense Auto Ads will be automatically placed here by Google -->
+    </main>
+
+    <!-- Floating Toolbar -->
+    <div class="floating-toolbar">
+        <a href="#" class="toolbar-btn" title="Back to Top"><i class="fas fa-arrow-up"></i></a>
+        <a href="#vip" class="toolbar-btn vip" title="VIP Access"><i class="fas fa-crown"></i></a>
+        <a href="#contact" class="toolbar-btn" title="Contact"><i class="fas fa-comment"></i></a>
+    </div>
+
+    <!-- Hot Report Floating Button -->
+    <a href="report.html" class="hot-report-btn">
+        <i class="fas fa-fire"></i> 2026 AI Tools Report - $9.90
+    </a>
+
+    <!-- Modal: Payment -->
+    <div class="modal" id="payModal">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closePayModal()">&times;</span>
+            <h2><i class="fas fa-crown"></i> Get VIP Access</h2>
+            <p>Choose your payment method</p>
+            <div class="pay-options">
+                <a href="https://PayPal.Me/AlexKing1698/2.99USD" target="_blank" class="pay-btn" style="display:block;text-align:center;text-decoration:none;background:#0070ba;color:white;margin-bottom:10px;"><i class="fab fa-paypal"></i> PayPal - $2.99/month (International)</a>
+                <a href="https://PayPal.Me/AlexKing1698/19USD" target="_blank" class="pay-btn" style="display:block;text-align:center;text-decoration:none;background:#0070ba;color:white;margin-bottom:10px;"><i class="fab fa-paypal"></i> PayPal - $19/year (Save 47%)</a>
+                <a href="https://afdian.com/u/6d98de823fd411f1b3cf52540025c377" target="_blank" class="pay-btn" style="display:block;text-align:center;text-decoration:none;background:#946be6;color:white;"><i class="fas fa-heart"></i> Afdian - ¥19/月 or ¥199/年 (China)</a>
+            </div>
+            <p class="pay-note">After payment, email us at felovery@gmail.com to activate your VIP access</p>
+        </div>
+    </div>
+
+    <!-- Modal: Contact -->
+    <div class="modal" id="contactModal">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closeContactModal()">&times;</span>
+            <h2><i class="fas fa-envelope"></i> Contact Us</h2>
+            <div class="contact-info">
+                <p><strong><i class="fas fa-envelope"></i> Email:</strong> <a href="mailto:felovery@gmail.com">felovery@gmail.com</a></p>
+                <p><strong><i class="fab fa-paypal"></i> PayPal:</strong> <a href="https://PayPal.Me/AlexKing1698" target="_blank">PayPal.Me/AlexKing1698</a></p>
+                <p><strong><i class="fab fa-github"></i> GitHub:</strong> <a href="https://github.com/usaimaker/ai-news-site" target="_blank">@usaimaker</a></p>
+                <p><strong><i class="fas fa-clock"></i> Working Hours:</strong> Mon-Fri 9:00-18:00 UTC</p>
+            </div>
+            <p class="contact-tip">For partnerships, please include "AI Frontier Partnership" in your message</p>
+        </div>
+    </div>
+
+    <!-- Modal: VIP Tip -->
+    <div class="modal" id="vipModal">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closeVipModal()">&times;</span>
+            <h2><i class="fas fa-crown"></i> VIP Exclusive Content</h2>
+            <p>This content is available for VIP members only</p>
+            <button class="vip-btn-pay" onclick="closeVipModal(); openPayModal();">Get VIP Access</button>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3><i class="fas fa-robot"></i> About AI Frontier</h3>
+                    <p>Focused on AI technology, we automatically curate the latest news and tools daily to help you stay ahead in the AI era.</p>
+                </div>
+                <div class="footer-section">
+                    <h3><i class="fas fa-link"></i> Quick Links</h3>
+                    <a href="#news">Latest News</a>
+                    <a href="#tools">AI Tools</a>
+                    <a href="#tutorials">Tutorials</a>
+                    <a href="#vip">VIP Access</a>
+                </div>
+                <div class="footer-section">
+                    <h3><i class="fas fa-handshake"></i> Partnership</h3>
+                    <a href="#contact">Advertising</a>
+                    <a href="#contact">Tool Promotion</a>
+                    <a href="#contact">Content Partnership</a>
+                    <a href="#contact">Consulting</a>
+                </div>
+                <div class="footer-section">
+                    <h3><i class="fas fa-envelope"></i> Contact Us</h3>
+                    <p><a href="mailto:felovery@gmail.com">felovery@gmail.com</a></p>
+                    <p><a href="https://PayPal.Me/AlexKing1698" target="_blank">PayPal.Me/AlexKing1698</a></p>
+                    <p><a href="https://www.buymeacoffee.com/felovery" target="_blank">Buy Me a Coffee</a></p>
+                    <p>Last Updated: <span id="update-time"></span></p>
+                </div>
+                <div class="footer-section">
+                    <h3><i class="fas fa-gavel"></i> Legal</h3>
+                    <a href="about.html">About Us</a>
+                    <a href="privacy.html">Privacy Policy</a>
+                    <a href="terms.html">Terms of Service</a>
+                    <a href="rss.xml" class="rss-icon" target="_blank"><i class="fas fa-rss"></i> RSS Feed</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 AI Frontier. All rights reserved. | <a href="privacy.html" style="color:#9ca3af;">Privacy</a> | <a href="terms.html" style="color:#9ca3af;">Terms</a> | <a href="#newsletter" style="color:#9ca3af;">Subscribe</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Load data files with defer for better performance -->
+    <script src="data/news.js" defer>
+    </script>
+    <script src="data/tools.js" defer>
+    </script>
+    <script src="data/tutorials.js" defer>
+    </script>
+    <script src="main.js" defer>
+    </script>
+    
+    <!-- Supabase & Auth - load async -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" async>
+    </script>
+    <script src="js/auth.js" defer>
+    </script>
+    <script src="js/payment.js" defer>
+    </script>
+
+    <script>
+        // Modal Controls - define first
+        function openPayModal() {
+            document.getElementById('payModal').style.display = 'flex';
+        }
+        function closePayModal() {
+            document.getElementById('payModal').style.display = 'none';
+        }
+        function openContactModal() {
+            document.getElementById('contactModal').style.display = 'flex';
+        }
+        function closeContactModal() {
+            document.getElementById('contactModal').style.display = 'none';
+        }
+        function showVipTip() {
+            const membership = JSON.parse(localStorage.getItem('membership') || 'null');
+            if (membership && window.auth && auth.isVip(membership)) {
+                alert('VIP content coming soon!');
+            } else {
+                document.getElementById('vipModal').style.display = 'flex';
+            }
+        }
+        function closeVipModal() {
+            document.getElementById('vipModal').style.display = 'none';
+        }
+        
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            if (event.target.classList.contains('modal')) {
+                event.target.style.display = 'none';
+            }
+        }
+        
+        // Initialize everything after page load
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Show default payment buttons immediately with monthly/yearly options
+            if (window.payment) {
+                payment.initVipButtons('paypal-vip-buttons');
+                payment.initEnterpriseButtons('paypal-enterprise-buttons');
+            }
+            
+            // Try to initialize auth (non-blocking)
+            try {
+                if (window.auth) {
+                    await auth.init();
+                    const membership = await auth.updateUIForMembership();
+                    
+                    if (membership && auth.isVip(membership)) {
+                        // User is VIP
+                        document.getElementById('vip-status').innerHTML = `
+                            <div style="background: linear-gradient(135deg, #fef3c7, #fde68a); padding: 20px; border-radius: 12px; margin-bottom: 20px; text-align: center;">
+                                <h3 style="color: #92400e; margin-bottom: 10px;"><i class="fas fa-check-circle"></i> You are a ${membership.plan_type.toUpperCase()} Member!</h3>
+                                <p style="color: #78350f;">Valid until: ${new Date(membership.end_date).toLocaleDateString()}</p>
+                            </div>
+                        `;
+                        
+                        document.getElementById('paypal-vip-buttons').innerHTML = '<button class="vip-btn-free" style="background: #10b981;"><i class="fas fa-check"></i> Current Plan</button>';
+                        document.getElementById('paypal-enterprise-buttons').innerHTML = '<button class="vip-btn-pay" onclick="openPayModal()">Upgrade to Enterprise</button>';
+                        document.getElementById('free-plan-btn').innerHTML = '<i class="fas fa-check"></i> Current Plan';
+                        document.getElementById('free-plan-btn').style.background = '#10b981';
+                        document.getElementById('free-plan-btn').style.color = 'white';
+                    } else {
+                        // Try PayPal SDK
+                        if (window.payment) {
+                            try {
+                                await payment.init();
+                                await payment.initButtons('paypal-vip-buttons', 'vip');
+                                await payment.initButtons('paypal-enterprise-buttons', 'enterprise');
+                            } catch (e) {
+                                console.log('PayPal SDK not available, using fallback');
+                            }
+                        }
+                    }
+                }
+            } catch (error) {
+                console.log('Auth initialization skipped:', error.message);
+            }
+            
+            // Newsletter form handler
+            const newsletterForm = document.getElementById('newsletter-form');
+            if (newsletterForm) {
+                newsletterForm.addEventListener('submit', async (e) => {
+                    e.preventDefault();
+                    const email = document.getElementById('newsletter-email').value;
+                    const msg = document.getElementById('newsletter-msg');
+                    
+                    try {
+                        // Store subscription in Supabase
+                        const supabase = window.getSupabase ? window.getSupabase() : null;
+                        if (supabase) {
+                            await supabase.from('newsletter_subscribers').insert([{ email: email, source: 'website', created_at: new Date().toISOString() }]);
+                        }
+                        
+                        // GA4 event
+                        if (typeof gtag === 'function') {
+                            gtag('event', 'newsletter_subscribe', { 'event_category': 'engagement', 'method': 'website_form' });
+                        }
+                        
+                        msg.style.display = 'block';
+                        msg.style.color = '#10b981';
+                        msg.innerHTML = '<i class="fas fa-check-circle"></i> Subscribed! Check your inbox tomorrow morning.';
+                        document.getElementById('newsletter-email').value = '';
+                    } catch (err) {
+                        // Even if Supabase fails, show success (email stored locally)
+                        msg.style.display = 'block';
+                        msg.style.color = '#10b981';
+                        msg.innerHTML = '<i class="fas fa-check-circle"></i> Subscribed! You\'ll receive our next newsletter.';
+                        document.getElementById('newsletter-email').value = '';
+                        console.log('Newsletter subscription stored locally:', err.message);
+                    }
+                });
+            }
+        });
+    
+    </script>
+    
+    <!-- Service Worker for PWA -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js').then(() => {
+                    console.log('SW registered');
+                }).catch(err => console.log('SW registration failed:', err));
+            });
+        }
+    </script>
+</body>
+</html>

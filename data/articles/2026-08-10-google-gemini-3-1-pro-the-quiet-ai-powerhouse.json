@@ -1,0 +1,8 @@
+{
+  "title": "Google Gemini 3.1 Pro: The Quiet AI Powerhouse",
+  "slug": "google-gemini-3-1-pro-the-quiet-ai-powerhouse",
+  "category": "AI Tools",
+  "date": "2026-08-10",
+  "readTime": "5 min read",
+  "content": "While everyone is talking about GPT-5 and Claude 4.7, Google's Gemini 3.1 Pro has quietly become one of the best AI models available. Here's why it deserves more attention.\n\n## The Multimodal Advantage\n\nGemini 3.1 Pro was built from the ground up to be natively multimodal. Unlike other models that bolt on vision and audio capabilities, Gemini processes text, images, video, and audio through a unified architecture. This means it truly understands the relationship between different modalities.\n\n## Integration with Google Workspace\n\nThe biggest advantage of Gemini 3.1 Pro is its deep integration with Google Workspace. It can read your Gmail, analyze your Sheets, watch your YouTube videos, and help you write Docs - all in one conversation. This level of integration is something no other AI model can match.\n\n## Performance Benchmarks\n\nOn standard benchmarks, Gemini 3.1 Pro scores higher than GPT-4 in reasoning, math, and coding. It's particularly strong in long-context tasks, thanks to its 2 million token context window - the longest of any commercial model.\n\n## The Price Advantage\n\nAt $0.003 per 1K input tokens, Gemini 3.1 Pro is significantly cheaper than both GPT-5 and Claude 4.7 Opus. For high-volume applications, this price difference adds up quickly."
+}

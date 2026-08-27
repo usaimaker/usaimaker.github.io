@@ -1,0 +1,37 @@
+{
+  "title": "GitHub Copilot vs Cursor: My honest comparison",
+  "slug": "github-copilot-vs-cursor-my-honest-comparison",
+  "content": "I've spent the last few weeks tinkering with GitHub Copilot and Cursor, two AI-powered coding tools that promise to make my life easier. My first impression of Copilot was that it's ridiculously good at suggesting code, almost to the point where I felt like I was cheating. I recall one instance where I was struggling to implement a complex algorithm, and Copilot's suggestion was spot on - it saved me hours of debugging.\n\n## First Impressions\nMy experience with Cursor, on the other hand, was a bit more rocky - it took me a while to get used to its quirky interface and sometimes questionable suggestions. I remember trying to use it to write a simple Python script, and it kept suggesting unnecessary imports and convoluted solutions. I was about to give up on it when I realized I had misconfigured the settings - an honest moment for me, as I should've RTFM before diving in.\n\nAs I delved deeper into both tools, I started to appreciate their unique strengths and weaknesses. Copilot's ability to understand context and suggest relevant code is unparalleled, but it can be a bit too aggressive at times, completing entire functions without my input. I've found myself having to delete and re-write code just to feel like I'm still in control. \n\n## The Good and the Bad\nCursor, on the other hand, is more subdued in its suggestions, but sometimes struggles to understand the nuances of my code. I've had instances where it suggested solutions that were technically correct but didn't quite fit the project's requirements. I've learned to take its suggestions with a grain of salt and use them as a starting point for my own research. \n\nOne thing that's impressed me about both tools is their ability to learn from my coding habits and adapt over time. I've noticed that Copilot's suggestions have become more accurate and relevant as I've used it more, almost as if it's gotten to know my coding style. Cursor, too, has improved its suggestions, although I've had to provide more explicit feedback to get it to where I want it to be.\n\n## Real-World Usage\nIn a recent project, I used both tools to implement a complex data processing pipeline. Copilot was a huge help in getting the basic structure in place, but I had to rely on Cursor's more subtle suggestions to optimize and refine the code. It was a bit of a dance, switching between the two tools, but the end result was well worth it - the pipeline performed flawlessly, and I felt like I'd learned something new about how to work with these AI-powered assistants.\n\nThere have been times, though, when I've felt like I'm just along for the ride, with the tools doing all the heavy lifting. It's a strange feeling, like I'm losing my edge as a programmer. I've had to remind myself that the goal is to produce high-quality code, not to prove my own worth as a coder. \n\n## The Human Factor\nI've also noticed that my coding habits have changed since I started using these tools - I'm more inclined to take risks and try new approaches, knowing that I have a safety net to fall back on. It's liberating, in a way, but also a bit unsettling, as I worry about becoming too reliant on the AI crutch. I've had to make a conscious effort to stay engaged and focused, rather than just letting the tools do all the work.\n\nAs I continue to work with GitHub Copilot and Cursor, I'm excited to see how they'll evolve and improve. I'm not naive enough to think they'll replace human intuition and judgment entirely, but I do believe they can be powerful allies in the coding process. For now, I'm just enjoying the ride and seeing where these tools take me - and my code.",
+  "category": "AI Coding Tools",
+  "date": "2026-05-11",
+  "readTime": "4 min read",
+  "comments": [
+    {
+      "id": "comment_1781245793278_n8it4nt2s",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-05-17T03:09:46.077Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1781245793278_oic69p9az",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-06-02T15:33:12.069Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 2,
+  "viewCount": 70,
+  "likeCount": 34
+}

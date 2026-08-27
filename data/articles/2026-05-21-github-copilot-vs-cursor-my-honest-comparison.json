@@ -1,0 +1,61 @@
+{
+  "title": "GitHub Copilot vs Cursor: My honest comparison",
+  "slug": "github-copilot-vs-cursor-my-honest-comparison",
+  "content": "I've been using both GitHub Copilot and Cursor for a while now, and I have to say, my experience has been a mixed bag - sometimes brilliant, other times infuriating. My goal is to get work done quickly, so I don't have time for tools that don't deliver, and that's exactly what I'll be sharing with you - my real-world experience with these two tools. I've been trying to streamline my workflow, and I thought these tools could help.\n\n## My Workflow\nI work on a lot of projects simultaneously, and my codebase is a mess - I know it, and I'm not proud of it, but that's just the way it is when you're juggling multiple deadlines. I need tools that can keep up with me, and that's where GitHub Copilot and Cursor come in - or at least, that's what I thought. I've been using GitHub Copilot for a few months now, and it's been a huge help with suggesting code and auto-completing tasks, but sometimes its suggestions are way off, and I find myself wasting more time correcting its mistakes.\n\n## The Cursor Experience\nCursor, on the other hand, has been a more recent addition to my workflow, and I have to say, I'm impressed - its ability to understand the context of my code and provide relevant suggestions is unparalleled. However, I've noticed that it can be a bit slow, especially when working on larger projects, and that's a major frustration for me - I don't have time to wait around for my tools to catch up. I've tried to use it on some of my smaller projects, and it's been a great help, but I'm not sure if it's ready for prime time just yet.\n\n## Real-World Results\nI recently worked on a project where I had to implement a complex algorithm, and GitHub Copilot was a huge help - its suggestions were spot on, and I was able to get the job done quickly. However, when I tried to use Cursor on the same project, it struggled to keep up, and I ended up having to do a lot of the work manually - that was a bit of a disappointment, but I'm willing to give it another chance. I've also noticed that GitHub Copilot can be a bit too aggressive with its suggestions, often trying to complete entire lines of code for me, which can be frustrating when I'm just trying to get a simple task done.\n\n## Honest Moment\nI have to admit, I made a mistake when I first started using GitHub Copilot - I didn't take the time to properly configure it, and as a result, it was suggesting code that was completely irrelevant to my project. That was a waste of time, and I was frustrated with myself for not being more careful - it just goes to show that even with the best tools, you still need to put in the effort to get the most out of them. I've since taken the time to properly set it up, and it's been a huge help, but it's a lesson learned - don't expect tools to do all the work for you.\n\n## Comparison Time\nSo, how do these two tools stack up against each other - for me, it's a tough call, as both have their strengths and weaknesses. GitHub Copilot is great for suggesting code and auto-completing tasks, but its suggestions can be hit or miss, and it can be a bit too aggressive at times. Cursor, on the other hand, is more contextual and provides more relevant suggestions, but it can be slow, and it's not yet ready for larger projects - I'm hoping they'll address these issues in future updates. I've been using both tools on a daily basis, and I have to say, they've both become essential parts of my workflow.\n\n## The Verdict\nI'm not going to lie, I'm still figuring out how to get the most out of both GitHub Copilot and Cursor - it's a process, and it takes time, but I'm willing to put in the effort if it means getting my work done more efficiently. I've been experimenting with different configurations and settings, and I'm starting to see some real benefits - my code is cleaner, my workflow is smoother, and I'm getting more done in less time. That's what it's all about for me - getting the job done quickly and efficiently, without sacrificing quality.",
+  "category": "AI Coding Tools",
+  "date": "2026-05-21",
+  "readTime": "4 min read",
+  "comments": [
+    {
+      "id": "comment_1780591825997_0qt3frnvw",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-05-09T23:36:50.610Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1780591825998_bwld14jdt",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-05-24T02:26:19.027Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780591825998_ujv9hpdnw",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-05-29T17:49:36.157Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1780591825998_e5nlr0aev",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-05-30T10:00:37.302Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 4,
+  "viewCount": 436,
+  "likeCount": 20
+}

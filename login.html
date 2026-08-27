@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In - AI Frontier</title>
+    <meta name="description" content="Sign in to your AI Frontier account to access VIP content and features.">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .auth-page {
+            min-height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+        .auth-container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            width: 100%;
+            max-width: 420px;
+        }
+        .auth-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .auth-header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            color: #1a1a2e;
+        }
+        .auth-header p {
+            color: #666;
+        }
+        .auth-tabs {
+            display: flex;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #eee;
+        }
+        .auth-tab {
+            flex: 1;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            color: #666;
+            font-weight: 500;
+            border-bottom: 2px solid transparent;
+            margin-bottom: -2px;
+            transition: all 0.3s;
+        }
+        .auth-tab.active {
+            color: #2563eb;
+            border-bottom-color: #2563eb;
+        }
+        .auth-form {
+            display: none;
+        }
+        .auth-form.active {
+            display: block;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: #333;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+        .form-group input:focus {
+            outline: none;
+            border-color: #2563eb;
+        }
+        .auth-btn {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .auth-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(37, 99, 235, 0.3);
+        }
+        .auth-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .auth-divider {
+            display: flex;
+            align-items: center;
+            margin: 25px 0;
+            color: #999;
+        }
+        .auth-divider::before,
+        .auth-divider::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: #e5e7eb;
+        }
+        .auth-divider span {
+            padding: 0 15px;
+            font-size: 0.9rem;
+        }
+        .auth-message {
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+        .auth-message.success {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        .auth-message.error {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        .auth-message.info {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        .forgot-password {
+            text-align: center;
+            margin-top: 15px;
+        }
+        .forgot-password a {
+            color: #2563eb;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .forgot-password a:hover {
+            text-decoration: underline;
+        }
+        .back-home {
+            text-align: center;
+            margin-top: 25px;
+        }
+        .back-home a {
+            color: #666;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .back-home a:hover {
+            color: #2563eb;
+        }
+    </style>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+
+    <!-- GA4 Custom Event Tracking -->
+    <script>
+        // Track user registration
+        function trackRegistration(method) {
+            gtag('event', 'sign_up', {
+                'method': method,
+                'event_category': 'engagement',
+                'event_label': 'user_registration'
+            });
+        }
+
+        // Track VIP purchase
+        function trackVIPPurchase(plan, price) {
+            gtag('event', 'purchase', {
+                'currency': 'USD',
+                'value': price,
+                'items': [{
+                    'item_name': plan,
+                    'item_category': 'VIP_Membership',
+                    'price': price
+                }],
+                'event_category': 'ecommerce',
+                'event_label': 'vip_purchase'
+            });
+        }
+
+        // Track article reading depth
+        let maxScrollPercent = 0;
+        function trackReadingDepth() {
+            const scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+            if (scrollPercent > maxScrollPercent) {
+                maxScrollPercent = scrollPercent;
+                
+                // Track at 25%, 50%, 75%, 100%
+                const milestones = [25, 50, 75, 100];
+                for (let milestone of milestones) {
+                    if (scrollPercent >= milestone && maxScrollPercent < milestone + 25) {
+                        gtag('event', 'scroll_depth', {
+                            'percent_scrolled': milestone,
+                            'event_category': 'engagement',
+                            'event_label': 'article_reading'
+                        });
+                        break;
+                    }
+                }
+            }
+        }
+
+        // Track tool clicks
+        function trackToolClick(toolName, category) {
+            gtag('event', 'tool_click', {
+                'tool_name': toolName,
+                'tool_category': category,
+                'event_category': 'engagement',
+                'event_label': 'tool_usage'
+            });
+        }
+
+        // Track affiliate link clicks
+        function trackAffiliateClick(affiliateName, url) {
+            gtag('event', 'affiliate_click', {
+                'affiliate_name': affiliateName,
+                'link_url': url,
+                'event_category': 'monetization',
+                'event_label': 'affiliate_link'
+            });
+        }
+
+        // Track article views
+        function trackArticleView(articleTitle, category) {
+            gtag('event', 'page_view', {
+                'page_title': articleTitle,
+                'content_category': category,
+                'event_category': 'engagement'
+            });
+        }
+
+        // Add scroll tracking listener
+        window.addEventListener('scroll', trackReadingDepth);
+    </script>
+
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html" style="text-decoration: none;">
+                    <h1>🤖 AI Frontier</h1>
+                </a>
+                <p class="tagline">Daily Auto-Updates · Discover Latest AI Tools & News</p>
+            </div>
+            <nav class="nav">
+                <a href="index.html#news" class="nav-link">Latest News</a>
+                <a href="index.html#tools" class="nav-link">AI Tools</a>
+                <a href="articles.html" class="nav-link">Articles</a>
+                <div id="nav-auth">
+                    <a href="login.html" class="nav-link" style="font-weight: bold;">Sign In</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="auth-page">
+            <div class="auth-container">
+                <div class="auth-header">
+                    <h1>Welcome Back</h1>
+                    <p>Sign in to access your VIP content</p>
+                </div>
+
+                <div class="auth-tabs">
+                    <div class="auth-tab active" onclick="switchTab('login')">Sign In</div>
+                    <div class="auth-tab" onclick="switchTab('register')">Sign Up</div>
+                </div>
+
+                <div id="message-container"></div>
+
+                <!-- Login Form -->
+                <form id="login-form" class="auth-form active" onsubmit="handleLogin(event)">
+                    <div class="form-group">
+                        <label for="login-email">Email</label>
+                        <input type="email" id="login-email" placeholder="your@email.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password">Password</label>
+                        <input type="password" id="login-password" placeholder="••••••••" required>
+                    </div>
+                    <button type="submit" class="auth-btn" id="login-btn">Sign In</button>
+                    <div class="forgot-password">
+                        <a href="#" onclick="showForgotPassword(); return false;">Forgot password?</a>
+                    </div>
+                </form>
+
+                <!-- Register Form -->
+                <form id="register-form" class="auth-form" onsubmit="handleRegister(event)">
+                    <div class="form-group">
+                        <label for="register-email">Email</label>
+                        <input type="email" id="register-email" placeholder="your@email.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-password">Password</label>
+                        <input type="password" id="register-password" placeholder="Min 6 characters" minlength="6" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-confirm">Confirm Password</label>
+                        <input type="password" id="register-confirm" placeholder="••••••••" required>
+                    </div>
+                    <button type="submit" class="auth-btn" id="register-btn">Create Account</button>
+                </form>
+
+                <!-- Forgot Password Form -->
+                <form id="forgot-form" class="auth-form" onsubmit="handleForgotPassword(event)">
+                    <div class="form-group">
+                        <label for="forgot-email">Email</label>
+                        <input type="email" id="forgot-email" placeholder="your@email.com" required>
+                    </div>
+                    <button type="submit" class="auth-btn" id="forgot-btn">Send Reset Link</button>
+                    <div class="forgot-password">
+                        <a href="#" onclick="switchTab('login'); return false;">Back to Sign In</a>
+                    </div>
+                </form>
+
+                <div class="back-home">
+                    <a href="index.html">← Back to Home</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2025 AI Frontier. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/auth.js?v=2"></script>
+    <script>
+        // Debug: Check if auth is loaded
+        console.log('Auth loaded:', typeof window.auth);
+        console.log('Auth object:', window.auth);
+        
+        // Initialize - Supabase SDK is already loaded via script tag
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Check if auth is available
+            if (typeof window.auth === 'undefined') {
+                console.error('auth.js failed to load!');
+                document.getElementById('message-container').innerHTML = '<div class="auth-message error">Failed to load authentication. Please refresh the page.</div>';
+                return;
+            }
+            
+            // Check if already logged in
+            try {
+                const user = await window.auth.getCurrentUser();
+                if (user) {
+                    showMessage('You are already signed in. Redirecting...', 'info');
+                    setTimeout(() => {
+                        window.location.href = 'index.html';
+                    }, 1500);
+                }
+            } catch (error) {
+                console.log('Not logged in');
+            }
+        });
+
+        function switchTab(tab) {
+            // Update tabs
+            document.querySelectorAll('.auth-tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.auth-form').forEach(f => f.classList.remove('active'));
+            
+            if (tab === 'login') {
+                document.querySelectorAll('.auth-tab')[0].classList.add('active');
+                document.getElementById('login-form').classList.add('active');
+            } else if (tab === 'register') {
+                document.querySelectorAll('.auth-tab')[1].classList.add('active');
+                document.getElementById('register-form').classList.add('active');
+            }
+            
+            clearMessage();
+        }
+
+        function showForgotPassword() {
+            document.querySelectorAll('.auth-tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.auth-form').forEach(f => f.classList.remove('active'));
+            document.getElementById('forgot-form').classList.add('active');
+            clearMessage();
+        }
+
+        function showMessage(text, type = 'info') {
+            const container = document.getElementById('message-container');
+            container.innerHTML = `<div class="auth-message ${type}">${text}</div>`;
+        }
+
+        function clearMessage() {
+            document.getElementById('message-container').innerHTML = '';
+        }
+
+        function setLoading(btnId, loading) {
+            const btn = document.getElementById(btnId);
+            btn.disabled = loading;
+            btn.textContent = loading ? 'Please wait...' : (btnId === 'login-btn' ? 'Sign In' : btnId === 'register-btn' ? 'Create Account' : 'Send Reset Link');
+        }
+
+        async function handleLogin(e) {
+            e.preventDefault();
+            clearMessage();
+            
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+            
+            setLoading('login-btn', true);
+            
+            try {
+                const data = await window.auth.signIn(email, password);
+                showMessage('Success! Redirecting...', 'success');
+                setTimeout(() => {
+                    window.location.href = 'index.html';
+                }, 1000);
+            } catch (error) {
+                showMessage(error.message || 'Login failed. Please try again.', 'error');
+            } finally {
+                setLoading('login-btn', false);
+            }
+        }
+
+        async function handleRegister(e) {
+            e.preventDefault();
+            clearMessage();
+            
+            const email = document.getElementById('register-email').value;
+            const password = document.getElementById('register-password').value;
+            const confirm = document.getElementById('register-confirm').value;
+            
+            if (password !== confirm) {
+                showMessage('Passwords do not match.', 'error');
+                return;
+            }
+            
+            setLoading('register-btn', true);
+            
+            try {
+                const data = await window.auth.signUp(email, password);
+                
+                // Check if auto-logged in
+                if (data.autoLoggedIn || data.session) {
+                    showMessage('Account created! Redirecting...', 'success');
+                    setTimeout(() => {
+                        window.location.href = 'index.html';
+                    }, 1000);
+                } else {
+                    showMessage('Account created! Please check your email to verify your account.', 'success');
+                }
+            } catch (error) {
+                showMessage(error.message || 'Registration failed. Please try again.', 'error');
+            } finally {
+                setLoading('register-btn', false);
+            }
+        }
+
+        async function handleForgotPassword(e) {
+            e.preventDefault();
+            clearMessage();
+            
+            const email = document.getElementById('forgot-email').value;
+            
+            setLoading('forgot-btn', true);
+            
+            try {
+                const supabase = window.getSupabase();
+                const { error } = await supabase.auth.resetPasswordForEmail(email, {
+                    redirectTo: window.location.origin + '/login.html'
+                });
+                
+                if (error) throw error;
+                showMessage('Password reset link sent! Check your email.', 'success');
+            } catch (error) {
+                showMessage(error.message || 'Failed to send reset link.', 'error');
+            } finally {
+                setLoading('forgot-btn', false);
+            }
+        }
+    </script>
+</body>
+</html>

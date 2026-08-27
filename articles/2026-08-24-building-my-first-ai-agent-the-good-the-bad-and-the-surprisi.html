@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    
+    <!-- SEO -->
+    <title>Building My First AI Agent: The Good, The Bad, and the Surprising Truths</title>
+    <meta name="description" content="I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decid...">
+    <meta name="keywords" content="AI, Artificial Intelligence, AI Agents">
+    <meta name="author" content="AI Frontier">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://usaimaker.github.io/articles/2026-08-24-building-my-first-ai-agent-the-good-the-bad-and-the-surprisi.html">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="AI Frontier">
+    <meta property="og:url" content="https://usaimaker.github.io/articles/2026-08-24-building-my-first-ai-agent-the-good-the-bad-and-the-surprisi.html">
+    <meta property="og:title" content="Building My First AI Agent: The Good, The Bad, and the Surprising Truths">
+    <meta property="og:description" content="I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decid...">
+    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:locale" content="en_US">
+    <meta property="article:published_time" content="2026-08-24">
+    <meta property="article:section" content="AI Agents">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Building My First AI Agent: The Good, The Bad, and the Surprising Truths">
+    <meta name="twitter:description" content="I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decid...">
+    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Building My First AI Agent: The Good, The Bad, and the Surprising Truths",
+        "description": "I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decid...",
+        "datePublished": "2026-08-24",
+        "author": {"@type": "Organization", "name": "AI Frontier"},
+        "publisher": {"@type": "Organization", "name": "AI Frontier", "url": "https://usaimaker.github.io/"},
+        "mainEntityOfPage": {"@type": "WebPage", "@id": "https://usaimaker.github.io/articles/2026-08-24-building-my-first-ai-agent-the-good-the-bad-and-the-surprisi.html"}
+    }
+    </script>
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047" crossorigin="anonymous"></script>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+    
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        .article-page { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        .article-header { margin-bottom: 40px; }
+        .article-meta { display: flex; gap: 15px; margin-bottom: 20px; font-size: 0.9rem; color: #888; flex-wrap: wrap; }
+        .article-category { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; }
+        .article-header h1 { font-size: 2.2rem; line-height: 1.3; margin-bottom: 20px; color: #1a1a2e; }
+        .article-content { font-size: 1.1rem; line-height: 1.8; color: #333; }
+        .article-content h2 { font-size: 1.5rem; margin-top: 40px; margin-bottom: 15px; color: #1a1a2e; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .article-content p { margin-bottom: 20px; }
+        .article-content strong { color: #1a1a2e; }
+        .back-link { display: inline-flex; align-items: center; gap: 8px; color: #667eea; text-decoration: none; margin-bottom: 30px; font-size: 0.95rem; }
+        .back-link:hover { text-decoration: underline; }
+        .article-footer { margin-top: 60px; padding-top: 30px; border-top: 1px solid #eee; }
+        .article-nav { display: flex; justify-content: space-between; gap: 20px; margin-top: 30px; }
+        .article-nav a { color: #667eea; text-decoration: none; padding: 10px 20px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.9rem; }
+        .article-nav a:hover { background: #f8f9fa; }
+    </style>
+</head>
+<body>
+    <nav style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 20px;">
+        <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
+            <a href="/" style="color: white; text-decoration: none; font-size: 1.3rem; font-weight: 700;">AI Frontier</a>
+            <div style="display: flex; gap: 25px;">
+                <a href="/articles.html" style="color: white; text-decoration: none;">Articles</a>
+                <a href="/tools.html" style="color: white; text-decoration: none;">Tools</a>
+                <a href="/about.html" style="color: white; text-decoration: none;">About</a>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="article-page">
+        <a href="/articles.html" class="back-link">&#8592; Back to Articles</a>
+        
+        <article>
+            <div class="article-header">
+                <div class="article-meta">
+                    <span class="article-category">AI Agents</span>
+                    <span>2026-08-24</span>
+                    <span>5 min read</span>
+                </div>
+                <h1>Building My First AI Agent: The Good, The Bad, and the Surprising Truths</h1>
+            </div>
+            <div class="article-content">
+                <p>I built an AI agent to automate my email triage, only to realize it was more of a time sink than a productivity booster. The idea sounded slick: let a bot decide which emails needed a reply, which could be archived, and which deserved a quick draft. But the reality was a messy mix of triumphs and frustrations that I’d never seen in the glossy demos.  </p>
+<h2>Why I Decided to Build an AI Agent  </h2>
+<p>I’ve watched too many hype cycles to ignore the promise that a well‑crafted agent could free up hours each week. My inbox swelled with 200–300 emails daily, many of which were spam or low‑priority newsletters. I thought an AI could sift through that noise and let me focus on the few that mattered.  </p>
+<h2>Choosing the Right Toolkit  </h2>
+<p>I started with LangChain because it felt modular and promised easy integration with OpenAI’s API. I also pulled in a lightweight Flask server to expose an endpoint for the agent’s decisions. The choice seemed simple: a single language, a couple of libraries, and a clear path to deployment.  </p>
+<h2>Data Collection: The First Hard Truth  </h2>
+<p>I spent three days scraping my past three months of emails to build a training set. That yielded 2,300 messages, split into three classes: “reply needed,” “archive,” and “delegate.” The initial labeling was noisy; I mis‑tagged a few important newsletters as “archive,” which later cost me a missed meeting.  </p>
+<h2>Prompt Engineering: A Love‑Hate Relationship  </h2>
+<p>Crafting prompts turned into an iterative art form. One day I wrote, “Classify this email as urgent, normal, or low priority.” The next day I added, “Include a brief rationale.” The agent started providing explanations, but the explanations were often generic, and the classification accuracy hovered around 68%. I began to wonder if my prompt was the problem or the underlying model.  </p>
+<h2>Training the Model: It Took Longer Than Expected  </h2>
+<p>I opted for OpenAI’s fine‑tuning endpoint because the base GPT‑3.5 already understood natural language. Fine‑tuning 2,300 examples took 12 hours on a modest laptop and cost me about $120. The first epoch produced an accuracy of 70%, and the second 75%. Still, that was far below the 90% I’d read about in research papers.  </p>
+<h2>Deploying: The Real Test  </h2>
+<p>I wrapped the fine‑tuned model in a Flask app and exposed a /classify route. I integrated it with my email client via a Zapier workflow that sent new messages to the agent. The first week was a disaster: the agent flagged 30% of urgent emails as “low priority,” and I missed a client deadline.  </p>
+<h2>Real‑World Performance: Where It Fell Short  </h2>
+<p>When the bot classified emails, the confidence scores were misleadingly high. A message about a budget request received a 0.98 confidence “archive” label, even though the content clearly required a reply. My own manual reviews uncovered that the model was overfitting to the word “budget” as a spam trigger.  </p>
+<h2>Unexpected Wins: The Surprising Benefits  </h2>
+<p>Despite the misclassifications, the agent did handle 40% of the routine emails automatically. It generated concise drafts for 18 out of 200 daily messages, saving me roughly 15 minutes per day. I also discovered that the agent’s “rationale” feature helped me understand why certain emails were flagged, a subtle but useful transparency tool.  </p>
+<h2>An Honest Moment: My Biggest Mistake  </h2>
+<p>I admit I was too eager to rely on the default prompt. I didn’t iterate on the instruction set until I saw that the model was treating “urgent” as a synonym for “spam.” The prompt read, “Classify this email.” The model took that literally and over‑reacted to any exclamation mark or capital letters.  </p>
+<h2>What I Learned About Overfitting  </h2>
+<p>The dataset was small and imbalanced; “archive” dominated at 60%. The model learned to default to that class. I realized that I needed a more balanced training set and perhaps a cost‑sensitive loss function. I added a synthetic set of 300 “reply needed” emails to counterbalance the bias.  </p>
+<h2>The Human Factor: When the Agent Needs a Human Touch  </h2>
+<p>Even with a balanced dataset, the agent still required human oversight. I created a simple dashboard that logged each decision and highlighted low‑confidence cases for review. That simple step reduced misclassifications by 12% over a month. The experience taught me that AI is a tool, not a replacement for judgment.  </p>
+<h2>Future Tweaks: Where I’m Heading Next  </h2>
+<p>I’m experimenting with a hierarchical approach: first a lightweight classifier to weed out obvious spam, then a more sophisticated model for the remaining 20%. I also plan to integrate user feedback directly into the fine‑tuning loop, so the agent learns from my corrections in real time.  </p>
+<p>The journey taught me that building an AI agent is less about finding a silver bullet and more about incremental improvement. It’s a process of constant testing, honest error admission, and a willingness to accept that the bot will never be perfect. That humility, I believe, is what turns an early adopter’s enthusiasm into a sustainable workflow.</p>
+            </div>
+        </article>
+        
+        <div class="article-footer">
+            <div style="text-align: center; margin: 40px 0;">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9959815194191047" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            </div>
+            <div class="article-nav">
+                <a href="/articles.html">&#8592; More Articles</a>
+                <a href="/tools.html">Explore AI Tools &#8594;</a>
+            </div>
+        </div>
+    </div>
+    
+    <footer style="background: #1a1a2e; color: #888; padding: 30px 20px; text-align: center; margin-top: 60px;">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <p>&copy; 2026 AI Frontier. Your daily AI resource.</p>
+        </div>
+    </footer>
+</body>
+</html>

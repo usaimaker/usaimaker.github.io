@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Articles - AI Frontier</title>
+    <meta name="description" content="In-depth AI articles, tutorials, and insights. Learn about ChatGPT, Claude, Midjourney, and more from real experiences.">
+    <meta name="keywords" content="AI articles, AI tutorials, ChatGPT guide, Claude tips, AI tools review">
+    <link rel="canonical" href="https://usaimaker.github.io/articles.html">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="AI Frontier">
+    <meta property="og:url" content="https://usaimaker.github.io/articles.html">
+    <meta property="og:title" content="AI Articles - AI Frontier">
+    <meta property="og:description" content="In-depth AI articles, tutorials, and insights. Learn about ChatGPT, Claude, Midjourney, and more from real experiences.">
+    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Articles - AI Frontier">
+    <meta name="twitter:description" content="In-depth AI articles, tutorials, and insights.">
+    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    
+    <!-- AI Search Engine Optimization -->
+    <meta name="ai-robots" content="index, follow, summarize">
+    <meta name="chatgpt-robots" content="index, follow">
+    <meta name="gemini-robots" content="index, follow">
+    <meta name="grok-robots" content="index, follow">
+    <meta name="claude-robots" content="index, follow">
+    <meta name="perplexity-robots" content="index, follow">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .articles-page {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .articles-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .articles-header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        .articles-header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+        .article-card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .article-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 12px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+        .article-category {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 3px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+        .article-card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 12px;
+            color: #1a1a2e;
+        }
+        .article-card h2 a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .article-card h2 a:hover {
+            color: #667eea;
+        }
+        .article-excerpt {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .article-stats {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .read-more {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #667eea;
+            text-decoration: none;
+            margin-bottom: 30px;
+        }
+        .read-more:hover {
+            text-decoration: underline;
+        }
+        .read-more {
+            color: #667eea;
+            font-weight: 500;
+            text-decoration: none;
+        }
+        .read-more:hover {
+            text-decoration: underline;
+        }
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #888;
+        }
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #667eea;
+            text-decoration: none;
+            margin-bottom: 30px;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+
+    <!-- GA4 Custom Event Tracking -->
+    <script>
+        // Track user registration
+        function trackRegistration(method) {
+            gtag('event', 'sign_up', {
+                'method': method,
+                'event_category': 'engagement',
+                'event_label': 'user_registration'
+            });
+        }
+
+        // Track VIP purchase
+        function trackVIPPurchase(plan, price) {
+            gtag('event', 'purchase', {
+                'currency': 'USD',
+                'value': price,
+                'items': [{
+                    'item_name': plan,
+                    'item_category': 'VIP_Membership',
+                    'price': price
+                }],
+                'event_category': 'ecommerce',
+                'event_label': 'vip_purchase'
+            });
+        }
+
+        // Track article reading depth
+        let maxScrollPercent = 0;
+        function trackReadingDepth() {
+            const scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+            if (scrollPercent > maxScrollPercent) {
+                maxScrollPercent = scrollPercent;
+                
+                // Track at 25%, 50%, 75%, 100%
+                const milestones = [25, 50, 75, 100];
+                for (let milestone of milestones) {
+                    if (scrollPercent >= milestone && maxScrollPercent < milestone + 25) {
+                        gtag('event', 'scroll_depth', {
+                            'percent_scrolled': milestone,
+                            'event_category': 'engagement',
+                            'event_label': 'article_reading'
+                        });
+                        break;
+                    }
+                }
+            }
+        }
+
+        // Track tool clicks
+        function trackToolClick(toolName, category) {
+            gtag('event', 'tool_click', {
+                'tool_name': toolName,
+                'tool_category': category,
+                'event_category': 'engagement',
+                'event_label': 'tool_usage'
+            });
+        }
+
+        // Track affiliate link clicks
+        function trackAffiliateClick(affiliateName, url) {
+            gtag('event', 'affiliate_click', {
+                'affiliate_name': affiliateName,
+                'link_url': url,
+                'event_category': 'monetization',
+                'event_label': 'affiliate_link'
+            });
+        }
+
+        // Track article views
+        function trackArticleView(articleTitle, category) {
+            gtag('event', 'page_view', {
+                'page_title': articleTitle,
+                'content_category': category,
+                'event_category': 'engagement'
+            });
+        }
+
+        // Add scroll tracking listener
+        window.addEventListener('scroll', trackReadingDepth);
+    </script>
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "AI Articles - AI Frontier",
+        "description": "In-depth AI articles, tutorials, and insights. Learn about ChatGPT, Claude, Midjourney, and more from real experiences.",
+        "url": "https://usaimaker.github.io/articles.html",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "AI Frontier",
+            "url": "https://usaimaker.github.io/"
+        }
+    }
+    </script>
+
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html" style="text-decoration: none;">
+                    <h1> AI Frontier</h1>
+                </a>
+                <p class="tagline">Daily Auto-Updates · Discover Latest AI Tools & News</p>
+            </div>
+            <nav class="nav">
+                <a href="index.html#news" class="nav-link">Latest News</a>
+                <a href="index.html#tools" class="nav-link">AI Tools</a>
+                <a href="articles.html" class="nav-link" style="font-weight: bold;">Articles</a>
+                <a href="index.html#vip" class="nav-link vip-btn">VIP Access</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="articles-page">
+            <div class="articles-header">
+                <h1> AI Articles & Insights</h1>
+                <p>Real experiences, honest reviews, and practical tips from the AI frontier</p>
+            </div>
+            
+            <div id="articles-container">
+                <div class="loading">Loading articles...</div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2025 AI Frontier. Content sourced from the internet for educational purposes.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        async function loadArticles() {
+            const container = document.getElementById('articles-container');
+            
+            try {
+                // Add timestamp to bypass cache
+                const response = await fetch('data/articles-index.json?t=' + Date.now());
+                const articles = await response.json();
+                
+                if (articles.length === 0) {
+                    container.innerHTML = '<div class="no-articles"><p>No articles yet. Check back soon!</p></div>';
+                    return;
+                }
+                
+                container.innerHTML = articles.map(article => `
+                    <article class="article-card">
+                        <div class="article-meta">
+                            <span class="article-category">${article.category}</span>
+                            <span> ${article.date}</span>
+                            <span> ${article.readTime}</span>
+                        </div>
+                        <h2><a href="article.html?slug=${article.slug}">${article.title}</a></h2>
+                        <p class="article-excerpt">${article.excerpt}</p>
+                        <div class="article-stats">
+                            <span class="stat-item">👁️ ${(article.viewCount || 0).toLocaleString()}</span>
+                            <span class="stat-item">❤️ ${article.likeCount || 0}</span>
+                            <span class="stat-item">💬 ${article.commentCount || 0}</span>
+                        </div>
+                        <a href="article.html?slug=${article.slug}" class="read-more">Read more &rarr;</a>
+                    </article>
+                `).join('');
+                
+            } catch (error) {
+                container.innerHTML = '<div class="no-articles"><p>Articles coming soon! We\'re generating fresh content.</p></div>';
+            }
+        }
+        
+        loadArticles();
+    </script>
+</body>
+</html>

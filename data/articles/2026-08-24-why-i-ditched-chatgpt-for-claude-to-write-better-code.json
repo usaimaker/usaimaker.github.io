@@ -1,0 +1,85 @@
+{
+  "title": "Why I Ditched ChatGPT for Claude to Write Better Code",
+  "slug": "why-i-ditched-chatgpt-for-claude-to-write-better-code",
+  "content": "## The Breaking Point at 2:15 AM\n\nThree months ago, at 2:15 AM, I almost threw my mechanical keyboard through my office window. I was trying to refactor a messy React state machine, and ChatGPT had just handed me back a truncated block of code filled with the dreaded comment: `// Rest of your logic remains the same`.\n\nThat single line cost me forty-five minutes of manual line-by-line diffing. It silently omitted three crucial edge-case state transitions I had spent all afternoon building.\n\nThat miserable night was my breaking point. I was paying twenty dollars a month for a tool that acted like an overworked freelancer cutting corners to catch",
+  "category": "Claude",
+  "date": "2026-08-24",
+  "readTime": "1 min read",
+  "comments": [
+    {
+      "id": "comment_1787554463437_j3rhmite6",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-07-26T01:09:50.064Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787554463437_dvn4aw3qj",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-08-17T15:10:16.641Z",
+      "likes": 12,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787640140065_ptgau677k",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-02T14:20:08.603Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787640140065_7cmb7nvos",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-11T17:14:02.312Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661298_2mb7w1dqu",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-01T06:17:40.455Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661298_1wwjwb1ur",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-10T08:03:50.234Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": true
+    }
+  ],
+  "commentCount": 6,
+  "viewCount": 48,
+  "likeCount": 7
+}

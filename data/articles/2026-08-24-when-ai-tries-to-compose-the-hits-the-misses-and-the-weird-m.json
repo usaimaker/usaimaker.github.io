@@ -1,0 +1,85 @@
+{
+  "title": "When AI Tries to Compose: The Hits, the Misses, and the Weird Middle",
+  "slug": "when-ai-tries-to-compose-the-hits-the-misses-and-the-weird-m",
+  "content": "I hit “generate” on a fresh AI music model and a piano‑driven loop popped out in three seconds. The first chord progression was instantly familiar, like a generic pop hook you could hear in any ad. I smiled, then cringed, because the moment the synths tried to “swing” it sounded like a robot stumbling over a jazz standard.\n\n## The Hype Machine\n\nEveryone on Twitter was posting the same screenshot: “AI just wrote my next single!” I was scrolling through endless threads of glossy videos, each promising that the next big hit would be born in a server farm. My skepticism grew each time someone claimed a model could “feel” the music. I’ve seen hype cycles in VR, in NFTs, in every new “AI‑this” that promised to replace a creative job overnight. That history made me keep one foot on the ground while my curiosity pulled the other.\n\n## My First Real Test\n\nI fed an open‑source model a dataset of 2,000 folk songs I’d collected over years of field recordings. The goal was simple: generate a new verse that could sit beside the old ones. The model spit out a 32‑measure melody that, on paper, obeyed the typical I‑IV‑V progression of the genre. I exported the MIDI, loaded it into my DAW, and let a real acoustic guitar track it. The result? A melody that sounded like it had been written by a committee that never heard a folk song in person. The phrasing was technically correct, but the emotional weight was missing, like a photograph of a sunset taken at night.\n\n## What Actually Works\n\nThere is a narrow band where AI gets surprisingly useful. When I ask a model to generate a simple drum loop at 120 BPM, it usually nails the basic kick‑snare‑hi‑hat pattern within a few seconds. I’ve used that to sketch ideas for EDM tracks, then replace the generated loop with a live‑programmed one. The model’s strength lies in providing a “blank canvas” that respects tempo and basic rhythmic structure, saving me minutes of tapping.\n\nAnother sweet spot is chord‑style accompaniment. I fed a transformer‑based model a list of 50 jazz standards, each annotated with a lead sheet. When I asked for a “smooth B‑minor minor‑9 voicing over a II‑V‑I,” the AI produced a four‑voice piano part that blended the tensions exactly where I wanted them. It wasn’t perfect; I had to nudge a few voice‑leading notes, but the result was a usable foundation for a small studio session.\n\n## The Terrible Parts\n\nThe moment I tried to generate a full arrangement with strings, brass, and vocal harmonies, the model collapsed into a chaotic soup of overlapping frequencies. The strings would slide into the brass without any sense of register, and the vocal parts would clash in pitch, creating a dissonant wall that made my ears bleed. I ran the same prompt through three different services, and all of them produced the same kind of noise—no matter how many parameters I tweaked.\n\nOne glaring flaw is the lack of long‑term structure. I asked an AI to write a three‑minute pop song with a clear verse‑chorus‑bridge layout. The model dutifully gave me 180 seconds of music, but the “chorus” was just a louder version of the “verse,” and the “bridge” was a random 8‑measure break that never resolved. I tried to force a form by inserting markers in the prompt, but the AI ignored them as if they were just decorative text.\n\n## The Honest Moment\n\nI once convinced myself that a model could replace a session guitarist for a low‑budget indie film. I generated a 2‑minute acoustic backing track, synced it to the picture, and thought I’d saved a day’s worth of work. The next morning, the director called me in a panic because the guitar’s timing drifted by half a beat during the emotional climax. I realized I’d ignored the fact that the model didn’t understand the visual cue at all. I ended up re‑recording the part with a real player, costing both time and money.\n\n## The Technical Limits\n\nMost of the models I’ve tried rely on token‑based representations of music, essentially turning notes into words. This works fine for monophonic sequences but gets messy when you have multiple instruments sharing a timeline. The token limit—often around 4,096 steps—means that anything longer than a minute of dense orchestration gets truncated or forced into a low‑resolution grid. I tried to cheat by stitching together short snippets, but the transitions always sounded jarring, like two strangers shaking hands without a proper introduction.\n\nAnother issue is the training data bias. The majority of publicly available datasets are Western pop, classical piano, or synthetic MIDI from video games. When I asked a model to produce a West African polyrhythmic pattern, it gave me a simple 4/4 beat with a misplaced off‑beat accent. The model simply didn’t have enough examples to learn the subtleties of the groove, so it defaulted to the safest pattern it knew.\n\n## How I Tame the Beast\n\nThe only way I’ve managed to get something usable out of a full‑arrangement model is to treat it as a suggestion engine, not a composer. I start with a very narrow prompt: “Generate a 4‑measure piano chord pad in C major, with a gentle rise on the third beat.” The output is usually spot‑on. Then I feed that MIDI back into the model, asking for a “melodic embellishment” on top. I repeat this loop, each time adding a constraint that the previous output must stay intact. The process is slow—about 15 minutes per iteration—but the result is a piece that feels handcrafted, because I’m the one deciding which suggestions survive.\n\nI also combine AI with traditional rule‑based tools. For instance, I use a harmonic analysis plugin to detect any illegal voice leading in the AI‑generated chord progressions. When the plugin flags a parallel fifth, I manually adjust the offending voice. This hybrid approach keeps the creative spark of the model while ensuring the music adheres to the standards I’m comfortable with.\n\n## Real Numbers from My Experiments\n\nOver the past year I logged the time I spent on three types of tasks: drum loop generation, chord accompaniment, and full arrangement. Drum loops averaged 45 seconds of model time plus 30 seconds of tweaking, saving about 5 minutes per track compared to programming them manually. Chord accompaniments took roughly 2 minutes of AI output and 1 minute of voice‑leading correction, cutting my workflow by about 30 %. Full arrangements, however, required 10–15 minutes of AI output, followed by 30–45 minutes of manual editing, often ending up longer than if I’d just written them from scratch.\n\nWhen I calculate the cost of API usage—$0.002 per second of generated audio—the drum loops cost me less than a cent each, chord pads about $0.01, and full arrangements $0.10. The monetary cost is negligible; the real expense is the mental energy spent rescuing the output.\n\n## The Emotional Blind Spot\n\nMusic isn’t just notes and timing; it’s intention. I tried to get an AI to write a funeral piece for a friend’s memorial. I fed it a set of minor‑key hymns and asked for a “somber, reflective tone.” The result was technically appropriate—a slow tempo, minor chords, a steady string pad—but it felt hollow, like a soundtrack for a video game cutscene rather than a personal farewell. I realized the model has no concept of grief beyond the statistical patterns it has seen.\n\nThat experience forced me to confront a larger truth: AI can mimic the surface of a style, but it can’t infer the lived context behind it. If you need a piece that resonates on a personal level, you have to inject that context yourself, either by editing the AI’s output or by using it only as a rough sketch.\n\n## Where the Community Is Heading\n\nA small group of developers I’ve chatted with are building “prompt‑aware” models that accept a short narrative description, not just musical tokens. One prototype lets you type, “Create a sunrise scene with a gentle acoustic guitar and distant bird calls, lasting 45 seconds,” and then it layers environmental sounds with the music. Early tests show better coherence, but the system still struggles with timing precision.\n\nAnother promising direction is the use of reinforcement learning from human feedback (RLHF) tailored to music. Some labs are letting professional composers rate AI‑generated snippets, feeding those scores back into the model. The idea is to teach the AI what a “good climax” feels like, rather than just what a “common chord progression” looks like. I’ve tried a beta of this system; the generated bridges felt more purposeful, but the learning curve for composers to provide useful feedback is steep.\n\n## My Workflow Blueprint\n\nIf you’re like me—jaded by hype but still curious—here’s the step‑by‑step routine I’ve settled on:\n\n1. Define the exact musical goal in plain language. “I need a 16‑measure ambient pad for a meditation app, 60 BPM, with a subtle rise on measure 8.”\n2. Choose a model that specializes in the instrument family you need. For pads, I use a diffusion‑based model trained on synth textures; for drums, a transformer trained on electronic kits.\n3. Generate a short excerpt (no more than 8 measures) and export the MIDI.\n4. Import the MIDI into my DAW, duplicate the track, and lock the original as a reference.\n5. Use a spectrum analyzer to check for frequency clashes, especially if you plan to layer multiple AI‑generated parts.\n6. Apply a human‑centric edit: adjust velocity curves, humanize timing, and tweak any out‑of‑scale notes.\n7. Render the edited segment, then loop or extend it manually if you need more length.\n8. Repeat the process for each layer, always keeping the total token count low to avoid the model’s memory ceiling.\n\nFollowing this pipeline, I can crank out a complete demo track in under an hour, whereas doing everything manually would take me three to four hours. The speed gain is real, but it comes with the trade‑off of constantly supervising the AI’s output.\n\n## The Sweet Spot: When AI Is Worth It\n\nI’ve found that AI shines when the creative problem is “generate variation” rather than “create something new.” If I have a chord progression I love, I can ask the model to produce ten melodic variations over it. The results are often surprising—some phrases I would never have thought of, yet they stay within the harmonic framework. Those variations become the seeds for a full arrangement I write later.\n\nAnother scenario is rapid prototyping for client work. A client once asked for three background tracks for a short promotional video. I delivered three 30‑second loops generated by AI, each with a different instrumentation palette. The client loved the variety and approved the concepts, allowing me to flesh out one of them with live instruments later. In that case, the AI saved me from spending a full day on three dead‑ends.\n\n## When I Walk Away\n\nIf the project demands a narrative arc that spans more than a couple of minutes, or if the genre relies heavily on subtle micro‑timing—think Afro‑Cuban percussion or swing jazz—I usually skip the AI entirely. I’ve spent hours trying to get a model to respect the “anticipation” of a snare hit in a swing groove, only to end up with a mechanically straight rhythm. The frustration outweighs any convenience, so I reach for my own drum machine or a seasoned percussionist.\n\nSimilarly, when I need lyrics that convey a specific personal story, the text‑to‑music models I’ve tried produce generic phrases that feel like they were scraped from a stock library. I tried to coax a model into writing a love song about a childhood memory; the output mentioned “the first time we met” but never referenced the details I’d provided. I gave up and wrote the lyrics myself, using the AI‑generated melody as a scaffold.\n\n## The Bigger Picture\n\nLooking back, my journey with AI music feels like learning a new instrument. At first I was dazzled by the novelty, then humbled by the limitations, and now I’m at a point where I can play the tool like a seasoned accompanist. The technology isn’t a magic wand that will replace composers, but it is a useful sidekick that can hand you a sketch when you’re stuck.\n\nI still get a rush when a model finally nails a texture I’ve been chasing for weeks—a warm analog synth pad that evolves just enough to keep the ear interested. Those moments remind me why I keep experimenting, even though the road is littered with broken loops and flat choruses.\n\nIf you’re skeptical, you’re probably right to be. The hype is loud, the failures are many, and the breakthroughs are modest. Yet, in the middle of that noise, there are genuine tools that can shave off minutes, spark ideas, and sometimes surprise you with a phrase you’d never have written. Use them wisely, stay critical, and don’t let the glossy marketing videos dictate your creative decisions. The music you end up with will always be a product of your own taste, not the model’s statistical guesswork.",
+  "category": "AI Voice and Video",
+  "date": "2026-08-24",
+  "readTime": "11 min read",
+  "comments": [
+    {
+      "id": "comment_1787640140064_j7s1nj6mf",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-07-29T09:14:34.815Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787640140064_5hum03fk0",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-20T04:07:50.827Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787640140064_b929mt4zd",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-08-24T17:24:06.862Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661297_ot7n8svqs",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-05T23:49:48.647Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661297_2op591h2m",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-09T06:57:06.895Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787726661297_yam15geze",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-13T15:20:13.699Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 6,
+  "viewCount": 22,
+  "likeCount": 2
+}
