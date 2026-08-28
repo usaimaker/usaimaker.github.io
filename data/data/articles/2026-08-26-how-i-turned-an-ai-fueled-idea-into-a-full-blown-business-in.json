@@ -17,9 +17,21 @@
       "likes": 2,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196918_915s1sinx",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "this is awesome! sharing with my friends",
+      "timestamp": "2026-08-05T13:39:18.347Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 17,
-  "likeCount": 1
+  "commentCount": 2,
+  "viewCount": 39,
+  "likeCount": 6
 }

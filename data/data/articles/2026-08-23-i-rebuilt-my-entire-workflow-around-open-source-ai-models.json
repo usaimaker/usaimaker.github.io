@@ -101,9 +101,45 @@
       "likes": 13,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787851196907_xcmcptza2",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-07-29T02:58:52.087Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196907_i8qnagq1p",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-08-02T00:46:59.120Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196907_ttvb2wrm5",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-05T13:44:03.421Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 45,
-  "likeCount": 8
+  "commentCount": 11,
+  "viewCount": 62,
+  "likeCount": 12
 }

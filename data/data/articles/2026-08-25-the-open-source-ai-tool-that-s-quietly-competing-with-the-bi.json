@@ -65,9 +65,45 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196916_on49tdoaf",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-12T04:32:16.916Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196916_984u8puww",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-13T02:27:37.781Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196916_obsu8y85b",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-26T23:35:45.202Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 26,
-  "likeCount": 4
+  "commentCount": 8,
+  "viewCount": 48,
+  "likeCount": 9
 }

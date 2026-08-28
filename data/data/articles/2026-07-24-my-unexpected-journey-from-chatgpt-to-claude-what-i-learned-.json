@@ -29,9 +29,57 @@
       "likes": 11,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851192721_ndzn3vh2y",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-15T12:31:21.058Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851192721_094hp3c0h",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-20T12:59:28.802Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851192721_wuopyh05f",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-24T00:26:08.094Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851192721_l0kcmeju9",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-26T21:21:13.738Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 272,
-  "likeCount": 30
+  "commentCount": 6,
+  "viewCount": 286,
+  "likeCount": 31
 }

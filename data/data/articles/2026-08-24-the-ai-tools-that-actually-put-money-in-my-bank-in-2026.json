@@ -65,9 +65,45 @@
       "likes": 2,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196912_5355k4k2n",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-10T14:28:56.985Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196912_rnao1qn6f",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-08-16T15:55:21.048Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196912_1mug0u2rm",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-24T08:10:15.750Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 32,
-  "likeCount": 3
+  "commentCount": 8,
+  "viewCount": 52,
+  "likeCount": 5
 }

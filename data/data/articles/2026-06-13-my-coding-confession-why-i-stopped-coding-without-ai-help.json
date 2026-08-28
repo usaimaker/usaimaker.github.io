@@ -113,9 +113,69 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851188548_a6b90n5k6",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-04T21:41:46.055Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851188548_s0mx2s2jo",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-05T04:30:14.509Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851188542_k6y2ft1ov",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-06T11:21:09.582Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851188548_q9p0hnuu0",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-22T02:20:33.045Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851188548_okrt4po89",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-26T18:39:29.979Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 145,
-  "likeCount": 36
+  "commentCount": 14,
+  "viewCount": 169,
+  "likeCount": 39
 }

@@ -77,9 +77,21 @@
       "likes": 7,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787851196905_171bxfcdt",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-23T12:27:27.231Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 31,
-  "likeCount": 11
+  "commentCount": 7,
+  "viewCount": 45,
+  "likeCount": 15
 }

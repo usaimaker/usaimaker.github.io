@@ -17,9 +17,33 @@
       "likes": 9,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196915_3cg924uj5",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-08-11T11:08:07.830Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196915_c934v233e",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-14T18:24:54.552Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 11,
-  "likeCount": 4
+  "commentCount": 3,
+  "viewCount": 21,
+  "likeCount": 9
 }

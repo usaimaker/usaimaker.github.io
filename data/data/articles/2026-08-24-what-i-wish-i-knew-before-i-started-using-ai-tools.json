@@ -77,9 +77,33 @@
       "likes": 6,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196913_1k8d5drz6",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-03T00:09:05.581Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196913_p1jhca0f8",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-13T10:18:02.676Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 40,
-  "likeCount": 8
+  "commentCount": 8,
+  "viewCount": 56,
+  "likeCount": 9
 }

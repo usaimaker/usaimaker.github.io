@@ -17,9 +17,33 @@
       "likes": 3,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787851196915_b74jf81l4",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-08-01T09:01:31.122Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196915_gvj6kgru0",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-02T03:12:51.184Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 8,
-  "likeCount": 1
+  "commentCount": 3,
+  "viewCount": 28,
+  "likeCount": 6
 }

@@ -17,9 +17,33 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196917_kzlpbtlrv",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-07-31T04:40:29.086Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196917_btmga1ku1",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-08T22:03:08.265Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 7,
-  "likeCount": 1
+  "commentCount": 3,
+  "viewCount": 18,
+  "likeCount": 5
 }

@@ -53,9 +53,45 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196912_2hwpzbz5n",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-10T01:57:53.805Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196912_jdjs4g9ux",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-08-14T02:04:45.465Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196912_2bxqjif9n",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-08-23T20:47:17.292Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 35,
-  "likeCount": 7
+  "commentCount": 7,
+  "viewCount": 47,
+  "likeCount": 8
 }

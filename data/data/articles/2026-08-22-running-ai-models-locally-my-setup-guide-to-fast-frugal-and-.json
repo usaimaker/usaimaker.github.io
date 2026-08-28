@@ -65,9 +65,33 @@
       "likes": 15,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196905_o4brb2ifu",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-11T00:03:09.344Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196905_tagt4kp3m",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-21T20:52:27.203Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 45,
-  "likeCount": 8
+  "commentCount": 7,
+  "viewCount": 56,
+  "likeCount": 13
 }

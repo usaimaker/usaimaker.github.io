@@ -89,9 +89,33 @@
       "likes": 6,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196904_ncnezj0sw",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-08-04T21:19:38.657Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196904_s4pma9eih",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-08-12T23:06:23.923Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 45,
-  "likeCount": 11
+  "commentCount": 9,
+  "viewCount": 62,
+  "likeCount": 15
 }

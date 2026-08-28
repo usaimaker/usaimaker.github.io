@@ -89,9 +89,33 @@
       "likes": 14,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196903_2bgw7ivqi",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-03T00:33:58.755Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196903_w632232oy",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-08-20T21:04:30.343Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 37,
-  "likeCount": 6
+  "commentCount": 9,
+  "viewCount": 44,
+  "likeCount": 7
 }

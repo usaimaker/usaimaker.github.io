@@ -17,9 +17,45 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196919_8q8y6lsvd",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-08T11:12:47.273Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196919_1u3xt3ir4",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-16T15:08:12.920Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196919_7h0o27v69",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-25T01:53:47.086Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 7,
-  "likeCount": 4
+  "commentCount": 4,
+  "viewCount": 26,
+  "likeCount": 7
 }

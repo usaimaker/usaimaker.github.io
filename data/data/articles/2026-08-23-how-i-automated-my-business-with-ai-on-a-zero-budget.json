@@ -101,9 +101,33 @@
       "likes": 7,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787851196907_hjb5zmuxq",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-07-31T16:43:01.777Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196907_y7ypznxv9",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-09T17:40:37.333Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 36,
-  "likeCount": 10
+  "commentCount": 10,
+  "viewCount": 54,
+  "likeCount": 11
 }

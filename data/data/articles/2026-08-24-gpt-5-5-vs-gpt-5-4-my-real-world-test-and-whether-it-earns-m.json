@@ -89,9 +89,33 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196910_txhmwnfzc",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-22T14:43:02.893Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196910_6oodfsell",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-26T23:44:26.228Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 53,
-  "likeCount": 9
+  "commentCount": 9,
+  "viewCount": 61,
+  "likeCount": 12
 }

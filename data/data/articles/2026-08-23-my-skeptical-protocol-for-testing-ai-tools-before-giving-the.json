@@ -89,9 +89,45 @@
       "likes": 4,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196908_zyhxdi6pj",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-07-30T03:39:51.452Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196908_bdgsrea1b",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-23T08:04:28.103Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196908_td496mo43",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-26T11:44:54.231Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 48,
-  "likeCount": 12
+  "commentCount": 10,
+  "viewCount": 60,
+  "likeCount": 14
 }

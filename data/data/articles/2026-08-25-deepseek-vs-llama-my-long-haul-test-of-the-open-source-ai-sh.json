@@ -29,9 +29,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196914_voqejzgiy",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-24T06:50:24.976Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851196914_mbiqolxwi",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-26T20:42:56.402Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 11,
-  "likeCount": 9
+  "commentCount": 4,
+  "viewCount": 18,
+  "likeCount": 10
 }

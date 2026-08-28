@@ -77,9 +77,33 @@
       "likes": 4,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787851196914_iedmrpeme",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-07-29T15:18:14.260Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851196914_m9rabxwbf",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-08-08T21:53:23.498Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 48,
-  "likeCount": 7
+  "commentCount": 8,
+  "viewCount": 61,
+  "likeCount": 8
 }

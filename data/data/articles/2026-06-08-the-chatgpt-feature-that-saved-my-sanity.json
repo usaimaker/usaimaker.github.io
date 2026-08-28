@@ -53,9 +53,93 @@
       "likes": 13,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851190647_qomkfa4tb",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-02T13:32:27.323Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851190647_0niup4zmt",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-04T04:51:00.520Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851190646_cwbgjft2j",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-09T10:48:05.579Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851190647_w7i9dki5x",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-12T01:42:08.643Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851190647_pf0z0rcl4",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-12T16:38:56.281Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787851190647_89h1irz6z",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-14T08:28:12.875Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787851190647_u5crkry04",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-08-27T00:05:09.759Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 406,
-  "likeCount": 18
+  "commentCount": 11,
+  "viewCount": 422,
+  "likeCount": 22
 }

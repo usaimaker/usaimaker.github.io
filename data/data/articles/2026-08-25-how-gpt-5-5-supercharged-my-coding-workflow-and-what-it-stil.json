@@ -41,9 +41,21 @@
       "likes": 15,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787851196915_16b2io2ws",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-07-31T04:08:58.715Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 3,
-  "viewCount": 24,
-  "likeCount": 5
+  "commentCount": 4,
+  "viewCount": 39,
+  "likeCount": 10
 }
