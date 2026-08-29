@@ -1,0 +1,18 @@
+{
+  "article": {
+    "title": "The AI Safety Concerns I Think About as a Developer",
+    "url": "https://ai-daily-news.netlify.app/article.html?slug=the-ai-safety-concerns-i-think-about-as-a-developer",
+    "date": "2026-08-28T20:27:07.433Z"
+  },
+  "posts": {
+    "twitter": "🚀 Dropped a GPT‑3 call into a weekend project and was blown away 🌟 But with great power comes great responsibility. Dive into the AI safety concerns every dev should consider before the next big rollout. #AI #Safety #DevLife",
+    "reddit": "AI Safety Concerns Every Developer Should Know",
+    "linkedin": "When I first integrated a GPT‑3 API into a side project, the magic of AI was undeniable. Yet, that excitement also highlighted critical safety considerations we, as developers, must address. In my latest article, I explore the ethical, security, and reliability challenges of building with powerful language models—and share practical steps to mitigate risks. Let's build smarter, safer AI together. #ArtificialIntelligence #AIEthics #SoftwareDevelopment #AISafety",
+    "hackernews": "Developer's take on AI safety concerns"
+  },
+  "shareLinks": {
+    "twitter": "https://twitter.com/intent/tweet?text=%F0%9F%9A%80%20Dropped%20a%20GPT%E2%80%913%20call%20into%20a%20weekend%20project%20and%20was%20blown%20away%20%F0%9F%8C%9F%20But%20with%20great%20power%20comes%20great%20responsibility.%20Dive%20into%20the%20AI%20safety%20concerns%20every%20dev%20should%20consider%20before%20the%20next%20big%20rollout.%20%23AI%20%23Safety%20%23DevLife",
+    "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fai-daily-news.netlify.app%2Farticle.html%3Fslug%3Dthe-ai-safety-concerns-i-think-about-as-a-developer",
+    "hackernews": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fai-daily-news.netlify.app%2Farticle.html%3Fslug%3Dthe-ai-safety-concerns-i-think-about-as-a-developer&t=Developer's%20take%20on%20AI%20safety%20concerns"
+  }
+}

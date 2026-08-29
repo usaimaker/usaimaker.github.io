@@ -125,9 +125,45 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758690_94eu5gtlf",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-06T07:07:53.568Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758690_ruvr9nqdd",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-06T18:38:05.109Z",
+      "likes": 12,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758690_bood9p304",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-10T06:04:27.159Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 60,
-  "likeCount": 14
+  "commentCount": 13,
+  "viewCount": 77,
+  "likeCount": 19
 }

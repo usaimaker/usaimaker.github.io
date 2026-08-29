@@ -113,9 +113,33 @@
       "likes": 5,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758727_f00rjmswu",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-14T19:04:18.529Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758727_v1yhztiwo",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-23T17:03:42.185Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 9,
-  "viewCount": 43,
-  "likeCount": 6
+  "commentCount": 11,
+  "viewCount": 61,
+  "likeCount": 7
 }

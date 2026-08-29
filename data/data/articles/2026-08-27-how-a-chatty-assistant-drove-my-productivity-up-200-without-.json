@@ -29,9 +29,21 @@
       "likes": 5,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758733_acgp4sa5v",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-08-02T15:39:05.631Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 24,
-  "likeCount": 4
+  "commentCount": 3,
+  "viewCount": 39,
+  "likeCount": 8
 }

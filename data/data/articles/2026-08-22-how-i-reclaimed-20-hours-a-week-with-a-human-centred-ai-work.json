@@ -113,9 +113,33 @@
       "likes": 6,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758685_p12hwnw23",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "lol this is so true 😂",
+      "timestamp": "2026-08-14T08:31:04.564Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758685_19rlax7a0",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-18T05:22:55.138Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 44,
-  "likeCount": 7
+  "commentCount": 11,
+  "viewCount": 64,
+  "likeCount": 10
 }

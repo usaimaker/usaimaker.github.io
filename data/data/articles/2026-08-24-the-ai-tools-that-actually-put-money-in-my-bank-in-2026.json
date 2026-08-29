@@ -101,9 +101,33 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758692_qi2qp821k",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-05T13:04:55.241Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758692_56zbxz0ns",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-16T06:42:46.076Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 52,
-  "likeCount": 5
+  "commentCount": 10,
+  "viewCount": 61,
+  "likeCount": 6
 }

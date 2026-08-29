@@ -89,9 +89,21 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758687_aay28sn83",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-15T22:35:38.591Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 45,
-  "likeCount": 15
+  "commentCount": 8,
+  "viewCount": 50,
+  "likeCount": 17
 }

@@ -89,9 +89,45 @@
       "likes": 11,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758692_ezendbr3g",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-03T07:08:18.590Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787940758692_j8hf3lvj6",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-11T07:41:46.761Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758692_r8pg8ua7g",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-08-22T06:00:38.486Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 47,
-  "likeCount": 8
+  "commentCount": 10,
+  "viewCount": 54,
+  "likeCount": 9
 }

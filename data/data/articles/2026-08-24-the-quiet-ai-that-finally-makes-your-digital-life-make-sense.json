@@ -77,9 +77,33 @@
       "likes": 11,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758693_77yfa2q58",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-03T17:57:35.099Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758693_m42nflini",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-23T08:19:03.577Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 48,
-  "likeCount": 6
+  "commentCount": 8,
+  "viewCount": 61,
+  "likeCount": 8
 }

@@ -41,9 +41,21 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758691_lg3lajfxj",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-21T15:53:04.602Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 46,
-  "likeCount": 11
+  "commentCount": 4,
+  "viewCount": 60,
+  "likeCount": 15
 }

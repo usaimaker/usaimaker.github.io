@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-08-27 05:46:40
+// Last Updated: 2026-08-28 16:58:57
 
 const newsData = [
   {
     "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "description": "Score 676 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49458161",
+    "description": "Score 1935 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49458161",
     "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "Qwen3.8-Flash-Next",
-    "description": "Score 656 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49448210",
-    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "title": "Small Models Have Arrived",
+    "description": "Score 750 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49466917",
+    "url": "https://calv.info/small-models-have-arrived",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-    "description": "Score 524 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49452990",
-    "url": "https://github.com/tailscale/tailcat",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "description": "Score 630 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49461817",
+    "url": "https://louisabraham.github.io/load-bearing/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "RAG Is Simpler Than You Think",
-    "description": "Score 447 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49445727",
-    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "title": "Gemini-3.5-Transcribe",
+    "description": "Score 342 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49468818",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "description": "Score 422 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49446422",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "title": "Gemini Omni 1.1 Flash",
+    "description": "Score 287 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49467922",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "description": "Score 313 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49458418",
-    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+    "description": "Score 283 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49473522",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "The Hugging Face incident and the road ahead",
-    "description": "Score 225 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49454314",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "description": "Score 255 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49475079",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "The turbulent AI era is here",
-    "description": "Score 196 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49451313",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "U.S. sanctions against the A/I Collective",
+    "description": "Score 193 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49477854",
+    "url": "https://www.inventati.org/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-    "description": "Score 192 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49450898",
-    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "title": "Stripe said to abandon $50B pursuit of PayPal",
+    "description": "Score 178 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49473483",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "VMs won't contain cyber-capable agents",
-    "description": "Score 156 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49450188",
-    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+    "title": "OpenAI: Migrating to HTTPX2",
+    "description": "Score 144 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49477212",
+    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "PageRank explained",
-    "description": "Score 125 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49449888",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+    "description": "Score 138 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49464314",
+    "url": "https://aiandeducation.mit.edu/report/",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   },
   {
-    "title": "Serve Markdown to AI Agents with Accept Headers",
-    "description": "Score 111 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49454764",
-    "url": "https://acceptmarkdown.com/",
+    "title": "Previewing the Model Hardware Standard",
+    "description": "Score 131 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49468834",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "source": "Hacker News",
-    "time": "2026-08-27 05:46:40"
+    "time": "2026-08-28 16:58:57"
   }
 ];

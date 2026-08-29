@@ -65,9 +65,45 @@
       "likes": 14,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758733_t8rk9v7ee",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-05T16:12:37.824Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758733_0qk04xy2r",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-08-13T11:16:54.654Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787940758733_5yeof0s54",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-21T11:09:03.239Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 19,
-  "likeCount": 7
+  "commentCount": 8,
+  "viewCount": 32,
+  "likeCount": 10
 }

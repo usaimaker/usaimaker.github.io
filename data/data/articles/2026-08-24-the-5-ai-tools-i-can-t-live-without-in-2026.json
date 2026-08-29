@@ -101,9 +101,33 @@
       "likes": 6,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1787940758691_3giyvmiuf",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-10T02:24:25.176Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1787940758691_0xybagl63",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-28T12:34:24.160Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 63,
-  "likeCount": 10
+  "commentCount": 10,
+  "viewCount": 71,
+  "likeCount": 11
 }

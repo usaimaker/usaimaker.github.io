@@ -41,9 +41,33 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758729_2ssz8ffia",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-02T15:57:13.923Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758729_2db2wh3e1",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-21T20:52:25.126Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 3,
-  "viewCount": 21,
-  "likeCount": 9
+  "commentCount": 5,
+  "viewCount": 29,
+  "likeCount": 10
 }

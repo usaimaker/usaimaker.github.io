@@ -101,9 +101,33 @@
       "likes": 2,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758686_ljrfvuwnq",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-05T05:10:57.157Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758686_lra41yskm",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-08-23T03:28:13.691Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 53,
-  "likeCount": 15
+  "commentCount": 10,
+  "viewCount": 71,
+  "likeCount": 20
 }

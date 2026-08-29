@@ -113,9 +113,21 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758692_paa2xuhp2",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-07-30T19:40:37.413Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 86,
-  "likeCount": 13
+  "commentCount": 10,
+  "viewCount": 93,
+  "likeCount": 15
 }

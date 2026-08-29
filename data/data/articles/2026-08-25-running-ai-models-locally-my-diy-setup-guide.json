@@ -41,9 +41,33 @@
       "likes": 1,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758729_0gmi1zvp9",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-01T18:40:29.647Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758729_ofdfdh0up",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-10T03:23:52.100Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 3,
-  "viewCount": 28,
-  "likeCount": 6
+  "commentCount": 5,
+  "viewCount": 43,
+  "likeCount": 7
 }

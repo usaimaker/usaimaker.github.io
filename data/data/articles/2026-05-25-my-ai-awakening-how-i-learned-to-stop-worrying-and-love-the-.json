@@ -101,9 +101,33 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940754512_kjrmegyef",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-03T01:14:25.004Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940754512_q0srm53aq",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-15T02:06:39.767Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 8,
-  "viewCount": 288,
-  "likeCount": 20
+  "commentCount": 10,
+  "viewCount": 301,
+  "likeCount": 22
 }

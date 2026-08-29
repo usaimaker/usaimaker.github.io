@@ -29,9 +29,33 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1787940758732_28x6f20c9",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-02T03:40:56.026Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1787940758732_z30qstujq",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-09T07:57:25.732Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 2,
-  "viewCount": 21,
-  "likeCount": 1
+  "commentCount": 4,
+  "viewCount": 27,
+  "likeCount": 3
 }
