@@ -65,9 +65,33 @@
       "likes": 2,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788005905159_0izejm60v",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-08-04T03:18:03.174Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905159_c9g5af63k",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-05T15:40:13.489Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 29,
-  "likeCount": 10
+  "commentCount": 7,
+  "viewCount": 42,
+  "likeCount": 12
 }

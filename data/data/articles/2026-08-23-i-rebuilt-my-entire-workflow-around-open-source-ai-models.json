@@ -173,9 +173,21 @@
       "likes": 14,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905147_e3urum4cm",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-17T10:43:38.798Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 14,
-  "viewCount": 67,
-  "likeCount": 15
+  "commentCount": 15,
+  "viewCount": 72,
+  "likeCount": 20
 }

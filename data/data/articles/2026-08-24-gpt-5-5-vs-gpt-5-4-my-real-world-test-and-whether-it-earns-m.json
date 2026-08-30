@@ -125,9 +125,21 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905151_yvoybfaxj",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-02T14:13:54.527Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 73,
-  "likeCount": 15
+  "commentCount": 11,
+  "viewCount": 85,
+  "likeCount": 17
 }

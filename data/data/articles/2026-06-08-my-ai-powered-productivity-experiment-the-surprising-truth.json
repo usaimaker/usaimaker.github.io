@@ -65,9 +65,81 @@
       "likes": 2,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788005898808_z7o8echcp",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-02T10:50:49.880Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005898808_wn63fmzi6",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-05T08:48:23.601Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005898808_u8r37mzue",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-14T23:24:22.382Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005898808_mlc32k116",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-17T03:21:44.231Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788005898808_znwd9rkok",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-23T00:40:52.312Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005898808_n7zx3r3h5",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-23T01:46:37.909Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 379,
-  "likeCount": 16
+  "commentCount": 11,
+  "viewCount": 386,
+  "likeCount": 18
 }

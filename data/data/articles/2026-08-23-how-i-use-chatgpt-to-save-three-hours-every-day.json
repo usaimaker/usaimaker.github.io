@@ -113,9 +113,45 @@
       "likes": 13,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905147_f3ai82n5b",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-08-09T12:01:50.052Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905147_n1f8k2hdv",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-22T08:49:44.449Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905147_iirup3ryr",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-23T05:46:45.096Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 80,
-  "likeCount": 21
+  "commentCount": 12,
+  "viewCount": 95,
+  "likeCount": 25
 }

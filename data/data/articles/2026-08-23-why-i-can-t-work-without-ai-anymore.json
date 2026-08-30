@@ -125,9 +125,129 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_i9xivu648",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-06T13:31:52.851Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_brdc2u0no",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-07T01:10:00.322Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_fdj6l4zjn",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-15T06:45:14.509Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_tsnzdc1x7",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-08-16T16:10:23.741Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_h4g5d8e75",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-18T18:25:22.722Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_eq0hde9gv",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-22T18:18:03.670Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788005903006_56a5oga7o",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-25T12:20:43.532Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005903006_9az2g2bbx",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-08-26T23:15:19.926Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905150_oxcuiehac",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-01T10:57:22.558Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788005905150_4d8em9d8g",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-04T11:49:37.636Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 73,
-  "likeCount": 23
+  "commentCount": 20,
+  "viewCount": 107,
+  "likeCount": 29
 }

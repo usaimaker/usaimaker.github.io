@@ -89,9 +89,45 @@
       "likes": 6,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905145_4g050gvvr",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-11T20:40:51.762Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905145_8rlxxaju4",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-08-17T20:02:44.117Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905145_fxe1qm6wz",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-27T06:26:19.511Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 70,
-  "likeCount": 14
+  "commentCount": 10,
+  "viewCount": 87,
+  "likeCount": 15
 }

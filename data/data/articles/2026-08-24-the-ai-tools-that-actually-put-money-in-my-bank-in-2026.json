@@ -125,9 +125,45 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905154_vkygql24f",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-08-03T22:52:48.121Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905154_3iev88b9w",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-24T06:48:24.245Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905154_vmu2bpcqk",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-25T23:12:20.044Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 61,
-  "likeCount": 6
+  "commentCount": 13,
+  "viewCount": 76,
+  "likeCount": 7
 }

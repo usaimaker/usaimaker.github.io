@@ -113,9 +113,21 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905151_483pcwaq4",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-03T16:50:09.366Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 78,
-  "likeCount": 18
+  "commentCount": 10,
+  "viewCount": 92,
+  "likeCount": 22
 }

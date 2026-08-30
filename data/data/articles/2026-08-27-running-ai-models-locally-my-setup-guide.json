@@ -65,9 +65,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905168_g9d15y8p1",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-08-26T17:02:15.385Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905168_pt0l9bkkt",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-28T01:30:59.123Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 36,
-  "likeCount": 5
+  "commentCount": 7,
+  "viewCount": 58,
+  "likeCount": 7
 }

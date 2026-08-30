@@ -101,9 +101,93 @@
       "likes": 15,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005892491_hx7vv8lmn",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-11T22:05:15.112Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005892491_5x9dz3vw4",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-26T03:56:40.069Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005892484_q5oxuo561",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-26T20:18:12.214Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005892491_v71f6h05v",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-08-27T10:00:15.266Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905155_vv1l9nm3f",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-06T15:19:09.313Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905155_h694nxmnk",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-12T10:30:55.982Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905155_mpmt7u2t0",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-21T22:48:09.306Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 61,
-  "likeCount": 8
+  "commentCount": 15,
+  "viewCount": 94,
+  "likeCount": 12
 }

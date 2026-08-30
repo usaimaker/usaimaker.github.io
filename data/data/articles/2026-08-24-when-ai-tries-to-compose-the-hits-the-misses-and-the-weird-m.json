@@ -137,9 +137,33 @@
       "likes": 8,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788005905156_ioa400fbk",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-04T23:41:54.072Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905156_7ioqa9ztv",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-07T23:24:13.684Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 11,
-  "viewCount": 61,
-  "likeCount": 7
+  "commentCount": 13,
+  "viewCount": 74,
+  "likeCount": 11
 }

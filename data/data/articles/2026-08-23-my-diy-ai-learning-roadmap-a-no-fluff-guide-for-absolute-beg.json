@@ -89,9 +89,21 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905149_2rh7ihhif",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-19T09:36:29.468Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 77,
-  "likeCount": 11
+  "commentCount": 8,
+  "viewCount": 86,
+  "likeCount": 12
 }

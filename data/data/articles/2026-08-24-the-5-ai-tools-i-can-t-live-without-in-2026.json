@@ -125,9 +125,21 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905153_ahvhwdo23",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-09T22:40:59.498Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 71,
-  "likeCount": 11
+  "commentCount": 11,
+  "viewCount": 92,
+  "likeCount": 16
 }

@@ -77,9 +77,45 @@
       "likes": 8,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788005905166_ddndic5nv",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-03T15:45:02.918Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905166_e0mhtzgo6",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-09T07:25:25.320Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905166_epjotn9ey",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-18T16:36:31.441Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 22,
-  "likeCount": 7
+  "commentCount": 9,
+  "viewCount": 28,
+  "likeCount": 12
 }

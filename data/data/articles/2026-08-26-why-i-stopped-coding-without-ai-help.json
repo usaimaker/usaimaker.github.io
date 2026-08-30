@@ -101,9 +101,33 @@
       "likes": 1,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905166_2zhoy8ftu",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-12T00:45:56.397Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905166_wptid48d0",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-14T07:49:07.228Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 32,
-  "likeCount": 10
+  "commentCount": 10,
+  "viewCount": 53,
+  "likeCount": 13
 }

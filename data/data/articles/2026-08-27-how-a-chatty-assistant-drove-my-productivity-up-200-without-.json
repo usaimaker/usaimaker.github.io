@@ -41,9 +41,33 @@
       "likes": 2,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905167_eo5fbj0k4",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-21T12:39:27.379Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905167_1uz5jxy3s",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-27T06:06:18.438Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 39,
-  "likeCount": 8
+  "commentCount": 5,
+  "viewCount": 54,
+  "likeCount": 11
 }

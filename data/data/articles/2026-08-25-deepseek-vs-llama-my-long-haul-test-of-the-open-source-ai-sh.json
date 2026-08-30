@@ -77,9 +77,21 @@
       "likes": 3,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788005905158_y55qkm737",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-26T09:08:24.529Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 31,
-  "likeCount": 12
+  "commentCount": 7,
+  "viewCount": 42,
+  "likeCount": 14
 }

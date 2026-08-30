@@ -77,9 +77,45 @@
       "likes": 7,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905162_53kdwzqwy",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-08-06T03:04:11.807Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905162_s2iiotr4q",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-09T04:22:49.149Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905162_j16uva0v1",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-14T03:20:16.049Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 57,
-  "likeCount": 10
+  "commentCount": 9,
+  "viewCount": 78,
+  "likeCount": 14
 }

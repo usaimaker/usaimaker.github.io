@@ -125,9 +125,33 @@
       "likes": 15,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905158_2ycjzvwub",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-03T21:15:58.152Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905158_u0znkc7zf",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-08-06T07:54:32.054Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 62,
-  "likeCount": 15
+  "commentCount": 12,
+  "viewCount": 75,
+  "likeCount": 16
 }

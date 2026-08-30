@@ -41,9 +41,45 @@
       "likes": 13,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905168_1l13a3nz6",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-11T16:28:37.628Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905168_cx4vw1bg4",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-14T18:29:15.105Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788005905168_n21rz6m5k",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-08-18T12:12:39.175Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 22,
-  "likeCount": 5
+  "commentCount": 6,
+  "viewCount": 39,
+  "likeCount": 6
 }

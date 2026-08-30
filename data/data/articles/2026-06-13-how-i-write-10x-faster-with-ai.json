@@ -65,9 +65,81 @@
       "likes": 9,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005894616_ada0k7z7o",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-02T00:23:40.547Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005894616_a6rokkatk",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-04T08:31:08.431Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788005894616_vbiak0wvc",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-12T05:52:55.944Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005894616_19ae9h2ud",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-08-15T06:39:56.062Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005894616_ifg3hvm0q",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "this is awesome! sharing with my friends",
+      "timestamp": "2026-08-22T01:17:42.568Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005894616_dlvhlfbh0",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-08-24T21:43:43.978Z",
+      "likes": 12,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 350,
-  "likeCount": 32
+  "commentCount": 11,
+  "viewCount": 372,
+  "likeCount": 33
 }

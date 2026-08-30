@@ -125,9 +125,33 @@
       "likes": 12,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905153_w87p29fiy",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-05T14:57:39.326Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905153_z27wncog7",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-21T20:15:19.919Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 93,
-  "likeCount": 15
+  "commentCount": 12,
+  "viewCount": 115,
+  "likeCount": 19
 }

@@ -209,9 +209,33 @@
       "likes": 2,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905161_tc0dfb5ls",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-08-16T06:03:02.207Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788005905161_umsc9h6en",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-23T02:25:02.275Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 17,
-  "viewCount": 76,
-  "likeCount": 12
+  "commentCount": 19,
+  "viewCount": 93,
+  "likeCount": 13
 }

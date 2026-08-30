@@ -113,9 +113,21 @@
       "likes": 1,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788005905161_6ek3mkyzk",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-01T11:55:23.282Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 63,
-  "likeCount": 11
+  "commentCount": 10,
+  "viewCount": 74,
+  "likeCount": 13
 }
