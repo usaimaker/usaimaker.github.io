@@ -149,9 +149,45 @@
       "likes": 2,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788088618248_m8t4jbadp",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "this is awesome! sharing with my friends",
+      "timestamp": "2026-07-31T12:53:40.350Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618248_7z9ji2zwg",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-15T17:03:19.498Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618248_6gckls95g",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-17T12:06:14.641Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 80,
-  "likeCount": 11
+  "commentCount": 15,
+  "viewCount": 95,
+  "likeCount": 15
 }

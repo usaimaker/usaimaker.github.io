@@ -113,9 +113,33 @@
       "likes": 8,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_5x5ba7luf",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-17T04:03:31.573Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_jxwv0dgkn",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "this is awesome! sharing with my friends",
+      "timestamp": "2026-08-17T14:23:59.443Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 28,
-  "likeCount": 12
+  "commentCount": 11,
+  "viewCount": 52,
+  "likeCount": 13
 }

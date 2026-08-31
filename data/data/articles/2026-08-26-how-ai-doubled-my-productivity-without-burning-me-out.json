@@ -77,9 +77,33 @@
       "likes": 3,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788088618251_8pn7ofv3l",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-08-14T00:56:33.305Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618251_u6ztj86ku",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-08-20T12:27:59.534Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 28,
-  "likeCount": 13
+  "commentCount": 8,
+  "viewCount": 44,
+  "likeCount": 15
 }

@@ -77,9 +77,45 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618249_jivd6jw0l",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-14T04:09:08.637Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088618249_zu44osfes",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-17T02:14:24.422Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088618249_q37ytwzor",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-19T21:27:28.629Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 77,
-  "likeCount": 18
+  "commentCount": 9,
+  "viewCount": 100,
+  "likeCount": 20
 }

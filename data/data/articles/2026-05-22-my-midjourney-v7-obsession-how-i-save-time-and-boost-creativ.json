@@ -29,9 +29,45 @@
       "likes": 12,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788088603348_lkel06dqp",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-03T00:47:54.030Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088603351_6dqblz62a",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-21T21:56:22.582Z",
+      "likes": 12,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088603351_kolgunbyk",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-08-27T22:01:53.086Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 222,
-  "likeCount": 20
+  "commentCount": 5,
+  "viewCount": 246,
+  "likeCount": 21
 }

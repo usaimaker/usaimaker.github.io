@@ -137,9 +137,21 @@
       "likes": 2,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788088618242_xkq8ojiha",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-21T11:27:40.995Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 85,
-  "likeCount": 17
+  "commentCount": 12,
+  "viewCount": 103,
+  "likeCount": 18
 }

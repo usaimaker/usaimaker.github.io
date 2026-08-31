@@ -77,9 +77,45 @@
       "likes": 2,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_5chsbjoom",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-04T15:26:26.598Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_e7kfjvczn",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-06T01:50:50.462Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_17gco8d19",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-11T20:25:04.402Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 69,
-  "likeCount": 12
+  "commentCount": 9,
+  "viewCount": 85,
+  "likeCount": 13
 }

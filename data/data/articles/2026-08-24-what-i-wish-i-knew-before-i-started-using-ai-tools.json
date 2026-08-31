@@ -149,9 +149,33 @@
       "likes": 9,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618246_xlhcf1jqs",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-07T17:16:04.001Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618246_erhotbm3k",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-08-23T09:45:43.197Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 86,
-  "likeCount": 15
+  "commentCount": 14,
+  "viewCount": 93,
+  "likeCount": 18
 }

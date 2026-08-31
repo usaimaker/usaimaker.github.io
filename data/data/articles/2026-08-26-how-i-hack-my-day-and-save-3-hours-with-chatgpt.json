@@ -53,9 +53,33 @@
       "likes": 1,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_5kmzp1whf",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-04T23:53:30.807Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_ci6k3npw9",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-20T12:09:59.168Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 56,
-  "likeCount": 8
+  "commentCount": 6,
+  "viewCount": 73,
+  "likeCount": 10
 }

@@ -89,9 +89,21 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618249_bmkuv8zeg",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-10T17:02:55.611Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 64,
-  "likeCount": 12
+  "commentCount": 8,
+  "viewCount": 80,
+  "likeCount": 16
 }

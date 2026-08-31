@@ -77,9 +77,45 @@
       "likes": 10,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618256_dtifuiqv3",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-12T05:52:45.084Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618256_g2qj9ys9u",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-21T12:18:14.573Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618256_af3evks3h",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-23T09:23:47.230Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 6,
-  "viewCount": 39,
-  "likeCount": 6
+  "commentCount": 9,
+  "viewCount": 45,
+  "likeCount": 9
 }

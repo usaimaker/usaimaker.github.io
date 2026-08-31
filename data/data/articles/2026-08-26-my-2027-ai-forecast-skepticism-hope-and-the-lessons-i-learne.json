@@ -77,9 +77,33 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_k3pan4dun",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-16T10:28:18.323Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618252_fblmbg1qu",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-08-16T16:24:34.636Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 43,
-  "likeCount": 7
+  "commentCount": 8,
+  "viewCount": 50,
+  "likeCount": 12
 }

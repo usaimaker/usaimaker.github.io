@@ -149,9 +149,21 @@
       "likes": 14,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618247_nzwtrl0eg",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-16T09:50:37.362Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 93,
-  "likeCount": 13
+  "commentCount": 13,
+  "viewCount": 98,
+  "likeCount": 15
 }

@@ -65,9 +65,33 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_1sqplyjm2",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-08-17T07:06:23.391Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_68obqctum",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-17T18:39:28.510Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 54,
-  "likeCount": 11
+  "commentCount": 7,
+  "viewCount": 64,
+  "likeCount": 13
 }

@@ -161,9 +161,21 @@
       "likes": 4,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788088618247_0fhjv5ntr",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-25T21:38:31.807Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 74,
-  "likeCount": 11
+  "commentCount": 14,
+  "viewCount": 88,
+  "likeCount": 13
 }

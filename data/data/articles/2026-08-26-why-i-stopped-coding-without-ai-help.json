@@ -125,9 +125,45 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_9pfs15n2o",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-12T17:24:51.125Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618254_utf3aviu3",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-21T02:35:15.484Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088618254_r9y5w9fea",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-29T09:19:05.658Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 53,
-  "likeCount": 13
+  "commentCount": 13,
+  "viewCount": 61,
+  "likeCount": 17
 }

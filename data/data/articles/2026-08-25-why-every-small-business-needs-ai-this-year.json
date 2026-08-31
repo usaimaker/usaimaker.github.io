@@ -113,9 +113,45 @@
       "likes": 11,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618251_78y3mowp0",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-11T19:56:50.245Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618251_chdfjl8i2",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-08-14T21:19:26.423Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618251_8q7ioz1w1",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-08-26T12:20:39.743Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 78,
-  "likeCount": 14
+  "commentCount": 12,
+  "viewCount": 91,
+  "likeCount": 15
 }

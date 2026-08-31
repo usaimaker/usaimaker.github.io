@@ -89,9 +89,93 @@
       "likes": 9,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_1rxh6sine",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-02T05:08:02.443Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_dsddz5jdf",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-11T17:34:30.597Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088605439_zo8kh065u",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-16T08:16:54.055Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_al4xbqd31",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-21T13:25:19.056Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_xmy0nxq2a",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-23T12:41:05.161Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_2h08cl92j",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-23T19:21:53.056Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088605439_q1clnujw9",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-25T08:45:54.991Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 7,
-  "viewCount": 508,
-  "likeCount": 22
+  "commentCount": 14,
+  "viewCount": 529,
+  "likeCount": 26
 }

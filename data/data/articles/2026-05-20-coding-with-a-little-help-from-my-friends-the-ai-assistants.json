@@ -53,9 +53,81 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088611975_rlf5qso33",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-07T16:14:06.144Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088611975_hu8bx33hj",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-08T18:49:17.704Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088611974_urnlb0xim",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-08-13T20:18:47.854Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088611975_nc14jdmnn",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-18T06:25:59.691Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088611975_vo58crpm3",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-20T19:09:26.407Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088611975_zifrm7atr",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-29T08:43:18.587Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 154,
-  "likeCount": 24
+  "commentCount": 10,
+  "viewCount": 173,
+  "likeCount": 25
 }

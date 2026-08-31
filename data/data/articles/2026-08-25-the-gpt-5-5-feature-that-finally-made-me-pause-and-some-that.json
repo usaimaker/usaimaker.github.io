@@ -125,9 +125,45 @@
       "likes": 5,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618250_5pmhhrizy",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-05T11:16:53.842Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618250_2o18ys4pv",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-08-10T04:14:13.906Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618250_c5vsnyvdo",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-11T23:48:53.301Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 74,
-  "likeCount": 13
+  "commentCount": 13,
+  "viewCount": 84,
+  "likeCount": 15
 }

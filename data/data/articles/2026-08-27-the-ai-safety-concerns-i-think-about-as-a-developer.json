@@ -89,9 +89,33 @@
       "likes": 4,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618255_ylkloj7wb",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-16T00:47:45.725Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618255_s05qx7o5c",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-22T00:20:03.027Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 7,
-  "viewCount": 57,
-  "likeCount": 6
+  "commentCount": 9,
+  "viewCount": 81,
+  "likeCount": 10
 }

@@ -17,9 +17,45 @@
       "likes": 8,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618256_3dbf6umo7",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-16T08:04:23.597Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088618256_v99yr0hwf",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-17T07:39:40.777Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618256_2czsl2hhb",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-08-18T22:04:25.471Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 10,
-  "likeCount": 1
+  "commentCount": 4,
+  "viewCount": 34,
+  "likeCount": 2
 }

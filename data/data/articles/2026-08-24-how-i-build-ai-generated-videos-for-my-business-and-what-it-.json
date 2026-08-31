@@ -77,9 +77,33 @@
       "likes": 9,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618242_gf3n4tnv1",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-17T14:10:39.583Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618242_hz3gnvscz",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-20T04:04:00.733Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 66,
-  "likeCount": 19
+  "commentCount": 8,
+  "viewCount": 86,
+  "likeCount": 22
 }

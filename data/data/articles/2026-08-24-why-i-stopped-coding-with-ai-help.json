@@ -149,9 +149,21 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618248_clyfaj9hx",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-08T05:06:44.127Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 12,
-  "viewCount": 75,
-  "likeCount": 16
+  "commentCount": 13,
+  "viewCount": 86,
+  "likeCount": 17
 }

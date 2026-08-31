@@ -125,9 +125,33 @@
       "likes": 1,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618246_t0qxzzpo5",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-10T23:20:26.717Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088618246_rhdmnhq6y",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-25T13:34:29.182Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 58,
-  "likeCount": 17
+  "commentCount": 12,
+  "viewCount": 63,
+  "likeCount": 22
 }

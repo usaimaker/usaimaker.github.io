@@ -185,9 +185,45 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618245_hxjw2066r",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-08-04T06:06:27.974Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618245_h0cs7wtqv",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-08-06T15:49:13.889Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618245_cx957li0z",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-08-25T03:43:52.862Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 15,
-  "viewCount": 94,
-  "likeCount": 12
+  "commentCount": 18,
+  "viewCount": 107,
+  "likeCount": 15
 }

@@ -65,9 +65,21 @@
       "likes": 3,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618253_f07bhb7kw",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-01T03:11:35.889Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 34,
-  "likeCount": 5
+  "commentCount": 6,
+  "viewCount": 48,
+  "likeCount": 6
 }

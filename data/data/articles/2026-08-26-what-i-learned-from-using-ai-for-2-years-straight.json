@@ -77,9 +77,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088618253_bbjoe1jbg",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-08-06T19:22:07.347Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088618253_g327k6cis",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-23T14:01:37.457Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 50,
-  "likeCount": 8
+  "commentCount": 8,
+  "viewCount": 69,
+  "likeCount": 11
 }

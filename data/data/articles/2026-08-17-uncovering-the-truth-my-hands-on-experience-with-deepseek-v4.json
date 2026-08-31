@@ -233,9 +233,105 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_exf4twbg3",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-07-31T18:49:40.491Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_4a3u0yiwi",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-09T02:20:38.661Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_mh931pkhb",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-08-11T16:24:57.184Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_iiewxctaq",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-14T11:53:11.401Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_jb9vlj3zu",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-15T10:08:20.309Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_uw38e4pgc",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-16T04:12:13.911Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788088616131_dv44pny3r",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-22T22:21:05.310Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788088616131_naxjkjoq0",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-26T02:17:00.164Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 19,
-  "viewCount": 94,
-  "likeCount": 26
+  "commentCount": 27,
+  "viewCount": 107,
+  "likeCount": 29
 }
