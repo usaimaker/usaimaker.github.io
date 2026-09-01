@@ -149,9 +149,33 @@
       "likes": 4,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788180244017_k11wsla1m",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-04T08:04:46.347Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788180244017_njtp9af41",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-08-30T07:22:28.308Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 91,
-  "likeCount": 15
+  "commentCount": 14,
+  "viewCount": 103,
+  "likeCount": 16
 }

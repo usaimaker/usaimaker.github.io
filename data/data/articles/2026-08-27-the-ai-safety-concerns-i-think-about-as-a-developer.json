@@ -113,9 +113,33 @@
       "likes": 7,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788180244023_o765gux7x",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-14T20:15:09.346Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788180244023_jl95h9g93",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-22T14:10:49.218Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 81,
-  "likeCount": 10
+  "commentCount": 11,
+  "viewCount": 92,
+  "likeCount": 15
 }

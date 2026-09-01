@@ -113,9 +113,21 @@
       "likes": 4,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788180244023_3sozr8jba",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-23T09:58:14.909Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 45,
-  "likeCount": 9
+  "commentCount": 10,
+  "viewCount": 64,
+  "likeCount": 10
 }

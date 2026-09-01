@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-08-30 10:10:32
+// Last Updated: 2026-08-31 11:12:56
 
 const newsData = [
   {
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "description": "Score 1968 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49458161",
-    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-    "description": "Score 620 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49473522",
-    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "description": "Score 393 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49491568",
-    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "description": "Score 305 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49494182",
+    "description": "Score 425 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49494182",
     "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
     "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
+    "time": "2026-08-31 11:12:56"
   },
   {
-    "title": "I accidentally turned LLM memory into program analysis",
-    "description": "Score 290 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49485416",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "title": "Haiku R1/beta6 has been released",
+    "description": "Score 330 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49499867",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
     "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "description": "Score 226 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49486081",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-    "description": "Score 131 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49479951",
-    "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-    "description": "Score 120 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49494036",
-    "url": "https://defrag98.com",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
-  },
-  {
-    "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-    "description": "Score 119 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49420524",
-    "url": "https://galaxium.app",
-    "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
+    "time": "2026-08-31 11:12:56"
   },
   {
     "title": "The Rise and Fall of Agent Civilizations",
-    "description": "Score 117 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49494301",
+    "description": "Score 241 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49494301",
     "url": "https://www.dwarkesh.com/p/openai-huggingface",
     "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
+    "time": "2026-08-31 11:12:56"
   },
   {
-    "title": "Domain-Driven Agents",
-    "description": "Score 85 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49492584",
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "description": "Score 205 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49496782",
+    "url": "https://arxiv.org/abs/1804.07389",
     "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
+    "time": "2026-08-31 11:12:56"
   },
   {
-    "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-    "description": "Score 69 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49438865",
-    "url": "https://github.com/gbin/defragger",
+    "title": "Understanding ChatGPT Work",
+    "description": "Score 203 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49504625",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
     "source": "Hacker News",
-    "time": "2026-08-30 10:10:32"
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "description": "Score 202 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49498201",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "What my dad taught me about AI coding in the 90s",
+    "description": "Score 143 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49419381",
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "description": "Score 137 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49505219",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "description": "Score 112 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49501611",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "description": "Score 112 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49502611",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "Electric rain can eat through metal",
+    "description": "Score 112 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49463397",
+    "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
+  },
+  {
+    "title": "How to build a diffusion language model",
+    "description": "Score 106 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49503956",
+    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "source": "Hacker News",
+    "time": "2026-08-31 11:12:56"
   }
 ];

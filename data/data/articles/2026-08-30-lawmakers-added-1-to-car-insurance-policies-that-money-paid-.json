@@ -17,9 +17,45 @@
       "likes": 11,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788180244024_xez6agp67",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-09T03:30:51.351Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788180244024_an02yw57a",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-09T22:25:38.869Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788180244024_91ruicrnu",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-27T23:27:40.489Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 14,
-  "likeCount": 5
+  "commentCount": 4,
+  "viewCount": 22,
+  "likeCount": 7
 }

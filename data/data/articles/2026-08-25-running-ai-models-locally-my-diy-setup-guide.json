@@ -101,9 +101,33 @@
       "likes": 14,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788180244013_crwkw4g69",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-06T09:15:13.758Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788180244013_xxcx6tk1o",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-25T09:49:48.085Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 80,
-  "likeCount": 16
+  "commentCount": 10,
+  "viewCount": 101,
+  "likeCount": 20
 }
