@@ -101,9 +101,81 @@
       "likes": 14,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260856898_t4yrxr5wl",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-08T02:51:38.641Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788260856898_x3uaswujo",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-08T18:15:16.836Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260856898_c0xd94nr8",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-12T17:59:51.519Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260856898_4ux7eu7en",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-08-18T04:44:16.596Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260856898_dpkrdnl26",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-20T09:02:08.214Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260856898_imptoo0s8",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-22T19:25:46.934Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 138,
-  "likeCount": 29
+  "commentCount": 14,
+  "viewCount": 161,
+  "likeCount": 33
 }

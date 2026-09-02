@@ -125,9 +125,45 @@
       "likes": 2,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863203_7cp2p3o9n",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-16T23:25:40.663Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863203_7id8b21cf",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-18T07:31:05.934Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863203_etupcke4m",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-19T23:19:09.018Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 64,
-  "likeCount": 10
+  "commentCount": 13,
+  "viewCount": 73,
+  "likeCount": 15
 }

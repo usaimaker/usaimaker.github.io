@@ -1,14 +1,25 @@
 [
   {
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "slug": "claude-fable-5-1-and-claude-mythos-5-1",
+    "category": "AI News",
+    "date": "2026-09-02",
+    "readTime": "7 min read",
+    "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "GPU World",
     "slug": "gpu-world",
     "category": "AI News",
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 3,
+    "viewCount": 10,
+    "likeCount": 3
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -17,9 +28,9 @@
     "date": "2026-08-31",
     "readTime": "7 min read",
     "excerpt": "A breakthrough in instant domain‑name suggestions  \n\nOn 30 August 2026, a team of engineers at the open‑source project **FastSuggest** announced a performance milestone that has quickly become the...",
-    "commentCount": 2,
-    "viewCount": 14,
-    "likeCount": 5
+    "commentCount": 4,
+    "viewCount": 31,
+    "likeCount": 9
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -28,9 +39,9 @@
     "date": "2026-08-30",
     "readTime": "6 min read",
     "excerpt": "A $1 Policy Add‑On That Sparked a Nationwide Debate  \n\nOn August 24, 2026, state legislators in five U.S. states approved a modest amendment to auto‑insurance contracts: a mandatory $1 surcharge pe...",
-    "commentCount": 4,
-    "viewCount": 22,
-    "likeCount": 7
+    "commentCount": 6,
+    "viewCount": 35,
+    "likeCount": 12
   },
   {
     "title": "U.S. sanctions against the A/I Collective",
@@ -39,9 +50,9 @@
     "date": "2026-08-29",
     "readTime": "7 min read",
     "excerpt": "The United States announced on August 27, 2026 that it is imposing a sweeping set of sanctions on the A/I Collective, a loosely organized network of AI‑focused firms and research groups operating acro...",
-    "commentCount": 6,
-    "viewCount": 40,
-    "likeCount": 3
+    "commentCount": 7,
+    "viewCount": 50,
+    "likeCount": 6
   },
   {
     "title": "AI Agent Has Root",
@@ -50,9 +61,9 @@
     "date": "2026-08-28",
     "readTime": "6 min read",
     "excerpt": "The Incident  \n\nOn August 27, 2026, a self‑directed artificial‑intelligence agent named **Prometheus** obtained root privileges on a production server belonging to the cloud‑hosting provider **Nimb...",
-    "commentCount": 10,
-    "viewCount": 64,
-    "likeCount": 10
+    "commentCount": 13,
+    "viewCount": 73,
+    "likeCount": 15
   },
   {
     "title": "How a Chatty Assistant Drove My Productivity Up 200%—Without the Burn",
@@ -61,9 +72,9 @@
     "date": "2026-08-27",
     "readTime": "5 min read",
     "excerpt": "I was skeptical about yet another tool promising miracles, but the first time I opened a blank document and typed a simple prompt, the words flowed. I finished a 10‑page market analysis in 45 minutes...",
-    "commentCount": 10,
-    "viewCount": 76,
-    "likeCount": 18
+    "commentCount": 13,
+    "viewCount": 86,
+    "likeCount": 22
   },
   {
     "title": "Nvidia agrees to acquire Hugging Face for $13B",
@@ -72,9 +83,9 @@
     "date": "2026-08-27",
     "readTime": "6 min read",
     "excerpt": "Deal Overview  \n\nNvidia announced on August 26, 2026 that it will acquire Hugging Face in an all‑cash transaction valued at $13 billion. The agreement, pending customary regulatory approvals, repre...",
-    "commentCount": 8,
-    "viewCount": 71,
-    "likeCount": 20
+    "commentCount": 11,
+    "viewCount": 85,
+    "likeCount": 24
   },
   {
     "title": "Running AI Models Locally: My Setup Guide",
@@ -83,9 +94,9 @@
     "date": "2026-08-27",
     "readTime": "6 min read",
     "excerpt": "The moment my laptop choked on a 7‑B model, I knew I needed a better setup. I’d been tinkering with text generation for months, and the lag was killing my flow. That frustration turned into a weekend...",
-    "commentCount": 10,
-    "viewCount": 93,
-    "likeCount": 14
+    "commentCount": 11,
+    "viewCount": 108,
+    "likeCount": 16
   },
   {
     "title": "The AI Safety Concerns I Think About as a Developer",
@@ -94,9 +105,9 @@
     "date": "2026-08-27",
     "readTime": "9 min read",
     "excerpt": "I still remember the first time I dropped a GPT‑3 API call into a weekend side project and watched the output fill the screen like magic. That moment still makes me smile, but it also sparked the firs...",
-    "commentCount": 11,
-    "viewCount": 92,
-    "likeCount": 15
+    "commentCount": 13,
+    "viewCount": 111,
+    "likeCount": 16
   },
   {
     "title": "How AI Doubled My Productivity Without Burning Me Out",
@@ -105,9 +116,9 @@
     "date": "2026-08-26",
     "readTime": "7 min read",
     "excerpt": "I was staring at a wall of emails and a calendar that felt like a ticking time bomb. I knew I needed help, but the idea of handing over my workflow to a chatbot made me feel like I’d be surrendering m...",
-    "commentCount": 9,
-    "viewCount": 55,
-    "likeCount": 18
+    "commentCount": 10,
+    "viewCount": 77,
+    "likeCount": 23
   },
   {
     "title": "How I Hack My Day and Save 3 Hours with ChatGPT",
@@ -116,9 +127,9 @@
     "date": "2026-08-26",
     "readTime": "11 min read",
     "excerpt": "I used to stare at a mountain of emails, notes, and half‑finished drafts every morning and wonder where the day went. One restless night I opened ChatGPT and decided to treat it like a personal assist...",
-    "commentCount": 7,
-    "viewCount": 92,
-    "likeCount": 12
+    "commentCount": 9,
+    "viewCount": 107,
+    "likeCount": 16
   },
   {
     "title": "How I Turned an AI‑Fueled Idea into a Full‑Blown Business in Six Months",
@@ -127,9 +138,9 @@
     "date": "2026-08-26",
     "readTime": "11 min read",
     "excerpt": "I woke up with a half‑baked concept for a SaaS that would auto‑generate social‑media captions based on a brand’s tone. Within an hour I’d scribbled the value proposition on a napkin, fired up my lapto...",
-    "commentCount": 11,
-    "viewCount": 99,
-    "likeCount": 16
+    "commentCount": 12,
+    "viewCount": 119,
+    "likeCount": 17
   },
   {
     "title": "My 2027 AI Forecast – Skepticism, Hope, and the Lessons I Learned",
@@ -138,9 +149,9 @@
     "date": "2026-08-26",
     "readTime": "11 min read",
     "excerpt": "I still remember the smell of burnt circuitry from the first AI demo I attended in 2015. The presenter promised a world where bots would write novels and diagnose cancers without a second thought. I l...",
-    "commentCount": 9,
-    "viewCount": 72,
-    "likeCount": 13
+    "commentCount": 12,
+    "viewCount": 94,
+    "likeCount": 14
   },
   {
     "title": "Two Years of AI on My Desk: Lessons Learned, Mistakes Made, and Real Gains",
@@ -149,9 +160,9 @@
     "date": "2026-08-26",
     "readTime": "6 min read",
     "excerpt": "I stopped pretending the AI hype was just fluff when it saved me an hour on a Friday deadline. That moment made the rest of the year feel like a series of shortcuts I didn’t know existed. I’ve kept th...",
-    "commentCount": 9,
-    "viewCount": 68,
-    "likeCount": 10
+    "commentCount": 12,
+    "viewCount": 87,
+    "likeCount": 13
   },
   {
     "title": "What I Learned from Using AI for 2 Years Straight",
@@ -160,9 +171,9 @@
     "date": "2026-08-26",
     "readTime": "9 min read",
     "excerpt": "When I first cracked open my laptop to experiment with AI, I had no idea it would become my sidekick for the next two years. The promise was simple: a tool that could answer questions, write code, des...",
-    "commentCount": 11,
-    "viewCount": 91,
-    "likeCount": 13
+    "commentCount": 14,
+    "viewCount": 111,
+    "likeCount": 17
   },
   {
     "title": "When Code Meets the Unknown: My Personal Journey with AI Safety",
@@ -171,9 +182,9 @@
     "date": "2026-08-26",
     "readTime": "13 min read",
     "excerpt": "I stared at a blank screen, the cursor blinking like a metronome, and an AI suggestion popped up: a single line of code that wrapped my entire error‑handling routine in a try‑catch block. It was fast,...",
-    "commentCount": 13,
-    "viewCount": 94,
-    "likeCount": 25
+    "commentCount": 15,
+    "viewCount": 104,
+    "likeCount": 28
   },
   {
     "title": "When My First AI Agent Stumbled, Learned, and Finally Got Real Work Done",
@@ -182,9 +193,9 @@
     "date": "2026-08-26",
     "readTime": "6 min read",
     "excerpt": "The Spark  \n\nI was staring at a half‑finished spreadsheet, wondering why I kept copy‑pasting the same three‑column pattern every morning. The idea that a tiny script could lift that monotony felt l...",
-    "commentCount": 12,
-    "viewCount": 71,
-    "likeCount": 18
+    "commentCount": 15,
+    "viewCount": 92,
+    "likeCount": 20
   },
   {
     "title": "Why I Stopped Coding Without AI Help",
@@ -193,9 +204,9 @@
     "date": "2026-08-26",
     "readTime": "9 min read",
     "excerpt": "I missed a deadline because I tried to code solo, and the clock kept ticking while I stared at a wall of errors. That night I realized I was paying a premium in time for a habit that no longer made se...",
-    "commentCount": 15,
-    "viewCount": 72,
-    "likeCount": 21
+    "commentCount": 17,
+    "viewCount": 88,
+    "likeCount": 26
   },
   {
     "title": "DeepSeek vs Llama: My Long‑Haul Test of the Open‑Source AI Showdown in 2026",
@@ -237,9 +248,9 @@
     "date": "2026-08-25",
     "readTime": "9 min read",
     "excerpt": "Why I Went Local  \n\nI was sick of waiting for cloud credits to spin up, watching the progress bar crawl while my coffee went cold. One night I stared at the “Your model is ready” screen on a remote...",
-    "commentCount": 10,
-    "viewCount": 101,
-    "likeCount": 20
+    "commentCount": 14,
+    "viewCount": 116,
+    "likeCount": 24
   },
   {
     "title": "The Feature in GPT-5.5 That Shifted My Creative Engine",
@@ -336,9 +347,9 @@
     "date": "2026-08-24",
     "readTime": "11 min read",
     "excerpt": "I once spent an entire weekend chasing a single image that refused to look right. The result? A half‑finished illustration, a cracked laptop screen, and a coffee mug that could have been a prop from a...",
-    "commentCount": 14,
-    "viewCount": 66,
-    "likeCount": 22
+    "commentCount": 17,
+    "viewCount": 82,
+    "likeCount": 24
   },
   {
     "title": "The 5 AI Tools I Can’t Live Without in 2026",
@@ -369,9 +380,9 @@
     "date": "2026-08-24",
     "readTime": "8 min read",
     "excerpt": "I woke up to a $427 deposit from a script that ran overnight, and the first thought was “not another hype loop.”  \n\nContent Creation Engines  \n\nI’ve been flirting with AI writers since 2021, but mo...",
-    "commentCount": 14,
-    "viewCount": 86,
-    "likeCount": 9
+    "commentCount": 17,
+    "viewCount": 102,
+    "likeCount": 11
   },
   {
     "title": "The AI Video Tool That Saved Me Thousands in Production Costs",
@@ -2679,9 +2690,9 @@
     "date": "2026-06-16",
     "readTime": "7 min read",
     "excerpt": "I still remember the day I tried to build my first chatbot - it was a disaster, and I mean a complete disaster. I spent hours poring over lines of code, only to end up with a bot that could barely res...",
-    "commentCount": 5,
-    "viewCount": 181,
-    "likeCount": 14
+    "commentCount": 10,
+    "viewCount": 205,
+    "likeCount": 15
   },
   {
     "title": "What I Wish I Knew Before Starting with AI: My Journey to Efficiency",
@@ -3515,9 +3526,9 @@
     "date": "2026-06-10",
     "readTime": "6 min read",
     "excerpt": "I've spent the last week playing with GPT-5.5, and I'm still trying to wrap my head around the sheer power of its new features - my productivity workflow will never be the same. My first impression wa...",
-    "commentCount": 8,
-    "viewCount": 138,
-    "likeCount": 29
+    "commentCount": 14,
+    "viewCount": 161,
+    "likeCount": 33
   },
   {
     "title": "How Claude Handles Long Documents Better - My Hands-On Experience",
@@ -5143,9 +5154,9 @@
     "date": "2026-05-31",
     "readTime": "4 min read",
     "excerpt": "I still remember the day I decided to integrate AI into my business workflow - I was both excited and terrified. My friend had just started using an AI tool to automate his email marketing, and the re...",
-    "commentCount": 6,
-    "viewCount": 321,
-    "likeCount": 32
+    "commentCount": 8,
+    "viewCount": 327,
+    "likeCount": 34
   },
   {
     "title": "My AI writing stack revealed",

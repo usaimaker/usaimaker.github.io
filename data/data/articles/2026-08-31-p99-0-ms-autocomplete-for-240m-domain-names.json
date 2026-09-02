@@ -29,9 +29,33 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863204_bps4saw11",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-04T23:09:52.178Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863204_a3ufbk3it",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-21T00:58:34.374Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 2,
-  "viewCount": 14,
-  "likeCount": 5
+  "commentCount": 4,
+  "viewCount": 31,
+  "likeCount": 9
 }

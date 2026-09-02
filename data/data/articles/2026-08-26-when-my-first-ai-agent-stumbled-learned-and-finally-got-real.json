@@ -149,9 +149,45 @@
       "likes": 4,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_8rsjjoaas",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-28T23:14:54.137Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788260863200_krlh9sohf",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-31T10:53:57.060Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_8r24sndw1",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-08-31T19:17:50.200Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 71,
-  "likeCount": 18
+  "commentCount": 15,
+  "viewCount": 92,
+  "likeCount": 20
 }

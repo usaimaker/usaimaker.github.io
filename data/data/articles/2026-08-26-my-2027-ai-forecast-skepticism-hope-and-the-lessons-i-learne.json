@@ -113,9 +113,45 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863199_qvifqybx9",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-11T12:15:25.667Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863199_tzlvpg9c7",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-24T17:10:55.500Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863199_o1y6sv6zc",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-28T01:29:12.801Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 9,
-  "viewCount": 72,
-  "likeCount": 13
+  "commentCount": 12,
+  "viewCount": 94,
+  "likeCount": 14
 }

@@ -137,9 +137,21 @@
       "likes": 7,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863198_tudca2jo8",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-08-24T18:40:22.573Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 99,
-  "likeCount": 16
+  "commentCount": 12,
+  "viewCount": 119,
+  "likeCount": 17
 }

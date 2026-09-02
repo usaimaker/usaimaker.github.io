@@ -125,9 +125,57 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260852714_q4lhwf5ld",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-08T09:02:18.747Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788260852714_40blcws2m",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-08-16T12:12:00.407Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260852714_llj7mvp9o",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-25T13:03:10.967Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260852714_lb1zxak67",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-30T13:23:34.198Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 101,
-  "likeCount": 20
+  "commentCount": 14,
+  "viewCount": 116,
+  "likeCount": 24
 }

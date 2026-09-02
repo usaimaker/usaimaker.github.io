@@ -161,9 +161,33 @@
       "likes": 7,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_5at3y9qe1",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-25T02:18:46.885Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_k4f5gvm0i",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-29T17:47:36.512Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 94,
-  "likeCount": 25
+  "commentCount": 15,
+  "viewCount": 104,
+  "likeCount": 28
 }

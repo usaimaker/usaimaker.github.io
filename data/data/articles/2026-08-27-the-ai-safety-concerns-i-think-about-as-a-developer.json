@@ -137,9 +137,33 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863203_n1zjr1p1q",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-04T01:29:20.655Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863203_xro0ooipd",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-08-08T11:26:54.170Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 92,
-  "likeCount": 15
+  "commentCount": 13,
+  "viewCount": 111,
+  "likeCount": 16
 }

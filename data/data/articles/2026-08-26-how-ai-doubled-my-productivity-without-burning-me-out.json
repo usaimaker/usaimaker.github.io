@@ -113,9 +113,21 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863196_fwr7sb3fz",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-23T12:38:23.726Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 9,
-  "viewCount": 55,
-  "likeCount": 18
+  "commentCount": 10,
+  "viewCount": 77,
+  "likeCount": 23
 }

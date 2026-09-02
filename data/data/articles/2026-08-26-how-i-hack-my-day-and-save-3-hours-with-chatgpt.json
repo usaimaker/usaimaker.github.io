@@ -89,9 +89,33 @@
       "likes": 4,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863197_9fo7dud1e",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-15T05:29:35.176Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863197_uoxjux1we",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-21T23:19:40.234Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 92,
-  "likeCount": 12
+  "commentCount": 9,
+  "viewCount": 107,
+  "likeCount": 16
 }

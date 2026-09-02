@@ -173,9 +173,45 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260850426_nyeg56h9u",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-04T15:30:17.069Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260850230_n7472ilpz",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-14T14:36:52.124Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260850426_fn5gdw9p9",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-20T15:14:51.043Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 14,
-  "viewCount": 86,
-  "likeCount": 9
+  "commentCount": 17,
+  "viewCount": 102,
+  "likeCount": 11
 }

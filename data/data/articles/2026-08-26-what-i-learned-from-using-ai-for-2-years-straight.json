@@ -137,9 +137,45 @@
       "likes": 6,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_j1ellimwq",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-10T09:10:06.085Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863200_8bzn9i7ie",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-13T08:00:05.160Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788260863200_7xv08i7un",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-31T04:10:50.788Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 91,
-  "likeCount": 13
+  "commentCount": 14,
+  "viewCount": 111,
+  "likeCount": 17
 }

@@ -53,9 +53,33 @@
       "likes": 6,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260863204_wrr8l7ycl",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-08-07T00:20:48.642Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260863204_dxlr7swt1",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-22T18:35:15.037Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 22,
-  "likeCount": 7
+  "commentCount": 6,
+  "viewCount": 35,
+  "likeCount": 12
 }

@@ -77,9 +77,33 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788260854809_z3gs8u2oj",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-02T21:08:49.643Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788260854809_ikyfv5dj7",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-11T16:03:59.406Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 6,
-  "viewCount": 321,
-  "likeCount": 32
+  "commentCount": 8,
+  "viewCount": 327,
+  "likeCount": 34
 }
