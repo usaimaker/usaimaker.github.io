@@ -53,9 +53,45 @@
       "likes": 1,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788345583108_oi4z5qpml",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-10T13:36:50.930Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345583108_ge60qaiz6",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-26T14:33:42.198Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345583108_0nti3xcbq",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-31T04:05:39.679Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 4,
-  "viewCount": 31,
-  "likeCount": 9
+  "commentCount": 7,
+  "viewCount": 37,
+  "likeCount": 10
 }

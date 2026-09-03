@@ -161,9 +161,21 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345583106_10zmxklhy",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-16T17:32:10.615Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 73,
-  "likeCount": 15
+  "commentCount": 14,
+  "viewCount": 78,
+  "likeCount": 18
 }

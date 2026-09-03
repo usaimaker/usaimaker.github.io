@@ -137,9 +137,33 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345583104_feg6myijr",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-10T06:26:05.136Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345583104_31ussxc7a",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-16T09:41:00.983Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 11,
-  "viewCount": 85,
-  "likeCount": 24
+  "commentCount": 13,
+  "viewCount": 107,
+  "likeCount": 29
 }

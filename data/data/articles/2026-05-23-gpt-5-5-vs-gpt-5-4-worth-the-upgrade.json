@@ -29,9 +29,33 @@
       "likes": 14,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345578871_xuhcsc3ky",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-10T06:01:03.088Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345578871_053lpg19k",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-24T10:07:28.860Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 2,
-  "viewCount": 295,
-  "likeCount": 28
+  "commentCount": 4,
+  "viewCount": 312,
+  "likeCount": 31
 }

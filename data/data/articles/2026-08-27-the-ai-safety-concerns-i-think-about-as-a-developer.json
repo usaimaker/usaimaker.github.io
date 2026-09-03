@@ -161,9 +161,33 @@
       "likes": 4,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345583105_sfjy5ytfb",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-05T00:25:33.160Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345583105_dm7l37i6a",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-31T08:14:11.985Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 111,
-  "likeCount": 16
+  "commentCount": 15,
+  "viewCount": 131,
+  "likeCount": 21
 }

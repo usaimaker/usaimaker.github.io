@@ -137,9 +137,21 @@
       "likes": 11,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345583104_022wmak5z",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-10T12:51:51.266Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 11,
-  "viewCount": 108,
-  "likeCount": 16
+  "commentCount": 12,
+  "viewCount": 114,
+  "likeCount": 18
 }

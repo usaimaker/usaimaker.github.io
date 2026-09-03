@@ -65,9 +65,45 @@
       "likes": 2,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788345572536_yr6m7bigm",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-06T22:17:31.397Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345572536_5qagx8suw",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-08-20T04:04:56.286Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788345572535_t0zvjliq0",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-08-23T08:40:56.309Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 120,
-  "likeCount": 33
+  "commentCount": 8,
+  "viewCount": 126,
+  "likeCount": 34
 }
