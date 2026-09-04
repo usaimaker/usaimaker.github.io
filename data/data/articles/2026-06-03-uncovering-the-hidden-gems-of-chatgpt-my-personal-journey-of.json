@@ -101,9 +101,93 @@
       "likes": 14,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432102347_v7opkkh57",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-05T13:41:27.868Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432102347_dll4dji0y",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-09T14:23:36.072Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432102347_thu4lei2x",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-14T14:52:58.050Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788432102347_q10bvpz47",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-15T14:38:33.385Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432102347_rhpbqe72k",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-17T05:20:54.050Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788432102338_7f8mbvkh9",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-23T03:30:52.575Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432102347_fg3erzx9e",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-02T14:33:42.100Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 431,
-  "likeCount": 10
+  "commentCount": 15,
+  "viewCount": 454,
+  "likeCount": 13
 }

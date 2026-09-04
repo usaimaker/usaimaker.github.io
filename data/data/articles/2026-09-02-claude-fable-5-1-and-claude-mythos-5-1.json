@@ -17,9 +17,21 @@
       "likes": 11,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432115028_6ms16vsyl",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-09-01T04:32:58.118Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 12,
-  "likeCount": 4
+  "commentCount": 2,
+  "viewCount": 19,
+  "likeCount": 9
 }

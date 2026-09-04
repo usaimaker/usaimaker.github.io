@@ -1,14 +1,25 @@
 [
   {
+    "title": "GPT-6 Astra",
+    "slug": "gpt-6-astra",
+    "category": "AI News",
+    "date": "2026-09-04",
+    "readTime": "6 min read",
+    "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
     "slug": "gemini-3-8-flash-and-3-8-flash-cyber",
     "category": "AI News",
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 2,
+    "viewCount": 16,
+    "likeCount": 2
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -17,9 +28,9 @@
     "date": "2026-09-02",
     "readTime": "7 min read",
     "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
-    "commentCount": 1,
-    "viewCount": 12,
-    "likeCount": 4
+    "commentCount": 2,
+    "viewCount": 19,
+    "likeCount": 9
   },
   {
     "title": "GPU World",
@@ -28,9 +39,9 @@
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 4,
-    "viewCount": 25,
-    "likeCount": 7
+    "commentCount": 6,
+    "viewCount": 30,
+    "likeCount": 9
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -39,9 +50,9 @@
     "date": "2026-08-31",
     "readTime": "7 min read",
     "excerpt": "A breakthrough in instant domain‑name suggestions  \n\nOn 30 August 2026, a team of engineers at the open‑source project **FastSuggest** announced a performance milestone that has quickly become the...",
-    "commentCount": 7,
-    "viewCount": 37,
-    "likeCount": 10
+    "commentCount": 9,
+    "viewCount": 48,
+    "likeCount": 15
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -50,9 +61,9 @@
     "date": "2026-08-30",
     "readTime": "6 min read",
     "excerpt": "A $1 Policy Add‑On That Sparked a Nationwide Debate  \n\nOn August 24, 2026, state legislators in five U.S. states approved a modest amendment to auto‑insurance contracts: a mandatory $1 surcharge pe...",
-    "commentCount": 7,
-    "viewCount": 52,
-    "likeCount": 15
+    "commentCount": 9,
+    "viewCount": 65,
+    "likeCount": 20
   },
   {
     "title": "U.S. sanctions against the A/I Collective",
@@ -61,9 +72,9 @@
     "date": "2026-08-29",
     "readTime": "7 min read",
     "excerpt": "The United States announced on August 27, 2026 that it is imposing a sweeping set of sanctions on the A/I Collective, a loosely organized network of AI‑focused firms and research groups operating acro...",
-    "commentCount": 10,
-    "viewCount": 55,
-    "likeCount": 7
+    "commentCount": 13,
+    "viewCount": 60,
+    "likeCount": 10
   },
   {
     "title": "AI Agent Has Root",
@@ -72,9 +83,9 @@
     "date": "2026-08-28",
     "readTime": "6 min read",
     "excerpt": "The Incident  \n\nOn August 27, 2026, a self‑directed artificial‑intelligence agent named **Prometheus** obtained root privileges on a production server belonging to the cloud‑hosting provider **Nimb...",
-    "commentCount": 14,
-    "viewCount": 78,
-    "likeCount": 18
+    "commentCount": 15,
+    "viewCount": 101,
+    "likeCount": 23
   },
   {
     "title": "How a Chatty Assistant Drove My Productivity Up 200%—Without the Burn",
@@ -3658,9 +3669,9 @@
     "date": "2026-06-10",
     "readTime": "7 min read",
     "excerpt": "I've spent years watching AI trends come and go, each one promising to transform the world, but often delivering little more than hype and frustration. My experience with AI-powered chatbots, for inst...",
-    "commentCount": 3,
-    "viewCount": 318,
-    "likeCount": 26
+    "commentCount": 10,
+    "viewCount": 326,
+    "likeCount": 27
   },
   {
     "title": "Cracking the Code: My Journey with Midjourney V7 Prompts",
@@ -4813,9 +4824,9 @@
     "date": "2026-06-03",
     "readTime": "6 min read",
     "excerpt": "I still remember the first time I stumbled upon ChatGPT - I was blown away by its ability to understand and respond to my queries in a surprisingly human-like way. As I delved deeper, I discovered tha...",
-    "commentCount": 8,
-    "viewCount": 431,
-    "likeCount": 10
+    "commentCount": 15,
+    "viewCount": 454,
+    "likeCount": 13
   },
   {
     "title": "Unveiling the Mysteries of Claude Opus 4.7: A Skeptical User's Journey",
@@ -6111,9 +6122,9 @@
     "date": "2026-05-26",
     "readTime": "4 min read",
     "excerpt": "I've been playing around with the new AI-powered photo editing tool on my phone, and one feature in particular has caught my attention - its ability to automatically remove unwanted objects from image...",
-    "commentCount": 4,
-    "viewCount": 391,
-    "likeCount": 34
+    "commentCount": 11,
+    "viewCount": 402,
+    "likeCount": 38
   },
   {
     "title": "The AI Image Tool that Saved My Skin",
@@ -7629,9 +7640,9 @@
     "date": "2026-05-17",
     "readTime": "4 min read",
     "excerpt": "I just spent the last hour trying to get my chatbot to respond to customer inquiries, and I have to say, it's been a frustrating experience - the thing just wouldn't cooperate. My GPT-5.4 model was st...",
-    "commentCount": 6,
-    "viewCount": 421,
-    "likeCount": 27
+    "commentCount": 8,
+    "viewCount": 429,
+    "likeCount": 30
   },
   {
     "title": "GPT-5.5 vs GPT-5.4: My Quest for the Perfect Productivity Sidekick",
@@ -8168,9 +8179,9 @@
     "date": "2026-05-15",
     "readTime": "5 min read",
     "excerpt": "I still remember the first time I used an AI tool to help with my writing - it was a mess. The suggestions were clunky, the grammar was off, and I ended up spending more time fixing the AI's mistakes...",
-    "commentCount": 7,
-    "viewCount": 59,
-    "likeCount": 12
+    "commentCount": 15,
+    "viewCount": 76,
+    "likeCount": 15
   },
   {
     "title": "How Cursor Changed My Coding Life",
@@ -9125,9 +9136,9 @@
     "date": "2026-04-28",
     "readTime": "4 min read",
     "excerpt": "I stumbled upon Midjourney a few months ago, and it's been a wild ride ever since - I've spent countless hours experimenting with this AI art tool, and I'm still amazed by the results. My friends thin...",
-    "commentCount": 10,
-    "viewCount": 95,
-    "likeCount": 23
+    "commentCount": 17,
+    "viewCount": 103,
+    "likeCount": 28
   },
   {
     "title": "My AI Awakening: What I Wish I Knew Before Jumping In",

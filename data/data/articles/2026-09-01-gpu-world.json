@@ -53,9 +53,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432115027_qiq8dajnm",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-08-16T05:10:46.456Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432115027_lkv15ow3c",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-18T00:52:03.540Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 25,
-  "likeCount": 7
+  "commentCount": 6,
+  "viewCount": 30,
+  "likeCount": 9
 }

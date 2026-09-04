@@ -77,9 +77,33 @@
       "likes": 15,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432110759_mssuj8em6",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-19T06:59:31.697Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432110759_1x2vzloim",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-29T18:40:18.466Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 421,
-  "likeCount": 27
+  "commentCount": 8,
+  "viewCount": 429,
+  "likeCount": 30
 }

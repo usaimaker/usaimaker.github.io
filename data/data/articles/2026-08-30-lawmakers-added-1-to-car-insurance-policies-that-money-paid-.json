@@ -89,9 +89,33 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432115026_2aonuuzww",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-19T03:02:24.508Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432115026_67jy9uico",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-22T02:41:46.446Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 52,
-  "likeCount": 15
+  "commentCount": 9,
+  "viewCount": 65,
+  "likeCount": 20
 }

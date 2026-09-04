@@ -125,9 +125,93 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_aidzjj7rv",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-08-08T00:01:41.073Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_zxqfq4h9r",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-15T11:44:03.341Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788432104469_ufbv81mwc",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-15T21:37:04.384Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_vh0r8jxn4",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-18T05:58:10.763Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_8o0opn9v4",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-24T20:37:03.252Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_yd4r4wxbs",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-26T18:45:31.770Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432104469_7c4e1sd19",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-09-01T02:29:14.217Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 95,
-  "likeCount": 23
+  "commentCount": 17,
+  "viewCount": 103,
+  "likeCount": 28
 }

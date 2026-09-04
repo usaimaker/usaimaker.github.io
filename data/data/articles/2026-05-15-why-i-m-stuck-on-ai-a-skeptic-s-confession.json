@@ -89,9 +89,105 @@
       "likes": 3,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788432112885_r6i66tkv3",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-08-05T17:15:55.023Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_f084g1j1r",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-07T11:22:06.200Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_s4js8elxh",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-10T17:02:44.765Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_vmvqbh76o",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-08-14T09:40:07.413Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_tlekavhk8",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-14T15:30:05.020Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112884_q7t9olo91",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-08-16T22:52:05.161Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_es8b12t5h",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-23T23:27:22.607Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432112885_ih79tc0t7",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-09-01T15:17:42.371Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 59,
-  "likeCount": 12
+  "commentCount": 15,
+  "viewCount": 76,
+  "likeCount": 15
 }

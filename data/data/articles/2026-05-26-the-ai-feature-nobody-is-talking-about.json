@@ -53,9 +53,93 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788432108657_eosk1dlbu",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-08-05T15:10:39.494Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432108657_r3aw01hsz",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-07T06:23:49.264Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432108657_6w26bwtlt",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-13T12:05:01.403Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788432108657_4xqnv8n1w",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-16T06:20:14.941Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432108657_2o1tgvcfv",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-21T11:48:05.976Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432108656_1sepkeim2",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-23T15:00:57.280Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788432108657_kczbv5obe",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-08-27T01:56:15.942Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 391,
-  "likeCount": 34
+  "commentCount": 11,
+  "viewCount": 402,
+  "likeCount": 38
 }
