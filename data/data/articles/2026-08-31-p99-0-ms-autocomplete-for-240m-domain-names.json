@@ -113,9 +113,33 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_a9f4nu7p7",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-11T20:21:30.873Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788518219065_wcslta5d8",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-09-03T03:19:52.023Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 9,
-  "viewCount": 48,
-  "likeCount": 15
+  "commentCount": 11,
+  "viewCount": 56,
+  "likeCount": 17
 }

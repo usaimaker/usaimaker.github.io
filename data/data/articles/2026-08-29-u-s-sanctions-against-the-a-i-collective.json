@@ -161,9 +161,33 @@
       "likes": 4,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788518219064_qd8pgyskw",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-14T11:56:18.891Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_k7ik58050",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-21T10:35:36.617Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 13,
-  "viewCount": 60,
-  "likeCount": 10
+  "commentCount": 15,
+  "viewCount": 79,
+  "likeCount": 12
 }

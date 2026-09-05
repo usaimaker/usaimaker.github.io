@@ -1,14 +1,25 @@
 [
   {
+    "title": "Discovery of a new OpenAI agent message board",
+    "slug": "discovery-of-a-new-openai-agent-message-board",
+    "category": "AI News",
+    "date": "2026-09-05",
+    "readTime": "8 min read",
+    "excerpt": "A startling find in the AI underground  \n\nOn September 2, 2026, a group of independent security researchers posted a screenshot of an active discussion thread that appeared to be hosted on a privat...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "GPT-6 Astra",
     "slug": "gpt-6-astra",
     "category": "AI News",
     "date": "2026-09-04",
     "readTime": "6 min read",
     "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 3,
+    "viewCount": 21,
+    "likeCount": 1
   },
   {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -17,9 +28,9 @@
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 2,
-    "viewCount": 16,
-    "likeCount": 2
+    "commentCount": 3,
+    "viewCount": 40,
+    "likeCount": 7
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -28,9 +39,9 @@
     "date": "2026-09-02",
     "readTime": "7 min read",
     "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
-    "commentCount": 2,
-    "viewCount": 19,
-    "likeCount": 9
+    "commentCount": 4,
+    "viewCount": 41,
+    "likeCount": 14
   },
   {
     "title": "GPU World",
@@ -39,9 +50,9 @@
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 6,
-    "viewCount": 30,
-    "likeCount": 9
+    "commentCount": 9,
+    "viewCount": 45,
+    "likeCount": 10
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -50,9 +61,9 @@
     "date": "2026-08-31",
     "readTime": "7 min read",
     "excerpt": "A breakthrough in instant domain‑name suggestions  \n\nOn 30 August 2026, a team of engineers at the open‑source project **FastSuggest** announced a performance milestone that has quickly become the...",
-    "commentCount": 9,
-    "viewCount": 48,
-    "likeCount": 15
+    "commentCount": 11,
+    "viewCount": 56,
+    "likeCount": 17
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -61,9 +72,9 @@
     "date": "2026-08-30",
     "readTime": "6 min read",
     "excerpt": "A $1 Policy Add‑On That Sparked a Nationwide Debate  \n\nOn August 24, 2026, state legislators in five U.S. states approved a modest amendment to auto‑insurance contracts: a mandatory $1 surcharge pe...",
-    "commentCount": 9,
-    "viewCount": 65,
-    "likeCount": 20
+    "commentCount": 11,
+    "viewCount": 79,
+    "likeCount": 24
   },
   {
     "title": "U.S. sanctions against the A/I Collective",
@@ -72,9 +83,9 @@
     "date": "2026-08-29",
     "readTime": "7 min read",
     "excerpt": "The United States announced on August 27, 2026 that it is imposing a sweeping set of sanctions on the A/I Collective, a loosely organized network of AI‑focused firms and research groups operating acro...",
-    "commentCount": 13,
-    "viewCount": 60,
-    "likeCount": 10
+    "commentCount": 15,
+    "viewCount": 79,
+    "likeCount": 12
   },
   {
     "title": "AI Agent Has Root",
@@ -4989,9 +5000,9 @@
     "date": "2026-06-01",
     "readTime": "3 min read",
     "excerpt": "I just spent the last week playing around with Claude Opus 4.7 and GPT-5.5, and I have to say, my mind is blown. I was expecting some incremental updates, but what I got was a whole new level of conve...",
-    "commentCount": 7,
-    "viewCount": 148,
-    "likeCount": 31
+    "commentCount": 10,
+    "viewCount": 161,
+    "likeCount": 33
   },
   {
     "title": "DeepSeek V4.5: The open source king",
@@ -5330,9 +5341,9 @@
     "date": "2026-05-30",
     "readTime": "4 min read",
     "excerpt": "I still remember the day I stumbled upon Cursor, a code completion tool that would eventually become my trusted sidekick. My coding life was a mess back then - I'd spend hours typing out lines of code...",
-    "commentCount": 15,
-    "viewCount": 284,
-    "likeCount": 9
+    "commentCount": 17,
+    "viewCount": 296,
+    "likeCount": 10
   },
   {
     "title": "How I Learned to Stop Worrying and Love AI",
@@ -7640,9 +7651,9 @@
     "date": "2026-05-17",
     "readTime": "4 min read",
     "excerpt": "I just spent the last hour trying to get my chatbot to respond to customer inquiries, and I have to say, it's been a frustrating experience - the thing just wouldn't cooperate. My GPT-5.4 model was st...",
-    "commentCount": 8,
-    "viewCount": 429,
-    "likeCount": 30
+    "commentCount": 11,
+    "viewCount": 451,
+    "likeCount": 33
   },
   {
     "title": "GPT-5.5 vs GPT-5.4: My Quest for the Perfect Productivity Sidekick",

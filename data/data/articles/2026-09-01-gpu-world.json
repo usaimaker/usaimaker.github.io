@@ -77,9 +77,45 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_tepywt10l",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-08-21T23:54:05.093Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788518219066_a8s08hr52",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-22T07:42:10.361Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_dfpgpzbbo",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "lol this is so true 😂",
+      "timestamp": "2026-08-30T19:36:55.764Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 30,
-  "likeCount": 9
+  "commentCount": 9,
+  "viewCount": 45,
+  "likeCount": 10
 }

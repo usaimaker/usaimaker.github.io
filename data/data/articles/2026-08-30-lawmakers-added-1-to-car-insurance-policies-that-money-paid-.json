@@ -113,9 +113,33 @@
       "likes": 11,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_uypuvmszc",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-08-07T15:02:40.109Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788518219065_ghrd6uife",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-25T05:10:57.730Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 65,
-  "likeCount": 20
+  "commentCount": 11,
+  "viewCount": 79,
+  "likeCount": 24
 }

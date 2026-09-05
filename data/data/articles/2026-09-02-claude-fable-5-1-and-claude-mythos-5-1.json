@@ -29,9 +29,33 @@
       "likes": 14,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788518219066_752db1fiu",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "lol this is so true 😂",
+      "timestamp": "2026-08-13T14:40:04.992Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788518219066_bzaeho5c1",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-28T05:23:17.608Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 19,
-  "likeCount": 9
+  "commentCount": 4,
+  "viewCount": 41,
+  "likeCount": 14
 }

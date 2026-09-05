@@ -1,7 +1,17 @@
 // AI Tools Data - Latest AI Models September 2026
-// Last Updated: 2026-09-01 09:39:06
+// Last Updated: 2026-09-04 09:10:53
 
 const toolsData = [
+    {
+        name: "Gpt-6",
+        description: "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+        url: "https://chat.openai.com",
+        category: "Chat Assistant",
+        price: "See official site",
+        rating: "NEW",
+        emoji: "NEW",
+        badge: "New Release"
+    },
     {
         name: "GPT-5.6",
         description: "New OpenAI model with improved efficiency and lower pricing for enterprise deployment. Enhanced multi-step reasoning and tool use.",
