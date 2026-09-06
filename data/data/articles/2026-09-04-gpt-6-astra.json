@@ -41,9 +41,21 @@
       "likes": 9,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788602298011_ls8c4wwn9",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-11T02:17:18.811Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 3,
-  "viewCount": 21,
-  "likeCount": 1
+  "commentCount": 4,
+  "viewCount": 26,
+  "likeCount": 5
 }

@@ -1,14 +1,25 @@
 [
   {
+    "title": "GPT-6 Astra on robot arms",
+    "slug": "gpt-6-astra-on-robot-arms",
+    "category": "AI News",
+    "date": "2026-09-06",
+    "readTime": "7 min read",
+    "excerpt": "A breakthrough demonstration on September 2, 2026\n\nOpenAI unveiled a working prototype of its GPT‑6 Astra model controlling industrial robot arms at Hannover Messe. The system lifted, assembled, an...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "Discovery of a new OpenAI agent message board",
     "slug": "discovery-of-a-new-openai-agent-message-board",
     "category": "AI News",
     "date": "2026-09-05",
     "readTime": "8 min read",
     "excerpt": "A startling find in the AI underground  \n\nOn September 2, 2026, a group of independent security researchers posted a screenshot of an active discussion thread that appeared to be hosted on a privat...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 2,
+    "viewCount": 22,
+    "likeCount": 2
   },
   {
     "title": "GPT-6 Astra",
@@ -17,9 +28,9 @@
     "date": "2026-09-04",
     "readTime": "6 min read",
     "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
-    "commentCount": 3,
-    "viewCount": 21,
-    "likeCount": 1
+    "commentCount": 4,
+    "viewCount": 26,
+    "likeCount": 5
   },
   {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -28,9 +39,9 @@
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 3,
-    "viewCount": 40,
-    "likeCount": 7
+    "commentCount": 6,
+    "viewCount": 62,
+    "likeCount": 12
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -39,9 +50,9 @@
     "date": "2026-09-02",
     "readTime": "7 min read",
     "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
-    "commentCount": 4,
-    "viewCount": 41,
-    "likeCount": 14
+    "commentCount": 5,
+    "viewCount": 51,
+    "likeCount": 17
   },
   {
     "title": "GPU World",
@@ -50,9 +61,9 @@
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 9,
-    "viewCount": 45,
-    "likeCount": 10
+    "commentCount": 10,
+    "viewCount": 55,
+    "likeCount": 14
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -61,9 +72,9 @@
     "date": "2026-08-31",
     "readTime": "7 min read",
     "excerpt": "A breakthrough in instant domain‑name suggestions  \n\nOn 30 August 2026, a team of engineers at the open‑source project **FastSuggest** announced a performance milestone that has quickly become the...",
-    "commentCount": 11,
-    "viewCount": 56,
-    "likeCount": 17
+    "commentCount": 12,
+    "viewCount": 72,
+    "likeCount": 20
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -72,9 +83,9 @@
     "date": "2026-08-30",
     "readTime": "6 min read",
     "excerpt": "A $1 Policy Add‑On That Sparked a Nationwide Debate  \n\nOn August 24, 2026, state legislators in five U.S. states approved a modest amendment to auto‑insurance contracts: a mandatory $1 surcharge pe...",
-    "commentCount": 11,
-    "viewCount": 79,
-    "likeCount": 24
+    "commentCount": 13,
+    "viewCount": 93,
+    "likeCount": 28
   },
   {
     "title": "U.S. sanctions against the A/I Collective",
@@ -1403,9 +1414,9 @@
     "date": "2026-07-31",
     "readTime": "7 min read",
     "excerpt": "I still remember the project I worked on last year, where my team and I spent countless hours trying to implement a chatbot using a popular AI framework, only to realize we were using it all wrong. My...",
-    "commentCount": 10,
-    "viewCount": 386,
-    "likeCount": 35
+    "commentCount": 17,
+    "viewCount": 398,
+    "likeCount": 36
   },
   {
     "title": "The AI Workflow That Saved My Business",
@@ -6595,9 +6606,9 @@
     "date": "2026-05-23",
     "readTime": "4 min read",
     "excerpt": "I'm obsessed with saving time, and my latest discovery has been a total lifesaver - using AI to accelerate my writing. As a busy tech blogger, I'm always racing against deadlines, and anything that ca...",
-    "commentCount": 6,
-    "viewCount": 209,
-    "likeCount": 5
+    "commentCount": 13,
+    "viewCount": 229,
+    "likeCount": 8
   },
   {
     "title": "My AI Obsession: 2 Years of Trial and Error",
@@ -6859,9 +6870,9 @@
     "date": "2026-05-22",
     "readTime": "4 min read",
     "excerpt": "I still remember the first time I stumbled upon Midjourney V7 - it was like unlocking a treasure chest of creative possibilities. My mind was racing with ideas, and I couldn't wait to dive in and star...",
-    "commentCount": 8,
-    "viewCount": 186,
-    "likeCount": 34
+    "commentCount": 12,
+    "viewCount": 191,
+    "likeCount": 35
   },
   {
     "title": "My Secret to Consistent AI-Generated Images: Separating Fact from Fiction",
@@ -8828,9 +8839,9 @@
     "date": "2026-05-02",
     "readTime": "4 min read",
     "excerpt": "I still remember the day I stumbled upon Cursor - my coding life was a mess, with multiple projects open at the same time and a desktop cluttered with notes and reminders. I was working on a complex w...",
-    "commentCount": 8,
-    "viewCount": 70,
-    "likeCount": 27
+    "commentCount": 13,
+    "viewCount": 76,
+    "likeCount": 30
   },
   {
     "title": "How I write 10x faster with AI - My Love-Hate Relationship",

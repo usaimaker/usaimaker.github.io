@@ -53,9 +53,21 @@
       "likes": 15,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788602298010_5ohkojkgt",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-08-19T13:23:07.712Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 41,
-  "likeCount": 14
+  "commentCount": 5,
+  "viewCount": 51,
+  "likeCount": 17
 }

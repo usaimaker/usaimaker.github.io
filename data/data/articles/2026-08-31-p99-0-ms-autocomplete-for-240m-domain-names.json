@@ -137,9 +137,21 @@
       "likes": 1,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788602298009_i46b8cnhh",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-09-05T06:26:19.947Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 56,
-  "likeCount": 17
+  "commentCount": 12,
+  "viewCount": 72,
+  "likeCount": 20
 }

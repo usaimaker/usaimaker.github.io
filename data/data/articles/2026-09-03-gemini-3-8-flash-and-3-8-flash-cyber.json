@@ -41,9 +41,45 @@
       "likes": 12,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788602298011_rz42fxw5b",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-28T05:27:14.227Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788602298011_57ouzwbiz",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-08-28T06:55:35.138Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788602298011_u8kux8dvu",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-09-03T05:08:59.376Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 40,
-  "likeCount": 7
+  "commentCount": 6,
+  "viewCount": 62,
+  "likeCount": 12
 }
