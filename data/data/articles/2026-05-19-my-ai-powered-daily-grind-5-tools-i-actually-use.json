@@ -77,9 +77,57 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788689818341_mizoupduk",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-13T22:25:35.284Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689818341_rh4k22noi",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-18T05:44:50.593Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788689818341_ses4q65ne",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-08-18T07:48:48.401Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689818340_ezbrcsth4",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-28T12:24:32.680Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 417,
-  "likeCount": 23
+  "commentCount": 10,
+  "viewCount": 433,
+  "likeCount": 25
 }

@@ -77,9 +77,105 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_s4cqkowt5",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-08-07T23:58:58.925Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_qlll5heig",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-08-11T06:15:53.943Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_oyiownmoi",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-08-27T19:37:40.233Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_axn59ana5",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-29T23:42:18.094Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_zqpkjvw6b",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-09-01T12:22:28.274Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_hask7x9y4",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-09-04T06:08:22.898Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788689816244_lr15wrrvj",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-09-05T23:54:18.120Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689816244_krvsv0mvu",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-09-06T08:30:32.526Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 6,
-  "viewCount": 433,
-  "likeCount": 15
+  "commentCount": 14,
+  "viewCount": 457,
+  "likeCount": 16
 }

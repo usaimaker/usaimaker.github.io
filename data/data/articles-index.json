@@ -1,14 +1,25 @@
 [
   {
+    "title": "Research acceleration: The view inside OpenAI",
+    "slug": "research-acceleration-the-view-inside-openai",
+    "category": "AI News",
+    "date": "2026-09-07",
+    "readTime": "7 min read",
+    "excerpt": "The AI world woke up this week to a rare glimpse behind the curtain of OpenAI’s research engine, as a former senior engineer published a detailed account of the company’s internal processes. The expos...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "GPT-6 Astra on robot arms",
     "slug": "gpt-6-astra-on-robot-arms",
     "category": "AI News",
     "date": "2026-09-06",
     "readTime": "7 min read",
     "excerpt": "A breakthrough demonstration on September 2, 2026\n\nOpenAI unveiled a working prototype of its GPT‑6 Astra model controlling industrial robot arms at Hannover Messe. The system lifted, assembled, an...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 1,
+    "viewCount": 8,
+    "likeCount": 1
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
@@ -17,9 +28,9 @@
     "date": "2026-09-05",
     "readTime": "8 min read",
     "excerpt": "A startling find in the AI underground  \n\nOn September 2, 2026, a group of independent security researchers posted a screenshot of an active discussion thread that appeared to be hosted on a privat...",
-    "commentCount": 2,
-    "viewCount": 22,
-    "likeCount": 2
+    "commentCount": 4,
+    "viewCount": 37,
+    "likeCount": 5
   },
   {
     "title": "GPT-6 Astra",
@@ -28,9 +39,9 @@
     "date": "2026-09-04",
     "readTime": "6 min read",
     "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
-    "commentCount": 4,
-    "viewCount": 26,
-    "likeCount": 5
+    "commentCount": 5,
+    "viewCount": 32,
+    "likeCount": 6
   },
   {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -39,9 +50,9 @@
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 6,
-    "viewCount": 62,
-    "likeCount": 12
+    "commentCount": 7,
+    "viewCount": 70,
+    "likeCount": 15
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -50,9 +61,9 @@
     "date": "2026-09-02",
     "readTime": "7 min read",
     "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
-    "commentCount": 5,
-    "viewCount": 51,
-    "likeCount": 17
+    "commentCount": 7,
+    "viewCount": 59,
+    "likeCount": 22
   },
   {
     "title": "GPU World",
@@ -61,9 +72,9 @@
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 10,
-    "viewCount": 55,
-    "likeCount": 14
+    "commentCount": 11,
+    "viewCount": 79,
+    "likeCount": 15
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -72,9 +83,9 @@
     "date": "2026-08-31",
     "readTime": "7 min read",
     "excerpt": "A breakthrough in instant domain‑name suggestions  \n\nOn 30 August 2026, a team of engineers at the open‑source project **FastSuggest** announced a performance milestone that has quickly become the...",
-    "commentCount": 12,
-    "viewCount": 72,
-    "likeCount": 20
+    "commentCount": 14,
+    "viewCount": 95,
+    "likeCount": 23
   },
   {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
@@ -248,9 +259,9 @@
     "date": "2026-08-26",
     "readTime": "9 min read",
     "excerpt": "I missed a deadline because I tried to code solo, and the clock kept ticking while I stared at a wall of errors. That night I realized I was paying a premium in time for a habit that no longer made se...",
-    "commentCount": 17,
-    "viewCount": 88,
-    "likeCount": 26
+    "commentCount": 25,
+    "viewCount": 110,
+    "likeCount": 30
   },
   {
     "title": "DeepSeek vs Llama: My Long‑Haul Test of the Open‑Source AI Showdown in 2026",
@@ -919,9 +930,9 @@
     "date": "2026-08-15",
     "readTime": "4 min read",
     "excerpt": "My latest project, a chatbot for a popular e-commerce website, had me torn between two AI heavyweights: DeepSeek V4.5 and GPT-5.5. I've spent countless hours tweaking and testing both models, and I'm...",
-    "commentCount": 13,
-    "viewCount": 101,
-    "likeCount": 16
+    "commentCount": 16,
+    "viewCount": 121,
+    "likeCount": 19
   },
   {
     "title": "Claude 4.7 Opus Review: Why I Switched from ChatGPT",
@@ -1216,9 +1227,9 @@
     "date": "2026-08-02",
     "readTime": "7 min read",
     "excerpt": "I've spent the last month putting DeepSeek V4.5 and GPT-5.5 through their paces, and I've got to say, the results are eye-opening. My goal was to see which one could help me crank out high-quality con...",
-    "commentCount": 6,
-    "viewCount": 433,
-    "likeCount": 15
+    "commentCount": 14,
+    "viewCount": 457,
+    "likeCount": 16
   },
   {
     "title": "My GPT Upgrade Dilemma: Weighing the Benefits of GPT-5.5 Over GPT-5.4",
@@ -6265,9 +6276,9 @@
     "date": "2026-05-25",
     "readTime": "5 min read",
     "excerpt": "I still remember the night I spent hours trying to get my first AI model to work, only to realize I'd forgotten to install a crucial library - my code was never going to run. That was my introduction...",
-    "commentCount": 5,
-    "viewCount": 139,
-    "likeCount": 16
+    "commentCount": 7,
+    "viewCount": 163,
+    "likeCount": 17
   },
   {
     "title": "My AI Experiment: 2 Years of Trial and Error",
@@ -6749,9 +6760,9 @@
     "date": "2026-05-22",
     "readTime": "5 min read",
     "excerpt": "I'll be the first to admit, I was skeptical about using AI to automate my business - I mean, how could a machine possibly understand the intricacies of my daily tasks? But desperate times call for des...",
-    "commentCount": 5,
-    "viewCount": 428,
-    "likeCount": 26
+    "commentCount": 11,
+    "viewCount": 435,
+    "likeCount": 30
   },
   {
     "title": "From beginner to pro: My Midjourney V7 journey",
@@ -7387,9 +7398,9 @@
     "date": "2026-05-19",
     "readTime": "4 min read",
     "excerpt": "I'm still surprised by how much I rely on AI tools every day, considering I've seen my fair share of hype cycles come and go. My morning routine now involves my virtual assistant, which I've named \"Ev...",
-    "commentCount": 6,
-    "viewCount": 417,
-    "likeCount": 23
+    "commentCount": 10,
+    "viewCount": 433,
+    "likeCount": 25
   },
   {
     "title": "My AI-Powered Daily Routine: 5 Tools I Rely On",

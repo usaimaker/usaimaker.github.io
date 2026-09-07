@@ -65,9 +65,33 @@
       "likes": 5,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788689820480_7a9a75rsc",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-08-20T07:50:47.929Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689820480_rn3bwwq5m",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-09-04T19:45:08.788Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 51,
-  "likeCount": 17
+  "commentCount": 7,
+  "viewCount": 59,
+  "likeCount": 22
 }

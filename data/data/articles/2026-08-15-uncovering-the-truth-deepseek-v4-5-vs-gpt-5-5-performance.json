@@ -161,9 +161,45 @@
       "likes": 14,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788689812058_yg1s0tu6b",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-12T01:20:32.699Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689812058_p61sjyj2s",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-09-04T14:37:17.178Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788689812058_vc0rlvk7b",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-09-05T04:59:23.791Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 101,
-  "likeCount": 16
+  "commentCount": 16,
+  "viewCount": 121,
+  "likeCount": 19
 }
