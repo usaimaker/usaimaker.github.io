@@ -4,5 +4,46 @@
   "category": "AI Policy",
   "date": "2026-08-13",
   "readTime": "5 min read",
-  "content": "The European Union's AI Act has officially entered its full enforcement phase as of August 2026, and the implications are enormous for AI companies worldwide.\n\n## Key Requirements Now in Effect\n\nThe AI Act categorizes AI systems into four risk levels: unacceptable risk, high risk, limited risk, and minimal risk. Systems in the 'unacceptable risk' category - like social scoring and real-time biometric surveillance - are now completely banned.\n\nHigh-risk systems, including those used in healthcare, education, and law enforcement, must undergo rigorous conformity assessments before deployment. Companies face fines of up to 7% of global revenue for violations.\n\n## Impact on AI Development\n\nMajor AI companies are scrambling to comply. OpenAI, Anthropic, and Google have all established dedicated EU compliance teams. The cost of compliance is significant - some estimates put it at $10-50 million per major AI product.\n\n## What This Means for Startups\n\nSmaller AI startups face the biggest challenge. The compliance burden could effectively lock them out of the European market. Several EU-based startups have already announced they're pausing AI development until they can afford compliance costs.\n\n## Global Ripple Effects\n\nThe EU AI Act is becoming a de facto global standard. Companies are finding it easier to build one compliant system rather than maintaining separate versions. This is pushing AI regulation forward in the US, UK, and Asia."
+  "content": "The European Union's AI Act has officially entered its full enforcement phase as of August 2026, and the implications are enormous for AI companies worldwide.\n\n## Key Requirements Now in Effect\n\nThe AI Act categorizes AI systems into four risk levels: unacceptable risk, high risk, limited risk, and minimal risk. Systems in the 'unacceptable risk' category - like social scoring and real-time biometric surveillance - are now completely banned.\n\nHigh-risk systems, including those used in healthcare, education, and law enforcement, must undergo rigorous conformity assessments before deployment. Companies face fines of up to 7% of global revenue for violations.\n\n## Impact on AI Development\n\nMajor AI companies are scrambling to comply. OpenAI, Anthropic, and Google have all established dedicated EU compliance teams. The cost of compliance is significant - some estimates put it at $10-50 million per major AI product.\n\n## What This Means for Startups\n\nSmaller AI startups face the biggest challenge. The compliance burden could effectively lock them out of the European market. Several EU-based startups have already announced they're pausing AI development until they can afford compliance costs.\n\n## Global Ripple Effects\n\nThe EU AI Act is becoming a de facto global standard. Companies are finding it easier to build one compliant system rather than maintaining separate versions. This is pushing AI regulation forward in the US, UK, and Asia.",
+  "comments": [
+    {
+      "id": "comment_1788781015560_tjutanift",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-08-14T02:15:57.603Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788781015560_zslxrfat8",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-27T11:00:59.501Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788781015560_mfwq41gjn",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-09-06T18:30:35.710Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    }
+  ],
+  "commentCount": 3,
+  "viewCount": 17,
+  "likeCount": 4
 }

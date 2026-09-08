@@ -65,9 +65,33 @@
       "likes": 11,
       "replies": 1,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788781017651_pxqhg9fky",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-16T17:30:20.957Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788781017651_dhwy6ewtt",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-22T03:23:49.517Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 32,
-  "likeCount": 6
+  "commentCount": 7,
+  "viewCount": 49,
+  "likeCount": 8
 }

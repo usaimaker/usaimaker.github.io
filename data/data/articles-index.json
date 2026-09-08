@@ -1,14 +1,25 @@
 [
   {
+    "title": "How well do agents use test/verification techniques?",
+    "slug": "how-well-do-agents-use-test-verification-techniques",
+    "category": "AI News",
+    "date": "2026-09-08",
+    "readTime": "7 min read",
+    "excerpt": "A Surprising Benchmark Reveals Gaps in Agent Self‑Verification  \n\nOn August 30, 2026 the AI Safety Institute (ASI) released a comprehensive benchmark that measured how effectively autonomous AI age...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "Research acceleration: The view inside OpenAI",
     "slug": "research-acceleration-the-view-inside-openai",
     "category": "AI News",
     "date": "2026-09-07",
     "readTime": "7 min read",
     "excerpt": "The AI world woke up this week to a rare glimpse behind the curtain of OpenAI’s research engine, as a former senior engineer published a detailed account of the company’s internal processes. The expos...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 3,
+    "viewCount": 22,
+    "likeCount": 1
   },
   {
     "title": "GPT-6 Astra on robot arms",
@@ -17,9 +28,9 @@
     "date": "2026-09-06",
     "readTime": "7 min read",
     "excerpt": "A breakthrough demonstration on September 2, 2026\n\nOpenAI unveiled a working prototype of its GPT‑6 Astra model controlling industrial robot arms at Hannover Messe. The system lifted, assembled, an...",
-    "commentCount": 1,
-    "viewCount": 8,
-    "likeCount": 1
+    "commentCount": 3,
+    "viewCount": 19,
+    "likeCount": 3
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
@@ -28,9 +39,9 @@
     "date": "2026-09-05",
     "readTime": "8 min read",
     "excerpt": "A startling find in the AI underground  \n\nOn September 2, 2026, a group of independent security researchers posted a screenshot of an active discussion thread that appeared to be hosted on a privat...",
-    "commentCount": 4,
-    "viewCount": 37,
-    "likeCount": 5
+    "commentCount": 7,
+    "viewCount": 44,
+    "likeCount": 8
   },
   {
     "title": "GPT-6 Astra",
@@ -39,9 +50,9 @@
     "date": "2026-09-04",
     "readTime": "6 min read",
     "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
-    "commentCount": 5,
-    "viewCount": 32,
-    "likeCount": 6
+    "commentCount": 7,
+    "viewCount": 49,
+    "likeCount": 8
   },
   {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -50,9 +61,9 @@
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 7,
-    "viewCount": 70,
-    "likeCount": 15
+    "commentCount": 10,
+    "viewCount": 75,
+    "likeCount": 18
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -61,9 +72,9 @@
     "date": "2026-09-02",
     "readTime": "7 min read",
     "excerpt": "Anthropic announced on September 2, 2026 the rollout of Claude Fable 5.1 and Claude Mythos 5.1, the newest iterations of its flagship large‑language models. The launch arrives just weeks after the com...",
-    "commentCount": 7,
-    "viewCount": 59,
-    "likeCount": 22
+    "commentCount": 10,
+    "viewCount": 66,
+    "likeCount": 26
   },
   {
     "title": "GPU World",
@@ -72,9 +83,9 @@
     "date": "2026-09-01",
     "readTime": "7 min read",
     "excerpt": "A bold entry onto the AI‑hardware stage  \n\nOn August 28, 2026, the fledgling semiconductor firm GPU World announced the commercial release of its first AI‑focused graphics processor, the GW‑X200. T...",
-    "commentCount": 11,
-    "viewCount": 79,
-    "likeCount": 15
+    "commentCount": 14,
+    "viewCount": 89,
+    "likeCount": 18
   },
   {
     "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -952,9 +963,9 @@
     "date": "2026-08-13",
     "readTime": "5 min read",
     "excerpt": "The European Union's AI Act has officially entered its full enforcement phase as of August 2026, and the implications are enormous for AI companies worldwide.\n\nKey Requirements Now in Effect\n\nThe A...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 3,
+    "viewCount": 17,
+    "likeCount": 4
   },
   {
     "title": "10 AI Tools That Will Save You 10 Hours Every Week",
@@ -6298,9 +6309,9 @@
     "date": "2026-05-25",
     "readTime": "4 min read",
     "excerpt": "I still remember the first time I tried coding with AI help - it was like having a super-smart, ultra-patient colleague who wouldn't judge me for my sloppy code. My project was a simple web scraper, a...",
-    "commentCount": 2,
-    "viewCount": 328,
-    "likeCount": 10
+    "commentCount": 7,
+    "viewCount": 340,
+    "likeCount": 12
   },
   {
     "title": "My Love-Hate Affair with ChatGPT: How it Stole My Google Searches",
@@ -6309,9 +6320,9 @@
     "date": "2026-05-25",
     "readTime": "4 min read",
     "excerpt": "I'll admit it, I was a skeptic at first - another AI-powered tool claiming to change the way I search for information. But after a few weeks of using ChatGPT, I've found myself reaching for it instead...",
-    "commentCount": 7,
-    "viewCount": 212,
-    "likeCount": 25
+    "commentCount": 9,
+    "viewCount": 225,
+    "likeCount": 28
   },
   {
     "title": "My Secret to Consistent AI-Generated Images",
