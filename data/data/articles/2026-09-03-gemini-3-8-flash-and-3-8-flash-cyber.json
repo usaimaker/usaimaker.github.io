@@ -125,9 +125,33 @@
       "likes": 15,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788863774488_fqezxx0wb",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-08-18T10:31:04.867Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788863774488_ymrhxw3wd",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-06T20:57:56.459Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 75,
-  "likeCount": 18
+  "commentCount": 12,
+  "viewCount": 82,
+  "likeCount": 21
 }

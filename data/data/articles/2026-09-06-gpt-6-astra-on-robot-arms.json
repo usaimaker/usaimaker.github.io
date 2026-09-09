@@ -41,9 +41,21 @@
       "likes": 8,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788863774489_jtz1a8t8i",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-08-31T23:59:57.796Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 19,
-  "likeCount": 3
+  "commentCount": 4,
+  "viewCount": 38,
+  "likeCount": 6
 }
