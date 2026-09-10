@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-09-08 09:13:41
+// Last Updated: 2026-09-09 09:17:18
 
 const newsData = [
   {
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-    "description": "Score 722 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49585644",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
-  },
-  {
-    "title": "De-Brainrot Vacations",
-    "description": "Score 484 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49597907",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
-  },
-  {
     "title": "Mistral raises €3B",
-    "description": "Score 413 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605767",
+    "description": "Score 822 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605767",
     "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "description": "Score 290 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49597189",
-    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "title": "I resigned from Anthropic today",
+    "description": "Score 559 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49619227",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
-  },
-  {
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "description": "Score 207 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49575515",
-    "url": "https://arxiv.org/abs/2607.24888",
-    "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
-  },
-  {
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "description": "Score 136 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49596054",
-    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
     "title": "There's a new \"Google Jail\" for independent wikis",
-    "description": "Score 119 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49604870",
+    "description": "Score 549 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49604870",
     "url": "https://weirdgloop.org/blog/google-jail",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
-    "title": "The Dataflow Model Revisited",
-    "description": "Score 100 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49589190",
-    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "title": "Muse – Meta’s personal AI agent",
+    "description": "Score 497 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49615537",
+    "url": "https://ai.meta.com/muse/",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
-    "title": "Show HN: Jigsaw Haiku",
-    "description": "Score 89 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49568162",
-    "url": "https://jigsawhaiku.com/",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "description": "Score 436 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49610631",
+    "url": "https://github.com/ayghri/i-have-adhd",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
-    "title": "Initial effects of AI technology on employment look positive",
-    "description": "Score 85 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49596610",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "description": "Score 360 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49616968",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
+  },
+  {
+    "title": "ChatGPT Images 2.5",
+    "description": "Score 338 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49614720",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "source": "Hacker News",
+    "time": "2026-09-09 09:17:18"
+  },
+  {
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "description": "Score 247 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49611128",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "source": "Hacker News",
+    "time": "2026-09-09 09:17:18"
+  },
+  {
+    "title": "The two Christian saints who are the Buddha",
+    "description": "Score 238 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49611051",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "source": "Hacker News",
+    "time": "2026-09-09 09:17:18"
+  },
+  {
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "description": "Score 233 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49607991",
+    "url": "https://vale.rocks/posts/html-relics",
+    "source": "Hacker News",
+    "time": "2026-09-09 09:17:18"
   },
   {
     "title": "How well do agents use test/verification techniques?",
-    "description": "Score 79 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605246",
+    "description": "Score 183 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605246",
     "url": "https://danluu.com/agentic-testing/",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   },
   {
-    "title": "I tested 10 model/harness combinations on the same Three.js task",
-    "description": "Score 78 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605433",
-    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "title": "Show HN: LLM Attention Visualization",
+    "description": "Score 156 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49613068",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
     "source": "Hacker News",
-    "time": "2026-09-08 09:13:41"
+    "time": "2026-09-09 09:17:18"
   }
 ];

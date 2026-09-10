@@ -113,9 +113,45 @@
       "likes": 11,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1788950817654_pkft83n6s",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-13T05:34:21.550Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788950817654_2ursj47nk",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-27T18:42:56.069Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1788950817654_yjvtltzfr",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-08-31T03:35:42.709Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 67,
-  "likeCount": 10
+  "commentCount": 12,
+  "viewCount": 91,
+  "likeCount": 12
 }

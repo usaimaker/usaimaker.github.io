@@ -53,9 +53,33 @@
       "likes": 1,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1788950809269_4pn7mtvcu",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-26T18:29:19.236Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1788950809269_au0yu8ncf",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-29T14:04:11.155Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 4,
-  "viewCount": 54,
-  "likeCount": 31
+  "commentCount": 6,
+  "viewCount": 75,
+  "likeCount": 34
 }

@@ -1,14 +1,25 @@
 [
   {
+    "title": "Shopify acquires Tailwind",
+    "slug": "shopify-acquires-tailwind",
+    "category": "AI News",
+    "date": "2026-09-10",
+    "readTime": "6 min read",
+    "excerpt": "A bold move announced on September 9, 2026  \n\nShopify disclosed on September 9 that it has completed the acquisition of Tailwind, the leading social‑media scheduling and visual‑content platform for...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "Muse – Meta’s personal AI agent",
     "slug": "muse-meta-s-personal-ai-agent",
     "category": "AI News",
     "date": "2026-09-09",
     "readTime": "7 min read",
     "excerpt": "A New Chapter for Meta  \n\nOn September 4, 2026 Meta unveiled “Muse,” a personal AI agent designed to operate across the company’s social, messaging, and commerce platforms. The announcement came du...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 2,
+    "viewCount": 12,
+    "likeCount": 4
   },
   {
     "title": "How well do agents use test/verification techniques?",
@@ -17,9 +28,9 @@
     "date": "2026-09-08",
     "readTime": "7 min read",
     "excerpt": "A Surprising Benchmark Reveals Gaps in Agent Self‑Verification  \n\nOn August 30, 2026 the AI Safety Institute (ASI) released a comprehensive benchmark that measured how effectively autonomous AI age...",
-    "commentCount": 2,
-    "viewCount": 15,
-    "likeCount": 4
+    "commentCount": 3,
+    "viewCount": 22,
+    "likeCount": 5
   },
   {
     "title": "Research acceleration: The view inside OpenAI",
@@ -28,9 +39,9 @@
     "date": "2026-09-07",
     "readTime": "7 min read",
     "excerpt": "The AI world woke up this week to a rare glimpse behind the curtain of OpenAI’s research engine, as a former senior engineer published a detailed account of the company’s internal processes. The expos...",
-    "commentCount": 4,
-    "viewCount": 43,
-    "likeCount": 4
+    "commentCount": 6,
+    "viewCount": 56,
+    "likeCount": 6
   },
   {
     "title": "GPT-6 Astra on robot arms",
@@ -39,9 +50,9 @@
     "date": "2026-09-06",
     "readTime": "7 min read",
     "excerpt": "A breakthrough demonstration on September 2, 2026\n\nOpenAI unveiled a working prototype of its GPT‑6 Astra model controlling industrial robot arms at Hannover Messe. The system lifted, assembled, an...",
-    "commentCount": 4,
-    "viewCount": 38,
-    "likeCount": 6
+    "commentCount": 6,
+    "viewCount": 47,
+    "likeCount": 9
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
@@ -50,9 +61,9 @@
     "date": "2026-09-05",
     "readTime": "8 min read",
     "excerpt": "A startling find in the AI underground  \n\nOn September 2, 2026, a group of independent security researchers posted a screenshot of an active discussion thread that appeared to be hosted on a privat...",
-    "commentCount": 8,
-    "viewCount": 52,
-    "likeCount": 13
+    "commentCount": 11,
+    "viewCount": 71,
+    "likeCount": 16
   },
   {
     "title": "GPT-6 Astra",
@@ -61,9 +72,9 @@
     "date": "2026-09-04",
     "readTime": "6 min read",
     "excerpt": "A New Chapter in Large‑Language Modeling\n\nOpenAI announced the launch of GPT‑6 Astra on 2 September 2026, positioning the model as the most powerful, multimodal language system ever released to the...",
-    "commentCount": 9,
-    "viewCount": 67,
-    "likeCount": 10
+    "commentCount": 12,
+    "viewCount": 91,
+    "likeCount": 12
   },
   {
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -72,9 +83,9 @@
     "date": "2026-09-03",
     "readTime": "8 min read",
     "excerpt": "A rapid rollout that reshapes the AI services market  \n\nOn August 28, 2026 Google announced the general availability of Gemini 3.8 Flash and its security‑focused sibling Gemini 3.8 Flash Cyber. The...",
-    "commentCount": 12,
-    "viewCount": 82,
-    "likeCount": 21
+    "commentCount": 14,
+    "viewCount": 94,
+    "likeCount": 22
   },
   {
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -1282,9 +1293,9 @@
     "date": "2026-08-02",
     "readTime": "7 min read",
     "excerpt": "I still remember the first time I used an AI tool to generate content - it was a disaster. The output was cheesy, formulaic, and completely lacked the nuance I was going for. But I was determined to m...",
-    "commentCount": 8,
-    "viewCount": 175,
-    "likeCount": 12
+    "commentCount": 12,
+    "viewCount": 195,
+    "likeCount": 13
   },
   {
     "title": "My AI Art Journey: Harnessing the Power of Midjourney V7",
@@ -1557,9 +1568,9 @@
     "date": "2026-07-30",
     "readTime": "6 min read",
     "excerpt": "I still remember the night I spent hours debugging a pesky JavaScript error, only to realize I had missed a simple semicolon. My friend, a seasoned developer, walked into the room, took one look at my...",
-    "commentCount": 14,
-    "viewCount": 292,
-    "likeCount": 41
+    "commentCount": 21,
+    "viewCount": 311,
+    "likeCount": 42
   },
   {
     "title": "My Secret to Consistent AI-Generated Images: A Tech Enthusiast's Journey",
@@ -1810,9 +1821,9 @@
     "date": "2026-07-27",
     "readTime": "7 min read",
     "excerpt": "As I sit here, sipping my morning coffee and staring at lines of code, I'm reminded of my first encounter with AI - a mess of frustration and fascination. I had just started experimenting with machine...",
-    "commentCount": 3,
-    "viewCount": 102,
-    "likeCount": 5
+    "commentCount": 5,
+    "viewCount": 122,
+    "likeCount": 10
   },
   {
     "title": "My AI-Powered Money Makers: The Tools That Changed My Online Business",
@@ -3977,9 +3988,9 @@
     "date": "2026-06-08",
     "readTime": "7 min read",
     "excerpt": "I've been using AI to streamline my business workflow for over a year now, and I've got to say, it's been a wild ride. My team and I have seen some incredible efficiency gains, but we've also hit some...",
-    "commentCount": 4,
-    "viewCount": 424,
-    "likeCount": 8
+    "commentCount": 10,
+    "viewCount": 442,
+    "likeCount": 10
   },
   {
     "title": "My AI-Powered Productivity Experiment: The Surprising Truth",
@@ -7508,9 +7519,9 @@
     "date": "2026-05-19",
     "readTime": "4 min read",
     "excerpt": "I'll admit, I was skeptical at first - another shiny new tool promising to make my life easier, only to end up collecting digital dust on my desktop. But after a few weeks of using ChatGPT, I've found...",
-    "commentCount": 4,
-    "viewCount": 54,
-    "likeCount": 31
+    "commentCount": 6,
+    "viewCount": 75,
+    "likeCount": 34
   },
   {
     "title": "Why I'm Hopelessly Devoted to AI",
