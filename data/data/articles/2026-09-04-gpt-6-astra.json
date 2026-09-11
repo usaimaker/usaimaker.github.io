@@ -149,9 +149,33 @@
       "likes": 1,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036712803_995ykg8bs",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-12T06:47:01.431Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036712803_cwzlfbabf",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-25T08:00:46.188Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 91,
-  "likeCount": 12
+  "commentCount": 14,
+  "viewCount": 104,
+  "likeCount": 16
 }

@@ -209,9 +209,57 @@
       "likes": 12,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789036710663_pwrmvv7dm",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-16T01:54:47.465Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036710663_uv0087nka",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-29T11:20:23.099Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036710663_j5uxfqdrr",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-30T21:49:52.019Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036710663_6ot24i2tg",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-08-31T01:34:12.297Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 17,
-  "viewCount": 102,
-  "likeCount": 11
+  "commentCount": 21,
+  "viewCount": 122,
+  "likeCount": 15
 }

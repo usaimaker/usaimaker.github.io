@@ -137,9 +137,21 @@
       "likes": 8,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036712804_5zcdrlj1j",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-08-20T06:13:14.897Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 71,
-  "likeCount": 16
+  "commentCount": 12,
+  "viewCount": 84,
+  "likeCount": 18
 }

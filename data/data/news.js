@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-09-09 09:17:18
+// Last Updated: 2026-09-10 09:15:57
 
 const newsData = [
   {
-    "title": "Mistral raises €3B",
-    "description": "Score 822 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605767",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "title": "Claude, change the “Add to Cart” button to blue",
+    "description": "Score 1111 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49623754",
+    "url": "https://opusfived.dev/",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "I resigned from Anthropic today",
-    "description": "Score 559 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49619227",
-    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "title": "Shopify acquires Tailwind",
+    "description": "Score 1024 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49626190",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
-  },
-  {
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "description": "Score 549 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49604870",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
     "title": "Muse – Meta’s personal AI agent",
-    "description": "Score 497 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49615537",
+    "description": "Score 644 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49615537",
     "url": "https://ai.meta.com/muse/",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
-  },
-  {
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "description": "Score 436 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49610631",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
     "title": "Tao: Open math problems being non-renewably mined by AI",
-    "description": "Score 360 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49616968",
+    "description": "Score 476 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49616968",
     "url": "https://mathstodon.xyz/@tao/117237320796901560",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "ChatGPT Images 2.5",
-    "description": "Score 338 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49614720",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "title": "AirPods 5",
+    "description": "Score 449 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49630253",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "description": "Score 247 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49611128",
-    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "description": "Score 443 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49624823",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "The two Christian saints who are the Buddha",
-    "description": "Score 238 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49611051",
-    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "description": "Score 419 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49627370",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "Antiquated HTML Snippets and Artefacts",
-    "description": "Score 233 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49607991",
-    "url": "https://vale.rocks/posts/html-relics",
+    "title": "DeepSeek v4.1 Flash",
+    "description": "Score 281 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49639090",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "How well do agents use test/verification techniques?",
-    "description": "Score 183 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49605246",
-    "url": "https://danluu.com/agentic-testing/",
+    "title": "OpenAI might have stolen another major proof",
+    "description": "Score 212 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49638353",
+    "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
   },
   {
-    "title": "Show HN: LLM Attention Visualization",
-    "description": "Score 156 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49613068",
-    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "description": "Score 211 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49630026",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
     "source": "Hacker News",
-    "time": "2026-09-09 09:17:18"
+    "time": "2026-09-10 09:15:57"
+  },
+  {
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "description": "Score 188 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49628614",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "source": "Hacker News",
+    "time": "2026-09-10 09:15:57"
+  },
+  {
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "description": "Score 146 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49622561",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "source": "Hacker News",
+    "time": "2026-09-10 09:15:57"
   }
 ];

@@ -77,9 +77,21 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036712805_08gc0i56l",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-12T09:05:48.334Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 56,
-  "likeCount": 6
+  "commentCount": 7,
+  "viewCount": 61,
+  "likeCount": 11
 }

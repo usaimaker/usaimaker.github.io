@@ -65,9 +65,57 @@
       "likes": 6,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789036708573_8hewp35ny",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-08-11T15:08:12.238Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036708573_bgrciknz5",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-12T02:59:18.893Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789036708573_5ddptqtl4",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-08-14T03:00:23.239Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036708573_qgmkh2p8g",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-25T09:23:47.199Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 166,
-  "likeCount": 16
+  "commentCount": 9,
+  "viewCount": 184,
+  "likeCount": 19
 }

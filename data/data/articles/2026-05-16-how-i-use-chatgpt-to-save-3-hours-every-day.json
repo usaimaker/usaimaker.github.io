@@ -77,9 +77,81 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_bkxvqpbhd",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-08-13T13:51:37.614Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_xth0bec5e",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-08-13T21:31:49.031Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_re2ftyej3",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-17T16:39:39.668Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_i9offrc9v",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-08-20T21:00:37.570Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_ctvye7nk8",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-09-07T04:47:05.577Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036706456_5xy0v9tbg",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-09-07T12:55:10.445Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 389,
-  "likeCount": 20
+  "commentCount": 12,
+  "viewCount": 413,
+  "likeCount": 23
 }

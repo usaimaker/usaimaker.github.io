@@ -185,9 +185,33 @@
       "likes": 6,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036702259_7tk955r5e",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-25T05:06:44.657Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036702260_k9lygrcox",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "useful tip.",
+      "timestamp": "2026-08-31T16:50:06.946Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 15,
-  "viewCount": 92,
-  "likeCount": 20
+  "commentCount": 17,
+  "viewCount": 99,
+  "likeCount": 25
 }

@@ -41,9 +41,45 @@
       "likes": 8,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036712805_k9v20903g",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-28T23:58:29.510Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036712805_rtlwq7xgy",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-08-29T02:04:17.780Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036712805_2rku1ze68",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-02T18:00:44.866Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 22,
-  "likeCount": 5
+  "commentCount": 6,
+  "viewCount": 32,
+  "likeCount": 9
 }

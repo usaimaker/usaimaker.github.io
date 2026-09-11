@@ -29,9 +29,45 @@
       "likes": 2,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789036712806_1p9fvd8uo",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-22T12:24:57.868Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036712806_1s2z8xnwi",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-09-01T03:32:47.801Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789036712806_f3eieyqa4",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-09-05T06:03:11.793Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 12,
-  "likeCount": 4
+  "commentCount": 5,
+  "viewCount": 24,
+  "likeCount": 9
 }

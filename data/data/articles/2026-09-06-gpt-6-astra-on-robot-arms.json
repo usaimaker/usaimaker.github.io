@@ -77,9 +77,33 @@
       "likes": 4,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789036712804_xqkyb6suj",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-08-28T20:37:31.287Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789036712804_01wiar7ob",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-09-02T22:55:04.985Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 47,
-  "likeCount": 9
+  "commentCount": 8,
+  "viewCount": 66,
+  "likeCount": 10
 }
