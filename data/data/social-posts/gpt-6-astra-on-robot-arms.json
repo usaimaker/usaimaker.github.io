@@ -1,0 +1,19 @@
+{
+  "article": {
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://ai-daily-news.netlify.app/article.html?slug=gpt-6-astra-on-robot-arms",
+    "date": "2026-09-11T13:04:16.315Z"
+  },
+  "posts": {
+    "twitter": "OpenAI's GPT-6 Astra takes control! 🤖 Watch as it effortlessly operates industrial robot arms in a groundbreaking demo at Hannover Messe. #AI #Robotics #GPT6Astra",
+    "reddit": "GPT-6 Astra Takes Over: OpenAI's Mind-Blowing Robot Arm Demo at Hannover Messe!",
+    "linkedin": "OpenAI's GPT-6 Astra model is revolutionizing industrial automation! 🤖 Recent demo at Hannover Messe showcased its capabilities in controlling robot arms with precision. Learn more about the future of AI in manufacturing.",
+    "hackernews": "OpenAI Demonstrates GPT-6 Astra Controlling Industrial Robot Arms",
+    "explanation": "The goal was to craft platform‑specific copy that highlights the breakthrough demonstration of GPT‑6 Astra controlling robot arms at Hannover Messe. The Twitter post stays under 280 characters, uses emojis and hashtags for visibility. The Reddit title is punchy to encourage clicks. The LinkedIn post adopts a professional tone, emphasizing industry impact. The Hacker News title is concise and technical, matching the audience’s expectations."
+  },
+  "shareLinks": {
+    "twitter": "https://twitter.com/intent/tweet?text=OpenAI's%20GPT-6%20Astra%20takes%20control!%20%F0%9F%A4%96%20Watch%20as%20it%20effortlessly%20operates%20industrial%20robot%20arms%20in%20a%20groundbreaking%20demo%20at%20Hannover%20Messe.%20%23AI%20%23Robotics%20%23GPT6Astra",
+    "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fai-daily-news.netlify.app%2Farticle.html%3Fslug%3Dgpt-6-astra-on-robot-arms",
+    "hackernews": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fai-daily-news.netlify.app%2Farticle.html%3Fslug%3Dgpt-6-astra-on-robot-arms&t=OpenAI%20Demonstrates%20GPT-6%20Astra%20Controlling%20Industrial%20Robot%20Arms"
+  }
+}

@@ -149,9 +149,33 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789123081915_iyjinhnly",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-31T12:46:14.772Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789123081915_loza46bo2",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-31T17:59:27.175Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": true
     }
   ],
-  "commentCount": 12,
-  "viewCount": 84,
-  "likeCount": 18
+  "commentCount": 14,
+  "viewCount": 102,
+  "likeCount": 21
 }

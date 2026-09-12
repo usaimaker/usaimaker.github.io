@@ -29,9 +29,21 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789123081918_w9bdz26wu",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-08-19T05:58:03.196Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 24,
-  "likeCount": 5
+  "commentCount": 3,
+  "viewCount": 47,
+  "likeCount": 8
 }

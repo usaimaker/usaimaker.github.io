@@ -89,9 +89,33 @@
       "likes": 15,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789123081916_zloh6oc1z",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-07T14:43:10.399Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789123081916_fwmux8ky2",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-09-08T10:21:48.341Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 61,
-  "likeCount": 11
+  "commentCount": 9,
+  "viewCount": 80,
+  "likeCount": 15
 }
