@@ -15,15 +15,15 @@
     <meta name="keywords" content="AI, Artificial Intelligence, AI Tools, ChatGPT, Claude, Midjourney">
     <meta name="author" content="AI Frontier">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://usaimaker.github.io/article.html">
+    <link rel="canonical" href="https://ai-news-site-cyan.vercel.app/article.html">
     
     <!-- Open Graph -->
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="AI Frontier">
-    <meta property="og:url" content="https://usaimaker.github.io/article.html">
+    <meta property="og:url" content="https://ai-news-site-cyan.vercel.app/article.html">
     <meta property="og:title" content="Article - AI Frontier">
     <meta property="og:description" content="In-depth AI article with real experiences and practical tips.">
-    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:image" content="https://ai-news-site-cyan.vercel.app/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
@@ -33,7 +33,7 @@
     <meta name="twitter:site" content="@ai_frontier">
     <meta name="twitter:title" content="Article - AI Frontier">
     <meta name="twitter:description" content="In-depth AI article with real experiences and practical tips.">
-    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    <meta name="twitter:image" content="https://ai-news-site-cyan.vercel.app/og-image.png">
     
     <!-- AI GEO Tags for AI Search Engines -->
     <meta name="ai-robots" content="index, follow, cite">
@@ -62,11 +62,11 @@
         "publisher": {
             "@type": "Organization",
             "name": "AI Frontier",
-            "url": "https://usaimaker.github.io/"
+            "url": "https://ai-news-site-cyan.vercel.app/"
         },
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://usaimaker.github.io/article.html"
+            "@id": "https://ai-news-site-cyan.vercel.app/article.html"
         }
     }
     </script>
@@ -519,7 +519,7 @@
                 if (!response.ok) throw new Error('Article file not found');
                 
                 const article = await response.json();
-                const articleUrl = `https://usaimaker.github.io/articles/${articleInfo.date}-${slug}.html`;
+                const articleUrl = `https://ai-news-site-cyan.vercel.app/articles/${articleInfo.date}-${slug}.html`;
                 
                 // Update page title
                 document.title = `${article.title} - AI Frontier`;
@@ -555,7 +555,7 @@
                     "@type": "Article",
                     "headline": article.title,
                     "description": article.excerpt || article.content.substring(0, 160),
-                    "image": "https://usaimaker.github.io/og-image.png",
+                    "image": "https://ai-news-site-cyan.vercel.app/og-image.png",
                     "author": {
                         "@type": "Organization",
                         "name": "AI Frontier"
@@ -563,10 +563,10 @@
                     "publisher": {
                         "@type": "Organization",
                         "name": "AI Frontier",
-                        "url": "https://usaimaker.github.io/",
+                        "url": "https://ai-news-site-cyan.vercel.app/",
                         "logo": {
                             "@type": "ImageObject",
-                            "url": "https://usaimaker.github.io/favicon.svg"
+                            "url": "https://ai-news-site-cyan.vercel.app/favicon.svg"
                         }
                     },
                     "datePublished": article.date,

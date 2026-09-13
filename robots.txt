@@ -9,4 +9,4 @@ Disallow: /system-monitor.html
 
 Disallow: /test_grid.html
 
-Sitemap: https://usaimaker.github.io/sitemap.xml
+Sitemap: https://ai-news-site-cyan.vercel.app/sitemap.xml

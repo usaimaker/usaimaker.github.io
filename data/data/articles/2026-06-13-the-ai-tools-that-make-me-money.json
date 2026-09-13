@@ -53,9 +53,105 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_qzsfho1py",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-08-22T14:51:34.959Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_uoj74ontl",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-25T21:16:33.116Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789207606314_v1pi8cz0j",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-08-29T22:11:59.612Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_te6r23qla",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-31T15:15:48.179Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_7oti3nutw",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-09-03T22:33:24.972Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_8sc0z6q8e",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-09-05T16:03:30.763Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_2l88vkm22",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-10T14:18:26.268Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207606314_jkn1uzde5",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "bookmarked! need to revisit this when planning next quarter",
+      "timestamp": "2026-09-11T17:09:00.949Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 157,
-  "likeCount": 23
+  "commentCount": 12,
+  "viewCount": 164,
+  "likeCount": 24
 }

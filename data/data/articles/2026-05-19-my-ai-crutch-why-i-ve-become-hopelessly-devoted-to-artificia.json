@@ -65,9 +65,33 @@
       "likes": 3,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789207604186_9k381tgfu",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-09-01T12:27:54.270Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207604192_21bd6h4am",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-09-08T01:38:42.026Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 218,
-  "likeCount": 7
+  "commentCount": 7,
+  "viewCount": 226,
+  "likeCount": 8
 }

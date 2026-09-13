@@ -137,9 +137,21 @@
       "likes": 10,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789207614748_w0yakkuj5",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-08-18T20:25:06.878Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 76,
-  "likeCount": 12
+  "commentCount": 12,
+  "viewCount": 84,
+  "likeCount": 16
 }

@@ -4,7 +4,7 @@
 const SITE_CONFIG = {
     // ===== Basic Site Info =====
     siteName: "AI Frontier",
-    siteUrl: "https://usaimaker.github.io/",
+    siteUrl: "https://ai-news-site-cyan.vercel.app/",
     siteDesc: "Daily updates on latest AI news, AI tools, and artificial intelligence trends",
     
     // ===== Contact Info =====

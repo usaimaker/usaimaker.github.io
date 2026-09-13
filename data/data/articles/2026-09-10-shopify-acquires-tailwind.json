@@ -41,9 +41,33 @@
       "likes": 6,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789207614750_q0ygt7yhz",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-08-29T01:27:02.664Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207614750_94m7wyslq",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-09-11T02:57:08.806Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 47,
-  "likeCount": 8
+  "commentCount": 5,
+  "viewCount": 60,
+  "likeCount": 11
 }

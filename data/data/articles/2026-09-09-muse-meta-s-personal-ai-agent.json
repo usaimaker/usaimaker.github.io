@@ -77,9 +77,33 @@
       "likes": 10,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789207614750_5mfmonggw",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "bookmarked for later. definitely trying this",
+      "timestamp": "2026-08-27T06:33:58.088Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789207614750_n6n3s94x5",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-08-31T17:53:52.394Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 31,
-  "likeCount": 13
+  "commentCount": 8,
+  "viewCount": 48,
+  "likeCount": 15
 }
