@@ -41,9 +41,33 @@
       "likes": 15,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789297598446_nsg2xdm60",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-23T08:32:45.990Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789297598445_hx6varfkh",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-09-07T04:46:32.380Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 517,
-  "likeCount": 34
+  "commentCount": 5,
+  "viewCount": 537,
+  "likeCount": 36
 }

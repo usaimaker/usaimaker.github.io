@@ -113,9 +113,33 @@
       "likes": 11,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789297606889_vlw2acfwo",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-31T04:02:44.265Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789297606889_kevnpjrr7",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-04T12:45:43.730Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 60,
-  "likeCount": 17
+  "commentCount": 11,
+  "viewCount": 83,
+  "likeCount": 22
 }

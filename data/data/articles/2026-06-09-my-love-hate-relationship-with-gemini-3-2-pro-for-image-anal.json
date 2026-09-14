@@ -77,9 +77,33 @@
       "likes": 3,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789297594248_k2gk8x2fp",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-08-24T13:54:27.569Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789297594248_6u4pc4ul6",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-13T05:02:37.137Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 419,
-  "likeCount": 8
+  "commentCount": 8,
+  "viewCount": 442,
+  "likeCount": 10
 }
