@@ -137,9 +137,21 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386620747_ic37mtzo4",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-09-10T20:23:41.023Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 69,
-  "likeCount": 19
+  "commentCount": 12,
+  "viewCount": 89,
+  "likeCount": 23
 }

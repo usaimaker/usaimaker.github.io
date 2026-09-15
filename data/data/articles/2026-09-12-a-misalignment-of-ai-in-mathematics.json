@@ -65,9 +65,21 @@
       "likes": 13,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789386620749_4ow4c0h4t",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-09-12T15:03:26.192Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 5,
-  "viewCount": 23,
-  "likeCount": 8
+  "commentCount": 6,
+  "viewCount": 46,
+  "likeCount": 12
 }

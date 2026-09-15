@@ -41,9 +41,33 @@
       "likes": 2,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386618600_u6jqknlxb",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-25T17:14:55.534Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789386618600_zh5gg9jci",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-08-31T19:41:29.352Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 311,
-  "likeCount": 13
+  "commentCount": 5,
+  "viewCount": 325,
+  "likeCount": 16
 }

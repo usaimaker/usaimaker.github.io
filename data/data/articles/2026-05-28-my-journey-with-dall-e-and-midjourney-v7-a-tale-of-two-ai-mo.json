@@ -65,9 +65,69 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386608088_vio1ngm8p",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-08-21T00:52:13.925Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386608087_8ajjaj236",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-08-22T00:34:49.811Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386608088_n91a7rz4r",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-25T22:05:43.920Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386608087_gpum896kd",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-09-08T08:19:38.185Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386608087_3xks7peax",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-09-10T22:57:40.393Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 515,
-  "likeCount": 6
+  "commentCount": 10,
+  "viewCount": 531,
+  "likeCount": 8
 }

@@ -65,9 +65,105 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_1tea0eanv",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-16T19:12:50.548Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_durmozg7a",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-17T08:40:06.271Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_dep99vxiz",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-19T18:21:33.436Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_o27enjqq4",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-20T11:07:37.076Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_2nhrtjnp4",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-25T07:41:34.575Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_98o5zf7pe",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-31T20:04:58.967Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789386614403_8jpdf3btl",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-09-01T08:07:03.271Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386614403_9lvuri3tw",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-09-12T06:58:18.646Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 547,
-  "likeCount": 31
+  "commentCount": 13,
+  "viewCount": 566,
+  "likeCount": 34
 }

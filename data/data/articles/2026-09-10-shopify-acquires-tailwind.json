@@ -89,9 +89,33 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386620748_pr5pdym0j",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-16T06:05:39.927Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386620748_4bvntqj9c",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-09-06T05:46:51.717Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 81,
-  "likeCount": 12
+  "commentCount": 9,
+  "viewCount": 96,
+  "likeCount": 14
 }

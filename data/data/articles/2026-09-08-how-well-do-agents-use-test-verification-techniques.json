@@ -137,9 +137,45 @@
       "likes": 6,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386620746_qx4699hn8",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-08-31T03:09:24.861Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386620746_8qmz7o7bm",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-09-02T10:21:47.364Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386620746_7ng3d3r41",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-11T06:16:36.031Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 83,
-  "likeCount": 22
+  "commentCount": 14,
+  "viewCount": 103,
+  "likeCount": 25
 }

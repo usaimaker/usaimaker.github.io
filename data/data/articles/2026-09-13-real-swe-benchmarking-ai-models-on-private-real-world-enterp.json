@@ -41,9 +41,45 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386620750_6ull116g2",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-08-29T20:59:09.598Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386620750_feoqj1rq8",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-09-02T08:07:35.853Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386620750_wdfn2nhbu",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-09-10T09:35:08.563Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 3,
-  "viewCount": 11,
-  "likeCount": 4
+  "commentCount": 6,
+  "viewCount": 17,
+  "likeCount": 8
 }

@@ -137,9 +137,93 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789386616500_45xargaus",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-08-25T03:40:56.029Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386616500_l58p3uppy",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-05T00:26:02.572Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386616500_786yy14fj",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-09-05T21:09:52.458Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386616500_s2g60l70v",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-09-05T23:21:11.649Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789386616500_moa6xfnsx",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-09-09T06:08:42.511Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789386616500_c89v0mevy",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-11T17:59:59.615Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789386616500_s1foph1dv",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-09-11T19:20:56.151Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 304,
-  "likeCount": 32
+  "commentCount": 18,
+  "viewCount": 309,
+  "likeCount": 36
 }
