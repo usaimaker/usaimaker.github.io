@@ -77,9 +77,45 @@
       "likes": 6,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789470387001_5q79omttx",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-08-25T01:48:26.617Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789470387001_hhihknmz7",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-09-12T07:34:11.343Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789470387001_1xgrp2x5x",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-15T01:53:18.271Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 6,
-  "viewCount": 17,
-  "likeCount": 8
+  "commentCount": 9,
+  "viewCount": 33,
+  "likeCount": 9
 }

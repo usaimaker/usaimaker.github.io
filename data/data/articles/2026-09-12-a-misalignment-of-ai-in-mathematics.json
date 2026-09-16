@@ -77,9 +77,33 @@
       "likes": 5,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789470387001_0xc2l82ch",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-08-18T00:04:13.165Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789470387001_4ut0cy656",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-09-01T14:40:26.920Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 6,
-  "viewCount": 46,
-  "likeCount": 12
+  "commentCount": 8,
+  "viewCount": 65,
+  "likeCount": 14
 }

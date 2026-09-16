@@ -221,9 +221,33 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789470372064_jm6o7rup4",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-08-24T07:58:17.912Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789470372001_jsj6c221t",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-09-10T20:21:02.368Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 18,
-  "viewCount": 309,
-  "likeCount": 36
+  "commentCount": 20,
+  "viewCount": 314,
+  "likeCount": 39
 }
