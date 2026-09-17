@@ -125,9 +125,21 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789555911394_znwaq7yso",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-27T17:15:51.237Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 61,
-  "likeCount": 11
+  "commentCount": 11,
+  "viewCount": 83,
+  "likeCount": 13
 }

@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-09-15 09:40:53
+// Last Updated: 2026-09-16 09:34:48
 
 const newsData = [
   {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "description": "Score 460 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49695876",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "title": "Introducing System One Models and Jev",
+    "description": "Score 1368 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49717558",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
+  },
+  {
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "description": "Score 611 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49704132",
+    "url": "https://www.effort.news/irregular",
+    "source": "Hacker News",
+    "time": "2026-09-16 09:34:48"
+  },
+  {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "description": "Score 488 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49710253",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "source": "Hacker News",
+    "time": "2026-09-16 09:34:48"
   },
   {
     "title": "Pion, an agent designed to run any company autonomously",
-    "description": "Score 405 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49700477",
+    "description": "Score 483 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49700477",
     "url": "https://andonlabs.com/blog/why-we-built-pion",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "The case against JPEG XL",
-    "description": "Score 268 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49690554",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "description": "Score 410 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49715947",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "description": "Score 222 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49695409",
-    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "title": "Let's make quality the norm again",
+    "description": "Score 387 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49710109",
+    "url": "https://www.forbrukerradet.no/short-life/",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-    "description": "Score 169 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49706223",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "description": "Score 316 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49717638",
+    "url": "https://codyho.dev/blog/gpu-driver/",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "Open-source AI and open models reading list",
-    "description": "Score 154 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49690260",
-    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "description": "Score 223 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49715927",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "description": "Score 147 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49703003",
-    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+    "description": "Score 172 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49676425",
+    "url": "https://poltora.dev/redis",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-    "description": "Score 137 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49693384",
-    "url": "https://github.com/anuj0456/OpenArch",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "description": "Score 150 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49697477",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-    "description": "Score 133 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49697014",
-    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "title": "The Inference Hardware Revolution of 2026",
+    "description": "Score 145 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49713024",
+    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   },
   {
-    "title": "Why don't machine learning research agents overfit?",
-    "description": "Score 129 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49699648",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "title": "How much of F-Droid is LLM generated?",
+    "description": "Score 135 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49710015",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
     "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
-  },
-  {
-    "title": "Claude is a Contrarian",
-    "description": "Score 123 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49699373",
-    "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-    "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
-  },
-  {
-    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-    "description": "Score 115 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49695408",
-    "url": "https://github.com/callbacked/kinesis",
-    "source": "Hacker News",
-    "time": "2026-09-15 09:40:53"
+    "time": "2026-09-16 09:34:48"
   }
 ];

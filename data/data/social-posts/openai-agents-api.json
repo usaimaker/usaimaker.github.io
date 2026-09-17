@@ -1,0 +1,18 @@
+{
+  "article": {
+    "title": "OpenAI Agents API",
+    "url": "https://ai-news-site-cyan.vercel.app/article.html?slug=openai-agents-api",
+    "date": "2026-09-16T13:48:10.983Z"
+  },
+  "posts": {
+    "twitter": "🚀 OpenAI just dropped the Agents API! 🎉 Build autonomous AI assistants that can act, plan, and execute tasks across apps. GA now—time to level up your dev game. #AI #OpenAI #AgentsAPI https://openai.com/agents",
+    "reddit": "OpenAI Agents API is GA: Build Autonomous AI Assistants Across Apps",
+    "linkedin": "🔹 Exciting news from OpenAI! The brand‑new Agents API is now generally available. This powerful layer lets developers create truly autonomous AI agents that can plan, act, and integrate with third‑party applications—all without writing endless boilerplate. Whether you're building smarter chatbots, automating workflows, or crafting next‑gen digital assistants, the Agents API opens a new frontier of AI autonomy. Dive in, experiment, and let your imagination run wild! #ArtificialIntelligence #OpenAI #Developers #Automation https://openai.com/agents",
+    "hackernews": "OpenAI launches Agents API, enabling autonomous AI assistants (GA)"
+  },
+  "shareLinks": {
+    "twitter": "https://twitter.com/intent/tweet?text=%F0%9F%9A%80%20OpenAI%20just%20dropped%20the%20Agents%20API!%20%F0%9F%8E%89%20Build%20autonomous%20AI%20assistants%20that%20can%20act%2C%20plan%2C%20and%20execute%20tasks%20across%20apps.%20GA%20now%E2%80%94time%20to%20level%20up%20your%20dev%20game.%20%23AI%20%23OpenAI%20%23AgentsAPI%20https%3A%2F%2Fopenai.com%2Fagents",
+    "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fai-news-site-cyan.vercel.app%2Farticle.html%3Fslug%3Dopenai-agents-api",
+    "hackernews": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fai-news-site-cyan.vercel.app%2Farticle.html%3Fslug%3Dopenai-agents-api&t=OpenAI%20launches%20Agents%20API%2C%20enabling%20autonomous%20AI%20assistants%20(GA)"
+  }
+}

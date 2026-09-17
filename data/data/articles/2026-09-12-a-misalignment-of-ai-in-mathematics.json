@@ -101,9 +101,21 @@
       "likes": 2,
       "replies": 0,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789555911395_jfznt9pg0",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-09-15T08:39:15.829Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 65,
-  "likeCount": 14
+  "commentCount": 9,
+  "viewCount": 80,
+  "likeCount": 19
 }
