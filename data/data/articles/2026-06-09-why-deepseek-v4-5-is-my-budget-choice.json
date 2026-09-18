@@ -29,9 +29,69 @@
       "likes": 9,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789642730145_h6go676yi",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-26T13:12:25.165Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789642730145_1nvj8tekn",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-09-01T06:53:00.411Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789642730145_p3d2glpkg",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-09-01T11:59:47.196Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789642730145_546p3pu5k",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-09-08T21:28:08.275Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789642730145_cryfcu0go",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-09-16T09:23:12.767Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 143,
-  "likeCount": 32
+  "commentCount": 7,
+  "viewCount": 157,
+  "likeCount": 35
 }
