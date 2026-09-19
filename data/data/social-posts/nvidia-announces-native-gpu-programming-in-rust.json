@@ -1,0 +1,18 @@
+{
+  "article": {
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://ai-news-site-cyan.vercel.app/article.html?slug=nvidia-announces-native-gpu-programming-in-rust",
+    "date": "2026-09-18T13:12:59.656Z"
+  },
+  "posts": {
+    "twitter": "Nvidia makes history with native GPU programming in Rust! What does this mean for the future of GPU development? #Nvidia #Rust #GPU",
+    "reddit": "Nvidia Announces Native GPU Programming in Rust - A Game Changer for GPU Development?",
+    "linkedin": "Nvidia has just announced a native Rust programming interface for its GPUs, marking a significant milestone in GPU development. This move is expected to enhance performance, safety, and concurrency in GPU programming. As the industry continues to evolve, this development could pave the way for more efficient and powerful applications. #AI #GPU #Rust",
+    "hackernews": "Nvidia announces native GPU programming in Rust"
+  },
+  "shareLinks": {
+    "twitter": "https://twitter.com/intent/tweet?text=Nvidia%20makes%20history%20with%20native%20GPU%20programming%20in%20Rust!%20What%20does%20this%20mean%20for%20the%20future%20of%20GPU%20development%3F%20%23Nvidia%20%23Rust%20%23GPU",
+    "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fai-news-site-cyan.vercel.app%2Farticle.html%3Fslug%3Dnvidia-announces-native-gpu-programming-in-rust",
+    "hackernews": "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fai-news-site-cyan.vercel.app%2Farticle.html%3Fslug%3Dnvidia-announces-native-gpu-programming-in-rust&t=Nvidia%20announces%20native%20GPU%20programming%20in%20Rust"
+  }
+}
