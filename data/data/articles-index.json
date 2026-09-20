@@ -1,14 +1,25 @@
 [
   {
+    "title": "AI-generated posters don’t have to be horrible",
+    "slug": "ai-generated-posters-don-t-have-to-be-horrible",
+    "category": "AI News",
+    "date": "2026-09-20",
+    "readTime": "6 min read",
+    "excerpt": "A breakthrough announced on September 15, 2026  \n\nOn September 15, 2026, the San Francisco‑based startup PosterGen unveiled “PosterForge,” a diffusion‑based model that promises print‑ready, typogra...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
     "slug": "how-openai-used-its-own-llms-to-design-its-jalape-o-chip",
     "category": "AI News",
     "date": "2026-09-19",
     "readTime": "6 min read",
     "excerpt": "The Announcement and Immediate Details  \n\nOpenAI revealed on September 15, 2026 that a team of engineers and product designers had employed the company’s own large language models to create a brand...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 1,
+    "viewCount": 10,
+    "likeCount": 5
   },
   {
     "title": "Hacking OpenAI",
@@ -17,9 +28,9 @@
     "date": "2026-09-18",
     "readTime": "7 min read",
     "excerpt": "The Breach Unveiled  \n\nOpenAI confirmed on September 12, 2026 that an unauthorized party accessed internal systems and extracted portions of the GPT‑4o training logs, user prompts, and API usage me...",
-    "commentCount": 2,
-    "viewCount": 20,
-    "likeCount": 3
+    "commentCount": 4,
+    "viewCount": 28,
+    "likeCount": 7
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
@@ -28,9 +39,9 @@
     "date": "2026-09-17",
     "readTime": "7 min read",
     "excerpt": "A historic step for GPU development  \n\nNvidia unveiled a native Rust programming interface for its GPUs at the GPU Technology Conference on September 12, 2026. The announcement marks the first time...",
-    "commentCount": 2,
-    "viewCount": 40,
-    "likeCount": 4
+    "commentCount": 5,
+    "viewCount": 51,
+    "likeCount": 8
   },
   {
     "title": "Introducing System One Models and Jev",
@@ -39,9 +50,9 @@
     "date": "2026-09-16",
     "readTime": "7 min read",
     "excerpt": "A bold announcement reshapes the AI landscape  \n\nOn September 12, 2026, the research lab behind the widely adopted “System Zero” platform unveiled its next‑generation suite, the System One models,...",
-    "commentCount": 6,
-    "viewCount": 30,
-    "likeCount": 11
+    "commentCount": 7,
+    "viewCount": 51,
+    "likeCount": 14
   },
   {
     "title": "Pion, an agent designed to run any company autonomously",
@@ -50,9 +61,9 @@
     "date": "2026-09-15",
     "readTime": "5 min read",
     "excerpt": "The Announcement  \n\nOn September 12, 2026, Autonomica Labs unveiled Pion, an artificial‑intelligence agent that it claims can “run any company autonomously.” The press release described the system...",
-    "commentCount": 7,
-    "viewCount": 52,
-    "likeCount": 16
+    "commentCount": 8,
+    "viewCount": 59,
+    "likeCount": 19
   },
   {
     "title": "Open-Source AI and Open Models Reading List",
@@ -61,9 +72,9 @@
     "date": "2026-09-14",
     "readTime": "7 min read",
     "excerpt": "The AI community awoke on September 12, 2026 to a meticulously compiled “Open‑Source AI and Open Models Reading List” that quickly amassed over 250,000 downloads across GitHub, Hugging Face, and acade...",
-    "commentCount": 10,
-    "viewCount": 63,
-    "likeCount": 14
+    "commentCount": 11,
+    "viewCount": 79,
+    "likeCount": 18
   },
   {
     "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -72,9 +83,9 @@
     "date": "2026-09-13",
     "readTime": "7 min read",
     "excerpt": "The AI‑driven software engineering community received a major data point on September 10, 2026 when the Software Engineering Institute (SEI) unveiled Real‑SWE, a benchmark that evaluates large languag...",
-    "commentCount": 14,
-    "viewCount": 92,
-    "likeCount": 19
+    "commentCount": 15,
+    "viewCount": 109,
+    "likeCount": 20
   },
   {
     "title": "A misalignment of AI in mathematics",
@@ -413,9 +424,9 @@
     "date": "2026-08-25",
     "readTime": "7 min read",
     "excerpt": "I was on the fence about upgrading from GPT‑5.4 to GPT‑5.5 until a frantic deadline pushed me into the deep end.  \nThe old version had been a reliable sidekick for a year, and the new model’s marketin...",
-    "commentCount": 10,
-    "viewCount": 68,
-    "likeCount": 15
+    "commentCount": 14,
+    "viewCount": 86,
+    "likeCount": 19
   },
   {
     "title": "How GPT‑5.5 Supercharged My Coding Workflow (And What It Still Can’t Do)",
@@ -457,9 +468,9 @@
     "date": "2026-08-25",
     "readTime": "9 min read",
     "excerpt": "The moment the hype hit a wall  \n\nI was scrolling through a thread on r/LocalLLaMA when someone dropped the phrase “dynamic context stitching.” My brain did a little jump because every new term fee...",
-    "commentCount": 15,
-    "viewCount": 96,
-    "likeCount": 16
+    "commentCount": 22,
+    "viewCount": 119,
+    "likeCount": 21
   },
   {
     "title": "The Open Source AI Tool That's Quietly Competing with the Big Names",
@@ -1425,9 +1436,9 @@
     "date": "2026-08-01",
     "readTime": "6 min read",
     "excerpt": "I've spent years perfecting my workflow, and I've got to say, AI tools have been a total lifesaver. My favorite one, Jarvis, has been handling my social media management for months now, scheduling pos...",
-    "commentCount": 13,
-    "viewCount": 427,
-    "likeCount": 29
+    "commentCount": 18,
+    "viewCount": 440,
+    "likeCount": 34
   },
   {
     "title": "My Journey with Gemini 3.2 Pro and GPT-5.5: A Tale of Two AI Tools",
@@ -3240,9 +3251,9 @@
     "date": "2026-06-13",
     "readTime": "8 min read",
     "excerpt": "I still remember the day I decided to dive into AI, feeling like a kid in a candy store, eager to explore the endless possibilities. My first stop was a popular online course, which promised to teach...",
-    "commentCount": 8,
-    "viewCount": 236,
-    "likeCount": 6
+    "commentCount": 11,
+    "viewCount": 256,
+    "likeCount": 11
   },
   {
     "title": "My AI-Powered Business Workflow: A No-Holds-Barred Look at What Works and What Doesn't",
@@ -7167,9 +7178,9 @@
     "date": "2026-05-21",
     "readTime": "4 min read",
     "excerpt": "I'll admit it, I was skeptical of Midjourney V7 at first - another AI-powered tool promising the world, but likely to deliver a mix of hype and headache. My first experiment with it was a disaster, I...",
-    "commentCount": 2,
-    "viewCount": 193,
-    "likeCount": 9
+    "commentCount": 7,
+    "viewCount": 213,
+    "likeCount": 10
   },
   {
     "title": "My Secret Coding Sidekick That's Been a Total Lifesaver",
@@ -7937,9 +7948,9 @@
     "date": "2026-05-17",
     "readTime": "4 min read",
     "excerpt": "I'll never forget the first time I stumbled upon an AI image generator - I was blown away by the sheer possibilities it offered, but also frustrated by the inconsistencies in the output. My early expe...",
-    "commentCount": 3,
-    "viewCount": 101,
-    "likeCount": 23
+    "commentCount": 5,
+    "viewCount": 120,
+    "likeCount": 26
   },
   {
     "title": "The AI Assist: Why I Stopped Coding Without It",

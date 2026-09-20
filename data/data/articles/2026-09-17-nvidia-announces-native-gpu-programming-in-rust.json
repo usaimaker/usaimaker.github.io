@@ -29,9 +29,45 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789813197428_tu57fzaf6",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-08-22T08:27:06.504Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789813197428_vb7whwd10",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "great breakdown! the ROI is clear",
+      "timestamp": "2026-08-22T09:33:20.301Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789813197428_gohcc1ntk",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-08-28T02:04:25.073Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 40,
-  "likeCount": 4
+  "commentCount": 5,
+  "viewCount": 51,
+  "likeCount": 8
 }

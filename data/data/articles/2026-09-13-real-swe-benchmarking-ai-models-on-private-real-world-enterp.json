@@ -173,9 +173,21 @@
       "likes": 1,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789813197426_83qwxxfjl",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-08-20T13:07:38.499Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 14,
-  "viewCount": 92,
-  "likeCount": 19
+  "commentCount": 15,
+  "viewCount": 109,
+  "likeCount": 20
 }

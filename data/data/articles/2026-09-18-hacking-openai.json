@@ -29,9 +29,33 @@
       "likes": 4,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789813197429_grrvk3aa6",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "beautifully written. captures the essence perfectly",
+      "timestamp": "2026-09-13T08:06:06.739Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789813197429_qtkrucekr",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-09-15T18:19:57.993Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 20,
-  "likeCount": 3
+  "commentCount": 4,
+  "viewCount": 28,
+  "likeCount": 7
 }
