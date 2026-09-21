@@ -89,9 +89,33 @@
       "likes": 8,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789900746306_unubr7mq5",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "lol this is so true 😂",
+      "timestamp": "2026-09-07T12:40:23.039Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900746306_u530hge90",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-09-09T01:36:31.722Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 51,
-  "likeCount": 14
+  "commentCount": 9,
+  "viewCount": 69,
+  "likeCount": 15
 }

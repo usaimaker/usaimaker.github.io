@@ -101,9 +101,33 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789900746305_jzn7brnc4",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "beautifully written! captures exactly how I feel about AI tools",
+      "timestamp": "2026-08-27T09:21:18.259Z",
+      "likes": 1,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789900746305_o5efyvmgj",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-08-30T23:38:32.219Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 59,
-  "likeCount": 19
+  "commentCount": 10,
+  "viewCount": 82,
+  "likeCount": 22
 }

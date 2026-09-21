@@ -137,9 +137,45 @@
       "likes": 12,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789900746304_gct5ommrm",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-27T15:21:05.116Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789900746304_a8dp9erdc",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-08-29T10:20:08.660Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900746304_ooa4ia6bb",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-09-07T06:13:57.866Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 11,
-  "viewCount": 79,
-  "likeCount": 18
+  "commentCount": 14,
+  "viewCount": 88,
+  "likeCount": 23
 }

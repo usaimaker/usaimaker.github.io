@@ -29,9 +29,93 @@
       "likes": 8,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1789900742058_guqgkzu4r",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-08-30T11:01:48.351Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900742057_rpj1yj0aa",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-09-01T05:12:44.814Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900742058_7s27td2wn",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "sweet, thanks for the tip!",
+      "timestamp": "2026-09-03T08:17:21.484Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900742058_j3s94onmn",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-09-13T06:50:11.418Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900742058_70yvvzxw1",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-13T19:47:57.580Z",
+      "likes": 9,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900742058_tbp55vd2a",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-09-17T06:53:56.739Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789900742058_hpphgrluj",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-09-18T09:29:46.554Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 344,
-  "likeCount": 10
+  "commentCount": 9,
+  "viewCount": 349,
+  "likeCount": 13
 }

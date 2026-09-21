@@ -65,9 +65,69 @@
       "likes": 1,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789900739534_6cydijf4i",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-08-30T22:02:47.192Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900739601_h944h10mh",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-08-31T08:24:53.777Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789900739601_uwdaswntf",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-12T09:48:42.726Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900739601_s40tkaeai",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-12T12:28:02.368Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789900739601_biczc6fzy",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-17T19:31:11.736Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 5,
-  "viewCount": 460,
-  "likeCount": 31
+  "commentCount": 10,
+  "viewCount": 476,
+  "likeCount": 32
 }
