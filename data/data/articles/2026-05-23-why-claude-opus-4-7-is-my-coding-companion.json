@@ -125,9 +125,33 @@
       "likes": 12,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789992113589_3t2w4qo59",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-09-06T08:26:54.436Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789992113589_t5nqhytfo",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "nice! I've been using a similar approach. works great",
+      "timestamp": "2026-09-16T23:06:48.740Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 464,
-  "likeCount": 20
+  "commentCount": 12,
+  "viewCount": 483,
+  "likeCount": 25
 }

@@ -173,9 +173,33 @@
       "likes": 10,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789992122156_nxkaorvs0",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-08-23T16:56:18.780Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1789992122156_bxy5dsike",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-09-05T05:05:56.580Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 14,
-  "viewCount": 93,
-  "likeCount": 18
+  "commentCount": 16,
+  "viewCount": 111,
+  "likeCount": 21
 }

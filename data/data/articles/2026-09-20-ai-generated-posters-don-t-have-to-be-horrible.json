@@ -17,9 +17,33 @@
       "likes": 11,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789992124253_oder50az1",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-09-10T06:55:24.266Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789992124253_zpiutdz3a",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-09-16T08:07:14.274Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 6,
-  "likeCount": 4
+  "commentCount": 3,
+  "viewCount": 24,
+  "likeCount": 6
 }

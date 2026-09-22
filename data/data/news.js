@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-09-18 09:16:56
+// Last Updated: 2026-09-21 10:17:02
 
 const newsData = [
   {
-    "title": "Nvidia announces native GPU programming in Rust",
-    "description": "Score 944 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49724881",
-    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "title": "AI-generated posters don’t have to be horrible",
+    "description": "Score 1821 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49764791",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
     "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
+    "time": "2026-09-21 10:17:02"
   },
   {
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "description": "Score 674 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49731285",
-    "url": "https://rohanbansal.com/qorl",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "description": "Score 1310 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49765348",
+    "url": "https://laya.convaiinnovations.com/",
     "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "description": "Score 454 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49746163",
-    "url": "https://bend-lang.com/",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "description": "Score 427 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49746618",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "How GLM built its own inference infrastructure",
-    "description": "Score 396 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49737922",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "CCC invites all model citizens to 40C3",
-    "description": "Score 360 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49737787",
-    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "description": "Score 345 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49749656",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "The American Religion of Self-Storage Facilities",
-    "description": "Score 231 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49740260",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "description": "Score 213 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49740105",
-    "url": "https://mysetup.ai/",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "Qwen 3.8 Omni Flash",
-    "description": "Score 203 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49747925",
-    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
-  },
-  {
-    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "description": "Score 184 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49734929",
-    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
+    "time": "2026-09-21 10:17:02"
   },
   {
     "title": "How to Write with an LLM",
-    "description": "Score 155 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49747070",
+    "description": "Score 728 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49747070",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "source": "Hacker News",
-    "time": "2026-09-18 09:16:56"
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "Qwen Image 2.1",
+    "description": "Score 653 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49775499",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "AX – Google’s Open Agentic Orchestrator",
+    "description": "Score 498 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49780797",
+    "url": "https://agentexecutor.io",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "Spain orders blocks on Archive.today and its mirrors",
+    "description": "Score 431 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49772961",
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "The LLMentalist Effect (2023)",
+    "description": "Score 191 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49775104",
+    "url": "https://softwarecrisis.dev/letters/llmentalist/",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "MCP was always a bad idea?",
+    "description": "Score 170 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49779329",
+    "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "Laya on Mac M4 CoreML Offline",
+    "description": "Score 156 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49777106",
+    "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "Learning another language may be one of the best ways to keep your brain healthy",
+    "description": "Score 126 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49766821",
+    "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "description": "Score 109 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49783062",
+    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
+  },
+  {
+    "title": "Amiga Unix, Again",
+    "description": "Score 104 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49781436",
+    "url": "https://amigaux.org/",
+    "source": "Hacker News",
+    "time": "2026-09-21 10:17:02"
   }
 ];

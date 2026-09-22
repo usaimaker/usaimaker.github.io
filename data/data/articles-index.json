@@ -1,14 +1,25 @@
 [
   {
+    "title": "Transformers Explained Visually",
+    "slug": "transformers-explained-visually",
+    "category": "AI News",
+    "date": "2026-09-22",
+    "readTime": "7 min read",
+    "excerpt": "The AI community was taken by surprise on September 20, 2026 when a collaborative team of researchers from MIT, Google DeepMind, and the visual‑journalism platform Distill released an interactive, web...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "AX – Google’s Open Agentic Orchestrator",
     "slug": "ax-google-s-open-agentic-orchestrator",
     "category": "AI News",
     "date": "2026-09-21",
     "readTime": "7 min read",
     "excerpt": "Google unveiled AX, an open‑source “Agentic Orchestrator,” on September 18, 2026, during a live stream of its I/O developer conference. The platform promises to let developers compose, coordinate, and...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 1,
+    "viewCount": 8,
+    "likeCount": 5
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
@@ -17,9 +28,9 @@
     "date": "2026-09-20",
     "readTime": "6 min read",
     "excerpt": "A breakthrough announced on September 15, 2026  \n\nOn September 15, 2026, the San Francisco‑based startup PosterGen unveiled “PosterForge,” a diffusion‑based model that promises print‑ready, typogra...",
-    "commentCount": 1,
-    "viewCount": 6,
-    "likeCount": 4
+    "commentCount": 3,
+    "viewCount": 24,
+    "likeCount": 6
   },
   {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
@@ -28,9 +39,9 @@
     "date": "2026-09-19",
     "readTime": "6 min read",
     "excerpt": "The Announcement and Immediate Details  \n\nOpenAI revealed on September 15, 2026 that a team of engineers and product designers had employed the company’s own large language models to create a brand...",
-    "commentCount": 2,
-    "viewCount": 19,
-    "likeCount": 6
+    "commentCount": 5,
+    "viewCount": 39,
+    "likeCount": 11
   },
   {
     "title": "Hacking OpenAI",
@@ -39,9 +50,9 @@
     "date": "2026-09-18",
     "readTime": "7 min read",
     "excerpt": "The Breach Unveiled  \n\nOpenAI confirmed on September 12, 2026 that an unauthorized party accessed internal systems and extracted portions of the GPT‑4o training logs, user prompts, and API usage me...",
-    "commentCount": 7,
-    "viewCount": 33,
-    "likeCount": 11
+    "commentCount": 8,
+    "viewCount": 48,
+    "likeCount": 13
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
@@ -50,9 +61,9 @@
     "date": "2026-09-17",
     "readTime": "7 min read",
     "excerpt": "A historic step for GPU development  \n\nNvidia unveiled a native Rust programming interface for its GPUs at the GPU Technology Conference on September 12, 2026. The announcement marks the first time...",
-    "commentCount": 8,
-    "viewCount": 60,
-    "likeCount": 9
+    "commentCount": 11,
+    "viewCount": 81,
+    "likeCount": 11
   },
   {
     "title": "Introducing System One Models and Jev",
@@ -61,9 +72,9 @@
     "date": "2026-09-16",
     "readTime": "7 min read",
     "excerpt": "A bold announcement reshapes the AI landscape  \n\nOn September 12, 2026, the research lab behind the widely adopted “System Zero” platform unveiled its next‑generation suite, the System One models,...",
-    "commentCount": 9,
-    "viewCount": 69,
-    "likeCount": 15
+    "commentCount": 10,
+    "viewCount": 79,
+    "likeCount": 16
   },
   {
     "title": "Pion, an agent designed to run any company autonomously",
@@ -72,9 +83,9 @@
     "date": "2026-09-15",
     "readTime": "5 min read",
     "excerpt": "The Announcement  \n\nOn September 12, 2026, Autonomica Labs unveiled Pion, an artificial‑intelligence agent that it claims can “run any company autonomously.” The press release described the system...",
-    "commentCount": 10,
-    "viewCount": 82,
-    "likeCount": 22
+    "commentCount": 12,
+    "viewCount": 89,
+    "likeCount": 23
   },
   {
     "title": "Open-Source AI and Open Models Reading List",
@@ -281,9 +292,9 @@
     "date": "2026-08-27",
     "readTime": "5 min read",
     "excerpt": "I was skeptical about yet another tool promising miracles, but the first time I opened a blank document and typed a simple prompt, the words flowed. I finished a 10‑page market analysis in 45 minutes...",
-    "commentCount": 14,
-    "viewCount": 92,
-    "likeCount": 26
+    "commentCount": 17,
+    "viewCount": 115,
+    "likeCount": 31
   },
   {
     "title": "Nvidia agrees to acquire Hugging Face for $13B",
@@ -633,9 +644,9 @@
     "date": "2026-08-24",
     "readTime": "9 min read",
     "excerpt": "The first time I asked an AI to write a headline for my newsletter, the result was a cringe‑worthy “Unlock Your Potential with Tomorrow’s Technology.” I laughed, but I also felt a sting of disappointm...",
-    "commentCount": 14,
-    "viewCount": 93,
-    "likeCount": 18
+    "commentCount": 16,
+    "viewCount": 111,
+    "likeCount": 21
   },
   {
     "title": "When AI Tries to Compose: The Hits, the Misses, and the Weird Middle",
@@ -2855,9 +2866,9 @@
     "date": "2026-06-16",
     "readTime": "5 min read",
     "excerpt": "I've spent the last week diving headfirst into the world of AI-powered writing tools, and let me tell you, it's been a wild ride. My first stop was Claude Opus 4.7, which I'd heard great things about...",
-    "commentCount": 3,
-    "viewCount": 532,
-    "likeCount": 12
+    "commentCount": 5,
+    "viewCount": 545,
+    "likeCount": 17
   },
   {
     "title": "My Love-Hate Relationship with Claude: How It Handles Long Documents Better",
@@ -3515,9 +3526,9 @@
     "date": "2026-06-12",
     "readTime": "5 min read",
     "excerpt": "I've spent the last six months experimenting with various AI tools, trying to streamline my workflow and boost productivity, and I stumbled upon a feature that has genuinely transformed the way I work...",
-    "commentCount": 2,
-    "viewCount": 299,
-    "likeCount": 33
+    "commentCount": 9,
+    "viewCount": 321,
+    "likeCount": 35
   },
   {
     "title": "The AI tools that make me money",
@@ -6892,9 +6903,9 @@
     "date": "2026-05-23",
     "readTime": "4 min read",
     "excerpt": "I still remember the first time I paired up with Claude Opus 4.7 - it was a messy project, and I was stuck on a particularly pesky bug that I just couldn't seem to squash. My code was a jumbled mess,...",
-    "commentCount": 10,
-    "viewCount": 464,
-    "likeCount": 20
+    "commentCount": 12,
+    "viewCount": 483,
+    "likeCount": 25
   },
   {
     "title": "Why I Stopped Coding Without AI Help",
@@ -8366,9 +8377,9 @@
     "date": "2026-05-15",
     "readTime": "5 min read",
     "excerpt": "I still remember the first time I used an AI tool to help with my writing - it was a mess. The suggestions were clunky, the grammar was off, and I ended up spending more time fixing the AI's mistakes...",
-    "commentCount": 15,
-    "viewCount": 76,
-    "likeCount": 15
+    "commentCount": 20,
+    "viewCount": 93,
+    "likeCount": 17
   },
   {
     "title": "How Cursor Changed My Coding Life",

@@ -125,9 +125,33 @@
       "likes": 15,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1789992124251_r0vhplvvv",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-28T08:07:11.948Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1789992124251_d1zgko0sj",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-09-08T16:28:19.018Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 10,
-  "viewCount": 82,
-  "likeCount": 22
+  "commentCount": 12,
+  "viewCount": 89,
+  "likeCount": 23
 }
