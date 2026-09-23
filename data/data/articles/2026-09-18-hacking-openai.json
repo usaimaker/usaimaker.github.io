@@ -101,9 +101,45 @@
       "likes": 6,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790074738399_pp5ybpajt",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "this is what I call useful content. no fluff",
+      "timestamp": "2026-08-25T18:05:05.175Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790074738399_delgl9dkg",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-09-15T18:02:13.744Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790074738399_y0hz95kzz",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-19T07:37:03.339Z",
+      "likes": 10,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 48,
-  "likeCount": 13
+  "commentCount": 11,
+  "viewCount": 67,
+  "likeCount": 17
 }

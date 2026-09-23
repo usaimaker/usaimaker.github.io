@@ -29,9 +29,69 @@
       "likes": 8,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790074732061_6yoxyaelh",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-26T18:24:35.843Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790074732061_peijlj65b",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "totally agree! AI has changed my whole creative process",
+      "timestamp": "2026-08-27T15:46:18.160Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790074732061_8sl199v3o",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this is exactly the kind of authentic content I love",
+      "timestamp": "2026-09-03T14:49:51.599Z",
+      "likes": 2,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790074732060_j6mx334zn",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-05T01:14:09.948Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790074732061_l6izrekgi",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-09-11T07:22:01.809Z",
+      "likes": 2,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 261,
-  "likeCount": 15
+  "commentCount": 7,
+  "viewCount": 281,
+  "likeCount": 17
 }
