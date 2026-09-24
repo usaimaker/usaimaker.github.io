@@ -101,9 +101,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790160449649_k3k6i8bkd",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-08-27T05:31:59.376Z",
+      "likes": 12,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160449649_c481d6u0m",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "nice one! definitely trying this",
+      "timestamp": "2026-09-06T00:47:46.487Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 62,
-  "likeCount": 13
+  "commentCount": 10,
+  "viewCount": 77,
+  "likeCount": 18
 }

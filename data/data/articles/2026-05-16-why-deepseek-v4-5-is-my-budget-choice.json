@@ -53,9 +53,81 @@
       "likes": 9,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790160445420_gjpb6gi6k",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-08-27T06:55:58.732Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160445420_8ffnkr5j3",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "this is awesome! sharing with my friends",
+      "timestamp": "2026-08-28T12:05:17.164Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160445420_6gn3mqtlr",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-09-05T20:43:17.454Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790160445420_u3cs26zvl",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-09-12T02:42:26.288Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160445420_c6qh9aqtm",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-09-12T22:25:25.170Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790160445420_pxl623z4e",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-09-13T01:18:07.671Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 297,
-  "likeCount": 34
+  "commentCount": 10,
+  "viewCount": 310,
+  "likeCount": 38
 }

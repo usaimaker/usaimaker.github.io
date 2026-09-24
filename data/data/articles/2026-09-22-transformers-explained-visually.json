@@ -17,9 +17,45 @@
       "likes": 10,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790160449651_3moy8eksw",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-08-27T17:16:46.435Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160449651_3l5vpch29",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "finally someone said it! been using this for months and couldn't agree more",
+      "timestamp": "2026-09-08T02:16:12.051Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160449651_4lrmhiq4e",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-09-19T16:21:08.790Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 13,
-  "likeCount": 5
+  "commentCount": 4,
+  "viewCount": 35,
+  "likeCount": 9
 }

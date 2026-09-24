@@ -173,9 +173,33 @@
       "likes": 10,
       "replies": 2,
       "isVerified": true
+    },
+    {
+      "id": "comment_1790160447513_ygwhllp7q",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-26T20:22:51.316Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790160447513_9fdikdga8",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-08-28T20:32:40.375Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 14,
-  "viewCount": 438,
-  "likeCount": 27
+  "commentCount": 16,
+  "viewCount": 461,
+  "likeCount": 32
 }

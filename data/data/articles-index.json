@@ -1,14 +1,25 @@
 [
   {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "slug": "claude-discovers-a-novel-enzyme-system-with-crispr-like-repe",
+    "category": "AI News",
+    "date": "2026-09-24",
+    "readTime": "7 min read",
+    "excerpt": "Claude’s latest scientific breakthrough reads like a plot twist in a biotech thriller. In a paper posted to bioRxiv on September 12, 2026, a team led by Dr. Maya Patel at MIT announced that the Anthro...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "GPT-6 Sol and Luna",
     "slug": "gpt-6-sol-and-luna",
     "category": "AI News",
     "date": "2026-09-23",
     "readTime": "10 min read",
     "excerpt": "OpenAI announced on September 19, 2026 that its next‑generation language system, GPT‑6, will launch in two distinct variants—Sol and Luna—within the same week. The rollout marks the first time a singl...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 1,
+    "viewCount": 24,
+    "likeCount": 2
   },
   {
     "title": "Transformers Explained Visually",
@@ -17,9 +28,9 @@
     "date": "2026-09-22",
     "readTime": "7 min read",
     "excerpt": "The AI community was taken by surprise on September 20, 2026 when a collaborative team of researchers from MIT, Google DeepMind, and the visual‑journalism platform Distill released an interactive, web...",
-    "commentCount": 1,
-    "viewCount": 13,
-    "likeCount": 5
+    "commentCount": 4,
+    "viewCount": 35,
+    "likeCount": 9
   },
   {
     "title": "AX – Google’s Open Agentic Orchestrator",
@@ -28,9 +39,9 @@
     "date": "2026-09-21",
     "readTime": "7 min read",
     "excerpt": "Google unveiled AX, an open‑source “Agentic Orchestrator,” on September 18, 2026, during a live stream of its I/O developer conference. The platform promises to let developers compose, coordinate, and...",
-    "commentCount": 4,
-    "viewCount": 31,
-    "likeCount": 6
+    "commentCount": 6,
+    "viewCount": 40,
+    "likeCount": 7
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
@@ -39,9 +50,9 @@
     "date": "2026-09-20",
     "readTime": "6 min read",
     "excerpt": "A breakthrough announced on September 15, 2026  \n\nOn September 15, 2026, the San Francisco‑based startup PosterGen unveiled “PosterForge,” a diffusion‑based model that promises print‑ready, typogra...",
-    "commentCount": 4,
-    "viewCount": 29,
-    "likeCount": 11
+    "commentCount": 6,
+    "viewCount": 53,
+    "likeCount": 12
   },
   {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
@@ -50,9 +61,9 @@
     "date": "2026-09-19",
     "readTime": "6 min read",
     "excerpt": "The Announcement and Immediate Details  \n\nOpenAI revealed on September 15, 2026 that a team of engineers and product designers had employed the company’s own large language models to create a brand...",
-    "commentCount": 8,
-    "viewCount": 62,
-    "likeCount": 13
+    "commentCount": 10,
+    "viewCount": 77,
+    "likeCount": 18
   },
   {
     "title": "Hacking OpenAI",
@@ -61,9 +72,9 @@
     "date": "2026-09-18",
     "readTime": "7 min read",
     "excerpt": "The Breach Unveiled  \n\nOpenAI confirmed on September 12, 2026 that an unauthorized party accessed internal systems and extracted portions of the GPT‑4o training logs, user prompts, and API usage me...",
-    "commentCount": 11,
-    "viewCount": 67,
-    "likeCount": 17
+    "commentCount": 12,
+    "viewCount": 89,
+    "likeCount": 18
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
@@ -72,9 +83,9 @@
     "date": "2026-09-17",
     "readTime": "7 min read",
     "excerpt": "A historic step for GPU development  \n\nNvidia unveiled a native Rust programming interface for its GPUs at the GPU Technology Conference on September 12, 2026. The announcement marks the first time...",
-    "commentCount": 13,
-    "viewCount": 96,
-    "likeCount": 12
+    "commentCount": 14,
+    "viewCount": 106,
+    "likeCount": 15
   },
   {
     "title": "Introducing System One Models and Jev",
@@ -2470,9 +2481,9 @@
     "date": "2026-07-22",
     "readTime": "6 min read",
     "excerpt": "I've spent years navigating the AI hype cycle, and I've learned to separate the genuinely useful tools from the flashy but flawed ones. My daily workflow now relies on a handful of AI-powered tools th...",
-    "commentCount": 2,
-    "viewCount": 121,
-    "likeCount": 10
+    "commentCount": 9,
+    "viewCount": 129,
+    "likeCount": 14
   },
   {
     "title": "My ChatGPT Epiphany: How One Feature Transformed My Workflow",
@@ -4186,9 +4197,9 @@
     "date": "2026-06-08",
     "readTime": "8 min read",
     "excerpt": "I still remember the day I stumbled upon the ChatGPT feature that changed my workflow - it was a typical Monday morning, with a looming deadline and a blank page staring back at me. My task was to wri...",
-    "commentCount": 14,
-    "viewCount": 438,
-    "likeCount": 27
+    "commentCount": 16,
+    "viewCount": 461,
+    "likeCount": 32
   },
   {
     "title": "Why Claude Opus 4.7 is my coding companion",
@@ -8256,9 +8267,9 @@
     "date": "2026-05-16",
     "readTime": "4 min read",
     "excerpt": "I've spent countless hours scouring the web for a decent search tool that won't break the bank, and my search finally ended with DeepSeek V4.5. My work involves digging up obscure information on a dai...",
-    "commentCount": 4,
-    "viewCount": 297,
-    "likeCount": 34
+    "commentCount": 10,
+    "viewCount": 310,
+    "likeCount": 38
   },
   {
     "title": "How AI Became My Trusty Sidekick",
