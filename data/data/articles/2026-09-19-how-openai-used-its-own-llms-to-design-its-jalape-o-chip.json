@@ -125,9 +125,33 @@
       "likes": 5,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248088618_g8aa99wid",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-03T03:06:31.558Z",
+      "likes": 4,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088618_gssd2q9ca",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-09-15T00:27:43.202Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 77,
-  "likeCount": 18
+  "commentCount": 12,
+  "viewCount": 85,
+  "likeCount": 21
 }

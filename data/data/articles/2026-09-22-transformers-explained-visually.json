@@ -53,9 +53,33 @@
       "likes": 15,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248088619_b31giaknt",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-08-28T05:05:55.569Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088619_561rb85za",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-08-31T06:07:58.102Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 35,
-  "likeCount": 9
+  "commentCount": 6,
+  "viewCount": 52,
+  "likeCount": 11
 }

@@ -77,9 +77,21 @@
       "likes": 10,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248088619_wp6ow03iw",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-09-06T23:06:57.726Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 40,
-  "likeCount": 7
+  "commentCount": 7,
+  "viewCount": 59,
+  "likeCount": 9
 }

@@ -185,9 +185,93 @@
       "likes": 4,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248086477_1shifba9z",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "interesting take, but I'd be careful about over-relying on this",
+      "timestamp": "2026-08-27T22:50:28.470Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248086477_h9ofiy5zc",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-09-05T23:24:21.027Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248086476_aiak6y5td",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "I have a similar story! AI changed everything for me",
+      "timestamp": "2026-09-06T13:13:41.941Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248086477_q3ujcrea0",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-09T20:41:18.348Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790248086477_h4etaxwwj",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-13T20:59:21.022Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248086477_o1nt5kunc",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "tried this approach, works like a charm. saved me $50/month",
+      "timestamp": "2026-09-19T09:37:08.350Z",
+      "likes": 15,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248086477_wtp402owa",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-20T02:11:07.552Z",
+      "likes": 14,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 15,
-  "viewCount": 95,
-  "likeCount": 15
+  "commentCount": 22,
+  "viewCount": 105,
+  "likeCount": 18
 }

@@ -29,9 +29,57 @@
       "likes": 11,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248080128_2f567ytvu",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-27T03:46:44.030Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248080128_0aj53z74g",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "this is cleaner than my current setup. time to refactor 😅",
+      "timestamp": "2026-09-05T16:17:02.764Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248080128_9p60pxiq8",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-09-11T21:22:19.784Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248080128_ypbyj9pbr",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-19T21:49:17.046Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 2,
-  "viewCount": 341,
-  "likeCount": 34
+  "commentCount": 6,
+  "viewCount": 359,
+  "likeCount": 37
 }

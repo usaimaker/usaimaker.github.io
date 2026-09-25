@@ -17,9 +17,45 @@
       "likes": 2,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248088620_t29g1pdem",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-07T10:43:51.716Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088620_u9mbs4rpo",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "interesting data points. would love to see more metrics",
+      "timestamp": "2026-09-16T13:43:41.840Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088620_ah3vy9qar",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-09-23T03:53:16.910Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 24,
-  "likeCount": 2
+  "commentCount": 4,
+  "viewCount": 35,
+  "likeCount": 5
 }

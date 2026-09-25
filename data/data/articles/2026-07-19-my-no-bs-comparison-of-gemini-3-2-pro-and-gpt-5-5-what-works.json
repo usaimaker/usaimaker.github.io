@@ -89,9 +89,33 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248082226_tvit1q25d",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-03T02:31:37.275Z",
+      "likes": 9,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790248082226_psxz01eyw",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-09-12T23:16:12.643Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 477,
-  "likeCount": 30
+  "commentCount": 9,
+  "viewCount": 489,
+  "likeCount": 34
 }

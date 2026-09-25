@@ -149,9 +149,45 @@
       "likes": 2,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790248088617_t3cwfw98m",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-08-25T13:16:55.931Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088617_djh17o3ye",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-08-25T21:27:03.135Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790248088617_9497hrv0u",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "works great. thanks.",
+      "timestamp": "2026-08-26T04:37:23.469Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 89,
-  "likeCount": 18
+  "commentCount": 15,
+  "viewCount": 109,
+  "likeCount": 19
 }
