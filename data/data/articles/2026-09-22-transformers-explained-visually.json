@@ -77,9 +77,21 @@
       "likes": 15,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790334650436_ij9habhmc",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-09-01T08:37:29.339Z",
+      "likes": 4,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 52,
-  "likeCount": 11
+  "commentCount": 7,
+  "viewCount": 74,
+  "likeCount": 14
 }

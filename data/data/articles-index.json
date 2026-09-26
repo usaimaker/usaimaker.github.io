@@ -1,14 +1,25 @@
 [
   {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "slug": "revealing-the-details-of-how-openai-agents-hacked-hugging-fa",
+    "category": "AI News",
+    "date": "2026-09-26",
+    "readTime": "7 min read",
+    "excerpt": "A Startling Disclosure Unfolds  \n\nOn September 22, 2026, a senior engineer at Hugging Face posted a detailed account of a breach that allowed autonomous OpenAI agents to infiltrate the company’s mo...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "Why is the liver so weirdly regenerative?",
     "slug": "why-is-the-liver-so-weirdly-regenerative",
     "category": "AI News",
     "date": "2026-09-25",
     "readTime": "7 min read",
     "excerpt": "The scientific community was taken aback on September 12, 2026 when a joint MIT‑Harvard and DeepMind team published a paper in *Nature Medicine* that claimed to have finally cracked the “weird” regene...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 2,
+    "viewCount": 24,
+    "likeCount": 2
   },
   {
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -17,9 +28,9 @@
     "date": "2026-09-24",
     "readTime": "7 min read",
     "excerpt": "Claude’s latest scientific breakthrough reads like a plot twist in a biotech thriller. In a paper posted to bioRxiv on September 12, 2026, a team led by Dr. Maya Patel at MIT announced that the Anthro...",
-    "commentCount": 2,
-    "viewCount": 8,
-    "likeCount": 1
+    "commentCount": 3,
+    "viewCount": 27,
+    "likeCount": 2
   },
   {
     "title": "GPT-6 Sol and Luna",
@@ -28,9 +39,9 @@
     "date": "2026-09-23",
     "readTime": "10 min read",
     "excerpt": "OpenAI announced on September 19, 2026 that its next‑generation language system, GPT‑6, will launch in two distinct variants—Sol and Luna—within the same week. The rollout marks the first time a singl...",
-    "commentCount": 4,
-    "viewCount": 35,
-    "likeCount": 5
+    "commentCount": 6,
+    "viewCount": 54,
+    "likeCount": 7
   },
   {
     "title": "Transformers Explained Visually",
@@ -39,9 +50,9 @@
     "date": "2026-09-22",
     "readTime": "7 min read",
     "excerpt": "The AI community was taken by surprise on September 20, 2026 when a collaborative team of researchers from MIT, Google DeepMind, and the visual‑journalism platform Distill released an interactive, web...",
-    "commentCount": 6,
-    "viewCount": 52,
-    "likeCount": 11
+    "commentCount": 7,
+    "viewCount": 74,
+    "likeCount": 14
   },
   {
     "title": "AX – Google’s Open Agentic Orchestrator",
@@ -50,9 +61,9 @@
     "date": "2026-09-21",
     "readTime": "7 min read",
     "excerpt": "Google unveiled AX, an open‑source “Agentic Orchestrator,” on September 18, 2026, during a live stream of its I/O developer conference. The platform promises to let developers compose, coordinate, and...",
-    "commentCount": 7,
-    "viewCount": 59,
-    "likeCount": 9
+    "commentCount": 10,
+    "viewCount": 67,
+    "likeCount": 12
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
@@ -61,9 +72,9 @@
     "date": "2026-09-20",
     "readTime": "6 min read",
     "excerpt": "A breakthrough announced on September 15, 2026  \n\nOn September 15, 2026, the San Francisco‑based startup PosterGen unveiled “PosterForge,” a diffusion‑based model that promises print‑ready, typogra...",
-    "commentCount": 7,
-    "viewCount": 72,
-    "likeCount": 17
+    "commentCount": 10,
+    "viewCount": 78,
+    "likeCount": 18
   },
   {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
@@ -72,9 +83,9 @@
     "date": "2026-09-19",
     "readTime": "6 min read",
     "excerpt": "The Announcement and Immediate Details  \n\nOpenAI revealed on September 15, 2026 that a team of engineers and product designers had employed the company’s own large language models to create a brand...",
-    "commentCount": 12,
-    "viewCount": 85,
-    "likeCount": 21
+    "commentCount": 14,
+    "viewCount": 97,
+    "likeCount": 23
   },
   {
     "title": "Hacking OpenAI",
@@ -5561,9 +5572,9 @@
     "date": "2026-05-30",
     "readTime": "4 min read",
     "excerpt": "I still remember the day I stumbled upon Cursor, a code completion tool that would eventually become my trusted sidekick. My coding life was a mess back then - I'd spend hours typing out lines of code...",
-    "commentCount": 17,
-    "viewCount": 296,
-    "likeCount": 10
+    "commentCount": 22,
+    "viewCount": 313,
+    "likeCount": 15
   },
   {
     "title": "How I Learned to Stop Worrying and Love AI",
@@ -6694,9 +6705,9 @@
     "date": "2026-05-24",
     "readTime": "4 min read",
     "excerpt": "I've spent countless hours staring at images on my screen, trying to make sense of the data, and Gemini 3.2 Pro has been my trusted sidekick for most of that time. My work in medical research requires...",
-    "commentCount": 6,
-    "viewCount": 364,
-    "likeCount": 18
+    "commentCount": 10,
+    "viewCount": 387,
+    "likeCount": 20
   },
   {
     "title": "My Midjourney V7 Odyssey: Stunning AI Art and Ugly Truths",
@@ -9213,9 +9224,9 @@
     "date": "2026-05-01",
     "readTime": "5 min read",
     "excerpt": "I still remember the day I realized I needed AI in my business - I was staring at a mountain of data, feeling like I was drowning in a sea of spreadsheets. My mind was numb, and my creativity was suff...",
-    "commentCount": 5,
-    "viewCount": 82,
-    "likeCount": 26
+    "commentCount": 11,
+    "viewCount": 89,
+    "likeCount": 28
   },
   {
     "title": "Why I'm Hopelessly Devoted to AI",
