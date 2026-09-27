@@ -125,9 +125,33 @@
       "likes": 13,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790419825077_e8pfy5j6x",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "good stuff.",
+      "timestamp": "2026-08-28T15:10:50.308Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419825077_p82d74p3k",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-17T15:10:54.444Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 10,
-  "viewCount": 67,
-  "likeCount": 12
+  "commentCount": 12,
+  "viewCount": 81,
+  "likeCount": 15
 }

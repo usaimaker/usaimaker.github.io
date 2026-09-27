@@ -101,9 +101,69 @@
       "likes": 1,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790419816612_a4evaur3l",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "thanks for explaining! still learning, this helps a lot",
+      "timestamp": "2026-08-28T13:04:59.509Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419816612_gfo4vn5mr",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-09-04T08:49:08.332Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419816612_52rhqnjlr",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "haha this is so relatable! my kids think I'm a wizard now with AI 😂",
+      "timestamp": "2026-09-06T19:49:57.843Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419816612_r1en6e70z",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "this is gold! sharing with my artist friends",
+      "timestamp": "2026-09-11T01:05:47.811Z",
+      "likes": 13,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790419816606_h9b8btole",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-09-16T15:43:39.923Z",
+      "likes": 14,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 187,
-  "likeCount": 26
+  "commentCount": 13,
+  "viewCount": 200,
+  "likeCount": 30
 }

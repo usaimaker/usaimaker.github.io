@@ -41,9 +41,45 @@
       "likes": 5,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790419825079_1usjjmbvp",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-04T20:45:56.789Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419825079_5a0kkxcv6",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-09-17T21:45:23.925Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419825079_j7hqwns2d",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "interesting! need to try this myself",
+      "timestamp": "2026-09-17T23:20:42.081Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 27,
-  "likeCount": 2
+  "commentCount": 6,
+  "viewCount": 37,
+  "likeCount": 7
 }

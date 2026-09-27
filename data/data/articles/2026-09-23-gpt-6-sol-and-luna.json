@@ -77,9 +77,45 @@
       "likes": 8,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790419825078_ugclxurpf",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "THIS! exactly what I was looking for! 🔥",
+      "timestamp": "2026-08-31T19:16:14.734Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790419825078_ri3c5txw5",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-09-03T23:35:02.227Z",
+      "likes": 15,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790419825078_fc2xpoiit",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-09-15T20:27:40.131Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 54,
-  "likeCount": 7
+  "commentCount": 9,
+  "viewCount": 68,
+  "likeCount": 12
 }
