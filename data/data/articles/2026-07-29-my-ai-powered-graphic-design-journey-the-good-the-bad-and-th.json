@@ -161,9 +161,69 @@
       "likes": 10,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790508335349_p9jqnmpia",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-08-28T18:51:57.687Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790508335349_4qt120odl",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-08-30T21:58:12.624Z",
+      "likes": 10,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508335349_wme2hswxn",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "man, I wish I knew this earlier. would've saved me so much time with work stuff",
+      "timestamp": "2026-09-02T07:30:57.038Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508335349_s0mlfob5o",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-08T08:39:12.926Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508335349_dbpbnwcd2",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-25T00:17:28.560Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": true
     }
   ],
-  "commentCount": 13,
-  "viewCount": 213,
-  "likeCount": 26
+  "commentCount": 18,
+  "viewCount": 234,
+  "likeCount": 31
 }

@@ -17,9 +17,33 @@
       "likes": 9,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790508337466_mttmxmdm9",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "good points, though I've seen some issues with this approach",
+      "timestamp": "2026-09-07T20:42:40.952Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508337466_3ej370gwq",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-09-13T05:11:16.817Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 1,
-  "viewCount": 18,
-  "likeCount": 5
+  "commentCount": 3,
+  "viewCount": 35,
+  "likeCount": 7
 }

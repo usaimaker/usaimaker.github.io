@@ -41,9 +41,57 @@
       "likes": 6,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790508326723_794njgrc9",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "solid advice, just don't expect miracles",
+      "timestamp": "2026-08-30T02:52:40.357Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508326723_9poy7wlce",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-09-07T17:25:32.519Z",
+      "likes": 8,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508326719_vxw48ogek",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-09-10T11:10:30.278Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508326723_hx6i6uh8g",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "this aligns with what I've observed in the data",
+      "timestamp": "2026-09-16T02:24:21.502Z",
+      "likes": 7,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 226,
-  "likeCount": 12
+  "commentCount": 7,
+  "viewCount": 231,
+  "likeCount": 13
 }

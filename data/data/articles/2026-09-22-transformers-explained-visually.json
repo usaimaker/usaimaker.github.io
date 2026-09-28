@@ -113,9 +113,45 @@
       "likes": 2,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790508337464_ti671j40h",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "great explanation! this would be perfect for beginners",
+      "timestamp": "2026-09-06T02:21:04.521Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508337464_b0dcaejiv",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "from my testing, I'm seeing similar patterns",
+      "timestamp": "2026-09-08T23:07:24.739Z",
+      "likes": 4,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790508337464_vk5d7ib1i",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-15T19:13:20.232Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 9,
-  "viewCount": 88,
-  "likeCount": 18
+  "commentCount": 12,
+  "viewCount": 110,
+  "likeCount": 20
 }

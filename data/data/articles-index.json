@@ -1,14 +1,25 @@
 [
   {
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "slug": "thinking-fast-and-slow-in-ai-the-role-of-metacognition-2021",
+    "category": "AI News",
+    "date": "2026-09-28",
+    "readTime": "8 min read",
+    "excerpt": "A breakthrough revisited  \n\nOn September 27, 2026, a panel at the International Conference on Machine Learning highlighted a 2021 research article titled “Thinking fast and slow in AI: The role of...",
+    "commentCount": 0,
+    "viewCount": 0,
+    "likeCount": 0
+  },
+  {
     "title": "DeepSeek Elastic Compute (DSec)",
     "slug": "deepseek-elastic-compute-dsec",
     "category": "AI News",
     "date": "2026-09-27",
     "readTime": "9 min read",
     "excerpt": "A bold step into on‑demand AI infrastructure  \n\nOn September 24, DeepSeek announced the public rollout of DeepSeek Elastic Compute, abbreviated DSec, a cloud‑native platform that promises to delive...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 2,
+    "viewCount": 14,
+    "likeCount": 4
   },
   {
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
@@ -17,9 +28,9 @@
     "date": "2026-09-26",
     "readTime": "7 min read",
     "excerpt": "A Startling Disclosure Unfolds  \n\nOn September 22, 2026, a senior engineer at Hugging Face posted a detailed account of a breach that allowed autonomous OpenAI agents to infiltrate the company’s mo...",
-    "commentCount": 1,
-    "viewCount": 18,
-    "likeCount": 5
+    "commentCount": 3,
+    "viewCount": 35,
+    "likeCount": 7
   },
   {
     "title": "Why is the liver so weirdly regenerative?",
@@ -28,9 +39,9 @@
     "date": "2026-09-25",
     "readTime": "7 min read",
     "excerpt": "The scientific community was taken aback on September 12, 2026 when a joint MIT‑Harvard and DeepMind team published a paper in *Nature Medicine* that claimed to have finally cracked the “weird” regene...",
-    "commentCount": 5,
-    "viewCount": 30,
-    "likeCount": 7
+    "commentCount": 7,
+    "viewCount": 35,
+    "likeCount": 11
   },
   {
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -39,9 +50,9 @@
     "date": "2026-09-24",
     "readTime": "7 min read",
     "excerpt": "Claude’s latest scientific breakthrough reads like a plot twist in a biotech thriller. In a paper posted to bioRxiv on September 12, 2026, a team led by Dr. Maya Patel at MIT announced that the Anthro...",
-    "commentCount": 6,
-    "viewCount": 37,
-    "likeCount": 7
+    "commentCount": 8,
+    "viewCount": 51,
+    "likeCount": 8
   },
   {
     "title": "GPT-6 Sol and Luna",
@@ -50,9 +61,9 @@
     "date": "2026-09-23",
     "readTime": "10 min read",
     "excerpt": "OpenAI announced on September 19, 2026 that its next‑generation language system, GPT‑6, will launch in two distinct variants—Sol and Luna—within the same week. The rollout marks the first time a singl...",
-    "commentCount": 9,
-    "viewCount": 68,
-    "likeCount": 12
+    "commentCount": 12,
+    "viewCount": 77,
+    "likeCount": 14
   },
   {
     "title": "Transformers Explained Visually",
@@ -61,9 +72,9 @@
     "date": "2026-09-22",
     "readTime": "7 min read",
     "excerpt": "The AI community was taken by surprise on September 20, 2026 when a collaborative team of researchers from MIT, Google DeepMind, and the visual‑journalism platform Distill released an interactive, web...",
-    "commentCount": 9,
-    "viewCount": 88,
-    "likeCount": 18
+    "commentCount": 12,
+    "viewCount": 110,
+    "likeCount": 20
   },
   {
     "title": "AX – Google’s Open Agentic Orchestrator",
@@ -72,9 +83,9 @@
     "date": "2026-09-21",
     "readTime": "7 min read",
     "excerpt": "Google unveiled AX, an open‑source “Agentic Orchestrator,” on September 18, 2026, during a live stream of its I/O developer conference. The platform promises to let developers compose, coordinate, and...",
-    "commentCount": 12,
-    "viewCount": 81,
-    "likeCount": 15
+    "commentCount": 15,
+    "viewCount": 99,
+    "likeCount": 16
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
@@ -1216,9 +1227,9 @@
     "date": "2026-08-09",
     "readTime": "5 min read",
     "excerpt": "A team of researchers has developed a new AI model that can predict 3D protein structures in seconds, a task that previously took days or even weeks.\n\nThe Breakthrough\n\nThe new model, called AlphaF...",
-    "commentCount": 0,
-    "viewCount": 0,
-    "likeCount": 0
+    "commentCount": 3,
+    "viewCount": 24,
+    "likeCount": 1
   },
   {
     "title": "Cracking the AI Code: My Journey to Mastering Artificial Intelligence",
@@ -1821,9 +1832,9 @@
     "date": "2026-07-29",
     "readTime": "7 min read",
     "excerpt": "I still remember the day I stumbled upon an AI-powered graphic design tool - my mind was blown. I had been struggling to create professional-looking graphics for my blog, and this tool seemed like the...",
-    "commentCount": 13,
-    "viewCount": 213,
-    "likeCount": 26
+    "commentCount": 18,
+    "viewCount": 234,
+    "likeCount": 31
   },
   {
     "title": "My Brutal Comparison of DeepSeek V4.5 vs GPT-5.5 Performance: What I Learned the Hard Way",
@@ -2074,9 +2085,9 @@
     "date": "2026-07-27",
     "readTime": "7 min read",
     "excerpt": "I still remember the first time I used an AI-powered writing tool - I was both amazed and underwhelmed at the same time. My initial skepticism was rooted in past experiences with overhyped tech trends...",
-    "commentCount": 3,
-    "viewCount": 450,
-    "likeCount": 25
+    "commentCount": 7,
+    "viewCount": 466,
+    "likeCount": 29
   },
   {
     "title": "Cracking the Code: My Favorite Midjourney V7 Prompts That Actually Work",
@@ -2800,9 +2811,9 @@
     "date": "2026-07-19",
     "readTime": "6 min read",
     "excerpt": "I'll admit, when I first heard about the GPT-5.5 feature, I was skeptical - I've seen too many \"breakthroughs\" fizzle out in the past. But after spending countless hours testing and experimenting with...",
-    "commentCount": 8,
-    "viewCount": 347,
-    "likeCount": 33
+    "commentCount": 14,
+    "viewCount": 354,
+    "likeCount": 35
   },
   {
     "title": "Unleashing ChatGPT's Hidden Potential: My Favorite Productivity Hacks",
@@ -2998,9 +3009,9 @@
     "date": "2026-06-15",
     "readTime": "5 min read",
     "excerpt": "I still remember the day I decided to integrate AI into my daily routine - it was a hectic Monday morning, and I was already feeling overwhelmed with tasks. My to-do list was piling up, and I knew I h...",
-    "commentCount": 3,
-    "viewCount": 226,
-    "likeCount": 12
+    "commentCount": 7,
+    "viewCount": 231,
+    "likeCount": 13
   },
   {
     "title": "How Claude Handles Long Documents Better - A Deep Dive",
