@@ -101,9 +101,105 @@
       "likes": 3,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600210204_i1ezkzcx2",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-03T05:01:05.220Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210203_y0o34c4jx",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-09-03T15:04:06.901Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210204_gt8i3ky8h",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "solid insights. implemented something similar for my startup",
+      "timestamp": "2026-09-04T13:50:15.279Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210204_ngyi92emv",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "love this perspective! been experimenting with similar stuff lately",
+      "timestamp": "2026-09-04T14:40:16.793Z",
+      "likes": 11,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790600210203_d6j4skzih",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "sharing this with my students. thanks for the clear breakdown",
+      "timestamp": "2026-09-05T07:31:51.004Z",
+      "likes": 5,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210203_63h3azjjp",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-09-07T22:16:34.715Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210203_gl29aypsy",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-09T21:13:14.737Z",
+      "likes": 6,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600210204_8ieenxe5w",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-23T14:04:43.524Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 8,
-  "viewCount": 292,
-  "likeCount": 7
+  "commentCount": 16,
+  "viewCount": 316,
+  "likeCount": 10
 }

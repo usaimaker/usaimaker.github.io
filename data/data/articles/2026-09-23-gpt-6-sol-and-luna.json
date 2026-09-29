@@ -149,9 +149,21 @@
       "likes": 7,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600212306_7frgifou6",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "quick question: how does this compare to [other tool]?",
+      "timestamp": "2026-09-13T14:37:01.599Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 77,
-  "likeCount": 14
+  "commentCount": 13,
+  "viewCount": 89,
+  "likeCount": 19
 }

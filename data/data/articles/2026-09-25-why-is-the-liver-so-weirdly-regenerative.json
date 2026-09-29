@@ -89,9 +89,45 @@
       "likes": 5,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600212306_ugvx6ig22",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-09-04T00:15:07.847Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600212306_vrfragfoc",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "solid implementation. might try this on my next project",
+      "timestamp": "2026-09-24T22:39:26.345Z",
+      "likes": 13,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600212306_1wr48sl29",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-28T02:49:46.092Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 7,
-  "viewCount": 35,
-  "likeCount": 11
+  "commentCount": 10,
+  "viewCount": 54,
+  "likeCount": 15
 }

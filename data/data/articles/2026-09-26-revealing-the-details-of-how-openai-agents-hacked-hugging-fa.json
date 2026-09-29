@@ -41,9 +41,45 @@
       "likes": 3,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600212307_jul8kgk8z",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "love love love this approach! works perfectly",
+      "timestamp": "2026-09-07T12:11:56.885Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790600212307_xk5rv41sb",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "one thing I'd add: make sure to handle edge cases properly",
+      "timestamp": "2026-09-11T22:57:58.005Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600212307_zkbdrea3r",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "this is the kind of content that helps people actually learn",
+      "timestamp": "2026-09-18T10:46:18.128Z",
+      "likes": 15,
+      "replies": 1,
+      "isVerified": false
     }
   ],
-  "commentCount": 3,
-  "viewCount": 35,
-  "likeCount": 7
+  "commentCount": 6,
+  "viewCount": 58,
+  "likeCount": 8
 }

@@ -161,9 +161,45 @@
       "likes": 7,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600197754_pxzookeug",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "ROI on this approach is real. seeing results already",
+      "timestamp": "2026-09-07T09:12:29.966Z",
+      "likes": 12,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600197760_ruhfmsgaz",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "thanks for sharing your experience. very relatable",
+      "timestamp": "2026-09-07T21:20:12.725Z",
+      "likes": 7,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600197760_334dwiw84",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "I teach this exact concept in my workshops. well done!",
+      "timestamp": "2026-09-16T21:55:17.829Z",
+      "likes": 7,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 13,
-  "viewCount": 104,
-  "likeCount": 15
+  "commentCount": 16,
+  "viewCount": 113,
+  "likeCount": 17
 }

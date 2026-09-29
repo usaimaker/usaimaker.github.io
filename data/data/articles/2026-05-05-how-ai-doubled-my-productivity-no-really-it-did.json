@@ -185,9 +185,45 @@
       "likes": 6,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600206060_9oq8j283s",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-10T04:09:22.042Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600206060_y4ho2wwro",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-15T02:16:56.854Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600206060_d59cfkjnq",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "practical tip! implemented in 5 minutes",
+      "timestamp": "2026-09-17T18:43:25.034Z",
+      "likes": 6,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 15,
-  "viewCount": 180,
-  "likeCount": 26
+  "commentCount": 18,
+  "viewCount": 197,
+  "likeCount": 28
 }

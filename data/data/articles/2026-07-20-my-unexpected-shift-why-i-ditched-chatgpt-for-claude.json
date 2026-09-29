@@ -53,9 +53,69 @@
       "likes": 13,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600199856_gf6smi8xg",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-07T01:28:32.461Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600199856_3f1rdki7v",
+      "userId": "user_002",
+      "username": "sarah_creates",
+      "displayName": "Sarah Kim",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "content": "the creative possibilities are endless! just made something cool inspired by this",
+      "timestamp": "2026-09-07T20:58:53.738Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790600199856_ak14pueyd",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "thanks for sharing, just showed this to my wife and she's like 'finally something useful'",
+      "timestamp": "2026-09-09T00:25:16.522Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600199856_u6n8o808q",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "great post! learned something new today",
+      "timestamp": "2026-09-18T14:39:30.888Z",
+      "likes": 3,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600199856_be6hqzo1n",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-09-24T20:41:11.335Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
     }
   ],
-  "commentCount": 4,
-  "viewCount": 448,
-  "likeCount": 19
+  "commentCount": 9,
+  "viewCount": 459,
+  "likeCount": 20
 }

@@ -77,9 +77,33 @@
       "likes": 3,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790600201922_vyqc73w95",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-10T06:30:33.012Z",
+      "likes": 5,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790600201922_noy6mcyb8",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "noted.",
+      "timestamp": "2026-09-11T12:54:46.357Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 101,
-  "likeCount": 20
+  "commentCount": 8,
+  "viewCount": 123,
+  "likeCount": 24
 }
