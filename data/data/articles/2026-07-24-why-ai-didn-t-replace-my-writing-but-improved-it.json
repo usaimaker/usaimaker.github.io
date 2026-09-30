@@ -53,9 +53,45 @@
       "likes": 1,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790683751847_8t2vdgvt9",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-09-06T11:13:07.278Z",
+      "likes": 12,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683751846_ab7uacejm",
+      "userId": "user_014",
+      "username": "minimalist_coder",
+      "displayName": "Yuki Tanaka",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yuki",
+      "content": "solid approach.",
+      "timestamp": "2026-09-18T02:08:19.332Z",
+      "likes": 6,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683751847_ytemc1kij",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "this is why I follow this blog! pure gold!",
+      "timestamp": "2026-09-25T09:07:52.941Z",
+      "likes": 3,
+      "replies": 0,
+      "isVerified": true
     }
   ],
-  "commentCount": 4,
-  "viewCount": 88,
-  "likeCount": 27
+  "commentCount": 7,
+  "viewCount": 110,
+  "likeCount": 30
 }

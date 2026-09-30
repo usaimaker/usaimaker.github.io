@@ -149,9 +149,57 @@
       "likes": 9,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790683747295_dd6cesnet",
+      "userId": "user_015",
+      "username": "student_life",
+      "displayName": "Priya Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-09-05T03:39:26.874Z",
+      "likes": 11,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683747295_8xkuuy94m",
+      "userId": "user_011",
+      "username": "solo_founder",
+      "displayName": "Marcus Johnson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus",
+      "content": "thanks for breaking this down. super actionable",
+      "timestamp": "2026-09-09T11:28:36.550Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683747295_dgpgnl2tg",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "not bad, but there are limitations nobody talks about",
+      "timestamp": "2026-09-19T17:54:14.559Z",
+      "likes": 3,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683747295_kimifxx8e",
+      "userId": "user_004",
+      "username": "coding_nights",
+      "displayName": "Dev Sharma",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev",
+      "content": "thanks for sharing the technical details, super helpful",
+      "timestamp": "2026-09-20T05:48:18.165Z",
+      "likes": 8,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 12,
-  "viewCount": 147,
-  "likeCount": 25
+  "commentCount": 16,
+  "viewCount": 161,
+  "likeCount": 26
 }

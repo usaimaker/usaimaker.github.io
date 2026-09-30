@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    
+    <!-- SEO -->
+    <title>PSSA: A non-transformer language model written from scratch in Rust</title>
+    <meta name="description" content="A bold claim lands on GitHub  
+
+On September 24, 2026, a small team of developers announced the release of PSSA, a 2.7‑billion‑parameter language model that...">
+    <meta name="keywords" content="AI, Artificial Intelligence, AI News">
+    <meta name="author" content="AI Frontier">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://usaimaker.github.io/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i.html">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="AI Frontier">
+    <meta property="og:url" content="https://usaimaker.github.io/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i.html">
+    <meta property="og:title" content="PSSA: A non-transformer language model written from scratch in Rust">
+    <meta property="og:description" content="A bold claim lands on GitHub  
+
+On September 24, 2026, a small team of developers announced the release of PSSA, a 2.7‑billion‑parameter language model that...">
+    <meta property="og:image" content="https://usaimaker.github.io/og-image.png">
+    <meta property="og:locale" content="en_US">
+    <meta property="article:published_time" content="2026-09-30">
+    <meta property="article:section" content="AI News">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PSSA: A non-transformer language model written from scratch in Rust">
+    <meta name="twitter:description" content="A bold claim lands on GitHub  
+
+On September 24, 2026, a small team of developers announced the release of PSSA, a 2.7‑billion‑parameter language model that...">
+    <meta name="twitter:image" content="https://usaimaker.github.io/og-image.png">
+    
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "PSSA: A non-transformer language model written from scratch in Rust",
+        "description": "A bold claim lands on GitHub  
+
+On September 24, 2026, a small team of developers announced the release of PSSA, a 2.7‑billion‑parameter language model that...",
+        "datePublished": "2026-09-30",
+        "author": {"@type": "Organization", "name": "AI Frontier"},
+        "publisher": {"@type": "Organization", "name": "AI Frontier", "url": "https://usaimaker.github.io/"},
+        "mainEntityOfPage": {"@type": "WebPage", "@id": "https://usaimaker.github.io/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i.html"}
+    }
+    </script>
+    
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9959815194191047" crossorigin="anonymous"></script>
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SHNE0WRGK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-1SHNE0WRGK');
+    </script>
+    
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        .article-page { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        .article-header { margin-bottom: 40px; }
+        .article-meta { display: flex; gap: 15px; margin-bottom: 20px; font-size: 0.9rem; color: #888; flex-wrap: wrap; }
+        .article-category { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; }
+        .article-header h1 { font-size: 2.2rem; line-height: 1.3; margin-bottom: 20px; color: #1a1a2e; }
+        .article-content { font-size: 1.1rem; line-height: 1.8; color: #333; }
+        .article-content h2 { font-size: 1.5rem; margin-top: 40px; margin-bottom: 15px; color: #1a1a2e; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .article-content p { margin-bottom: 20px; }
+        .article-content strong { color: #1a1a2e; }
+        .back-link { display: inline-flex; align-items: center; gap: 8px; color: #667eea; text-decoration: none; margin-bottom: 30px; font-size: 0.95rem; }
+        .back-link:hover { text-decoration: underline; }
+        .article-footer { margin-top: 60px; padding-top: 30px; border-top: 1px solid #eee; }
+        .article-nav { display: flex; justify-content: space-between; gap: 20px; margin-top: 30px; }
+        .article-nav a { color: #667eea; text-decoration: none; padding: 10px 20px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.9rem; }
+        .article-nav a:hover { background: #f8f9fa; }
+    </style>
+</head>
+<body>
+    <nav style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 20px;">
+        <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
+            <a href="/" style="color: white; text-decoration: none; font-size: 1.3rem; font-weight: 700;">AI Frontier</a>
+            <div style="display: flex; gap: 25px;">
+                <a href="/articles.html" style="color: white; text-decoration: none;">Articles</a>
+                <a href="/tools.html" style="color: white; text-decoration: none;">Tools</a>
+                <a href="/about.html" style="color: white; text-decoration: none;">About</a>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="article-page">
+        <a href="/articles.html" class="back-link">&#8592; Back to Articles</a>
+        
+        <article>
+            <div class="article-header">
+                <div class="article-meta">
+                    <span class="article-category">AI News</span>
+                    <span>2026-09-30</span>
+                    <span>8 min read</span>
+                </div>
+                <h1>PSSA: A non-transformer language model written from scratch in Rust</h1>
+            </div>
+            <div class="article-content">
+                <h2>A bold claim lands on GitHub  </h2>
+<p>On September 24, 2026, a small team of developers announced the release of PSSA, a 2.7‑billion‑parameter language model that does not rely on the transformer architecture and is written entirely in Rust. The project’s repository, opened under an Apache‑2.0 license, includes a complete training pipeline, inference server, and a suite of benchmark scripts. Within days, the announcement generated over 1.2 million views on Hacker News and sparked a flurry of commentary from both academic and industry circles.  </p>
+<h2>What is PSSA?  </h2>
+<p>PSSA stands for “Parallelizable Structured Sequence Architecture.” It replaces the self‑attention mechanism of transformers with a hybrid recurrent‑plus‑convolutional backbone that processes tokens in linear time while preserving long‑range dependencies through a hierarchical context cache. The model is deliberately designed to avoid the quadratic memory growth that limits transformer scaling on commodity hardware.  </p>
+<h2>The Rust foundation  </h2>
+<p>The codebase is written from the ground up in Rust 1.77, leveraging the language’s zero‑cost abstractions, strong memory safety guarantees, and built‑in support for asynchronous I/O. The authors claim that the Rust implementation runs inference at 1.8 × the speed of a comparable PyTorch transformer on an AMD EPYC 9654 server, while using 30 % less RAM. By avoiding the Python‑C‑extension stack, PSSA eliminates the “dependency hell” that often hampers deployment in production environments.  </p>
+<h2>Why a non‑transformer approach now?  </h2>
+<p>Since the introduction of the transformer in 2017, the architecture has become the de‑facto standard for large language models. However, the self‑attention matrix still scales with O(n²) memory, where n is the sequence length, making it expensive to process inputs longer than 8 k tokens on typical GPUs. Recent research—such as Longformer, Performer, and Reformer—has sought to mitigate this cost, but most solutions retain a transformer core. PSSA’s designers argue that a fundamentally different architecture can bypass these constraints without sacrificing quality.  </p>
+<h2>Training data and compute  </h2>
+<p>The team trained PSSA on a curated 500 billion‑token corpus drawn from Common Crawl (2020‑2025), Wikipedia, and a multilingual news dump covering 12 languages. Training was conducted on a cluster of 64 NVIDIA H100 GPUs for 45 days, consuming roughly 1.3 million GPU‑hours. The total compute budget is estimated at $9.8 million, a figure comparable to OpenAI’s GPT‑3.5 training run in 2022.  </p>
+<h2>Benchmark performance  </h2>
+<p>On the standard zero‑shot tasks of LAMBADA, HellaSwag, and PIQA, PSSA achieved accuracies of 71.4 %, 84.1 %, and 78.9 % respectively—within 2–3 percentage points of GPT‑3.5. Perplexity on the validation split of the Pile dataset registered at 14.2, a modest increase over the 13.5 reported for a similarly sized transformer. Notably, on the Long-Context QA benchmark (LCQA), which uses inputs of up to 32 k tokens, PSSA outperformed GPT‑3.5 by 6.5 percentage points, underscoring its advantage in handling extended contexts.  </p>
+<h2>Open‑source ethos  </h2>
+<p>Unlike most contemporary large‑scale models that are released under restrictive licenses, PSSA’s code and weights are fully open source. The repository includes a Dockerfile that builds a minimal inference container under 300 MB, allowing developers to spin up a language‑model service on edge devices such as the NVIDIA Jetson Orin. The authors also provide a Rust‑native tokenizer that sidesteps the need for Python‑based tokenizers, further simplifying integration.  </p>
+<h2>Community reception  </h2>
+<p>The open‑source community responded with a mixture of excitement and skepticism. Early adopters praised the Rust code for its clarity; one contributor noted that “the entire forward pass fits into a single, well‑documented module, which is rare for models of this scale.” Critics, however, pointed out that the model’s training pipeline still depends on the DeepSpeed library for gradient accumulation, meaning the claim of a pure‑Rust stack applies only to inference. The authors acknowledged the limitation and said they plan to replace DeepSpeed with a Rust‑native optimizer in a future release.  </p>
+<h2>Academic interest  </h2>
+<p>Within a week of the release, three pre‑prints citing PSSA appeared on arXiv, exploring extensions such as a multilingual variant (PSSA‑M) and a low‑rank adaptation technique (LoRA‑PSSA). A paper from the University of Cambridge’s Machine Learning Group reported that the hierarchical context cache in PSSA can be formalized as a form of dynamic memory network, opening avenues for theoretical analysis that have been elusive for transformers.  </p>
+<h2>Potential impact on hardware design  </h2>
+<p>Because PSSA’s inference engine runs efficiently on CPUs as well as GPUs, hardware vendors are taking notice. In a press briefing on September 28, AMD’s chief architect for AI accelerators hinted that upcoming Zen 5 cores will include specialized instructions to accelerate the convolution‑recurrent kernels that PSSA relies on. If such support materializes, the model could become a viable alternative to transformer‑based services in data‑center environments that prioritize cost per token.  </p>
+<h2>Security and safety considerations  </h2>
+<p>The release also revived discussions about model safety. Since PSSA does not use the same attention‑based interpretability tools that have been built around transformers, existing red‑team frameworks need adaptation. The authors released a “Safety‑Prompt” module that filters out toxic generations by checking the hidden‑state dynamics against a small, Rust‑implemented classifier. Independent audits are pending, and the broader community is watching to see whether these safeguards can match the robustness of transformer‑centric mitigations.  </p>
+<h2>Business implications  </h2>
+<p>For startups that cannot afford the licensing fees of commercial transformer APIs, PSSA offers a cost‑effective alternative. A fintech firm in Berlin reported that deploying PSSA on a modest on‑premise server reduced their monthly inference spend from $12 k to $3 k while maintaining comparable response latency. This economic advantage could accelerate the diffusion of large language models into verticals that have so far relied on rule‑based systems.  </p>
+<h2>Limitations and open challenges  </h2>
+<p>Despite its promise, PSSA is not without drawbacks. The model’s training time was longer than a transformer of equal size, reflecting the added complexity of the hierarchical cache updates. Moreover, while the linear‑time claim holds for sequence lengths up to 32 k tokens, performance degrades beyond that point due to cache‑eviction overhead. The current Rust implementation also lacks support for mixed‑precision training on GPUs older than the H100, limiting accessibility for researchers with legacy hardware.  </p>
+<h2>Comparison with emerging alternatives  </h2>
+<p>Other non‑transformer initiatives have surfaced in the past year, notably the “Sparse RNN” from DeepMind and the “Linear Attention Network” from Alibaba. Compared with these, PSSA distinguishes itself by its end‑to‑end Rust stack and its focus on a balanced trade‑off between speed and quality. However, the field remains fragmented, and it is unclear whether any single architecture will supplant transformers or whether a pluralistic ecosystem will emerge.  </p>
+<h2>The role of Rust in AI development  </h2>
+<p>Rust’s ascent in systems programming has been steady, but its penetration into AI has been modest. PSSA demonstrates that a high‑performance language can host a full‑scale language model without resorting to Python bindings. This could encourage more AI researchers to adopt Rust for performance‑critical components, potentially reshaping the tooling landscape that has been dominated by PyTorch and TensorFlow for over a decade.  </p>
+<h2>Potential for edge deployment  </h2>
+<p>Because the inference binary compiles to a single static executable, PSSA can be deployed on platforms that lack a full Python runtime. Early tests on a Raspberry Pi 5 showed that the model can generate 150‑token continuations in under 3 seconds, a feat previously achievable only with distilled transformer variants. This opens the door to on‑device assistants that respect user privacy by keeping data local.  </p>
+<h2>Market timing  </h2>
+<p>The announcement arrives at a moment when the AI market is entering its second wave of consolidation. Large corporations are acquiring niche model providers, while regulators in the EU and the United States are drafting legislation that may restrict the use of opaque, proprietary models. An open‑source, auditable alternative like PSSA could become a strategic asset for firms seeking compliance and transparency.  </p>
+<h2>Outlook for future versions  </h2>
+<p>The PSSA team has already outlined a roadmap that includes a 10‑billion‑parameter “PSSA‑X” variant, a quantized 8‑bit inference mode, and native support for multi‑modal inputs such as images and audio. If these milestones are met, the model could compete directly with the next generation of transformer‑based multimodal systems, which are projected to dominate the market by 2028.  </p>
+<h2>Personal perspective  </h2>
+<p>From an analytical standpoint, PSSA represents a meaningful experiment rather than an immediate disruption. Its performance is impressive given the constraints of a non‑transformer design, and the Rust implementation showcases a viable path toward more secure and efficient AI stacks. Nonetheless, the entrenched ecosystem around transformers—spanning libraries, hardware accelerators, and research pipelines—means that adoption will be incremental. The true test will be whether downstream developers can build robust applications without falling back on the extensive transformer tooling that currently underpins most production systems.  </p>
+<h2>The broader narrative  </h2>
+<p>PSSA’s emergence underscores a growing sentiment in the AI community: the search for alternatives to the transformer is no longer a niche academic curiosity but a practical engineering challenge. As model sizes continue to climb and compute budgets become a competitive differentiator, architectures that can deliver comparable quality with lower memory footprints and tighter integration into systems languages will attract attention. Whether PSSA becomes a cornerstone of that shift or remains a compelling proof‑of‑concept will depend on the speed at which its ecosystem matures and how well it can address safety, interoperability, and scalability concerns.  </p>
+<h2>Closing remarks  </h2>
+<p>The release of PSSA on September 24 marks a notable milestone in the diversification of large language model architectures. By delivering a high‑quality, non‑transformer model built entirely in Rust, the project invites developers, researchers, and hardware manufacturers to rethink long‑standing assumptions about what a language model must look like. Its open‑source nature ensures that the conversation will continue beyond the initial hype, potentially influencing the next generation of AI systems that prioritize performance, safety, and accessibility.</p>
+            </div>
+        </article>
+        
+        <div class="article-footer">
+            <div style="text-align: center; margin: 40px 0;">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9959815194191047" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            </div>
+            <div class="article-nav">
+                <a href="/articles.html">&#8592; More Articles</a>
+                <a href="/tools.html">Explore AI Tools &#8594;</a>
+            </div>
+        </div>
+    </div>
+    
+    <footer style="background: #1a1a2e; color: #888; padding: 30px 20px; text-align: center; margin-top: 60px;">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <p>&copy; 2026 AI Frontier. Your daily AI resource.</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -77,9 +77,45 @@
       "likes": 13,
       "replies": 2,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790683749762_pnoq9yxti",
+      "userId": "user_003",
+      "username": "startup_grind",
+      "displayName": "Alex Rivera",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "content": "this is the kind of practical advice that actually moves the needle",
+      "timestamp": "2026-08-30T23:53:01.468Z",
+      "likes": 2,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683749762_kpaxyvu9d",
+      "userId": "user_012",
+      "username": "writer_life",
+      "displayName": "Sophie Turner",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+      "content": "this resonates so much with my own journey",
+      "timestamp": "2026-09-06T13:06:37.534Z",
+      "likes": 10,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683749762_hau54wm12",
+      "userId": "user_009",
+      "username": "newbie_journey",
+      "displayName": "Chris Martin",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
+      "content": "newbie here - is this suitable for beginners?",
+      "timestamp": "2026-09-29T00:41:48.309Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 179,
-  "likeCount": 30
+  "commentCount": 9,
+  "viewCount": 189,
+  "likeCount": 34
 }

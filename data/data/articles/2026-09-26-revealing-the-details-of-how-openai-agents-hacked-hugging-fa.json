@@ -77,9 +77,45 @@
       "likes": 15,
       "replies": 1,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790683758130_myeqxui9g",
+      "userId": "user_001",
+      "username": "tech_dad_42",
+      "displayName": "Mike Chen",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "content": "this is exactly what I needed to read today. thanks!",
+      "timestamp": "2026-09-01T03:09:47.417Z",
+      "likes": 8,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683758130_3mp2tk3t6",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "finally someone who gets it! sharing everywhere",
+      "timestamp": "2026-09-24T02:14:21.993Z",
+      "likes": 5,
+      "replies": 1,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790683758130_a5x39sz88",
+      "userId": "user_007",
+      "username": "ai_skeptic",
+      "displayName": "Jordan Lee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan",
+      "content": "works for now, but let's see in 6 months",
+      "timestamp": "2026-09-24T06:05:53.447Z",
+      "likes": 1,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 6,
-  "viewCount": 58,
-  "likeCount": 8
+  "commentCount": 9,
+  "viewCount": 79,
+  "likeCount": 9
 }

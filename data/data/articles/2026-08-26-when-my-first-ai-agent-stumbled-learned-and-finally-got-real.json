@@ -209,9 +209,69 @@
       "likes": 7,
       "replies": 0,
       "isVerified": false
+    },
+    {
+      "id": "comment_1790683756004_c8714tex0",
+      "userId": "user_013",
+      "username": "gamer_ai",
+      "displayName": "Tyler Brooks",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler",
+      "content": "dude same! been there done that",
+      "timestamp": "2026-09-01T22:04:53.542Z",
+      "likes": 14,
+      "replies": 2,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683756004_m1dfbwigf",
+      "userId": "user_006",
+      "username": "budget_hacker",
+      "displayName": "Tom Wilson",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tom",
+      "content": "the free version works fine for this. don't need to pay",
+      "timestamp": "2026-09-07T21:24:34.029Z",
+      "likes": 11,
+      "replies": 0,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683756004_jv827udbg",
+      "userId": "user_010",
+      "username": "data_driven",
+      "displayName": "Rachel Green",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+      "content": "solid analysis. the numbers back this up",
+      "timestamp": "2026-09-08T00:51:40.997Z",
+      "likes": 9,
+      "replies": 1,
+      "isVerified": false
+    },
+    {
+      "id": "comment_1790683756004_pq0hp62bj",
+      "userId": "user_008",
+      "username": "content_queen",
+      "displayName": "Nina Patel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nina",
+      "content": "you're amazing for sharing this! game changer!",
+      "timestamp": "2026-09-09T04:15:53.632Z",
+      "likes": 1,
+      "replies": 0,
+      "isVerified": true
+    },
+    {
+      "id": "comment_1790683756004_do1rj336f",
+      "userId": "user_005",
+      "username": "prompt_wizard",
+      "displayName": "Emma Zhang",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+      "content": "breaking it down like this makes it so much more approachable",
+      "timestamp": "2026-09-21T14:11:35.521Z",
+      "likes": 13,
+      "replies": 2,
+      "isVerified": false
     }
   ],
-  "commentCount": 17,
-  "viewCount": 99,
-  "likeCount": 25
+  "commentCount": 22,
+  "viewCount": 111,
+  "likeCount": 30
 }

@@ -1,89 +1,89 @@
 // AI News Data - Auto-updated
-// Last Updated: 2026-09-27 10:16:18
+// Last Updated: 2026-09-29 10:58:13
 
 const newsData = [
   {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "description": "Score 720 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49849985",
-    "url": "https://swarmtraces.org/",
+    "title": "It's Time to Investigate the AI Labs",
+    "description": "Score 516 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49883471",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-    "description": "Score 592 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49848269",
-    "url": "https://ollaya.dev/",
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "description": "Score 505 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49883844",
+    "url": "https://github.com/firelex/jeff",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "description": "Score 491 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49845977",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "description": "Score 368 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49880312",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "description": "Score 283 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49844663",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "description": "Score 316 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49875913",
+    "url": "https://git.mills.io/prologic/parley",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "description": "Score 247 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49859112",
-    "url": "https://arxiv.org/abs/2609.22978",
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "description": "Score 248 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49882781",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "description": "Score 228 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49854875",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "description": "Score 181 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49879883",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "description": "Score 211 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49836579",
-    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "description": "Score 173 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49873241",
+    "url": "https://arxiv.org/abs/2110.01834",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-    "description": "Score 191 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49863864",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "title": "Nissan's third generation e-POWER powertrain",
+    "description": "Score 157 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49872883",
+    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "description": "Score 174 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49832768",
-    "url": "https://www.movingimagearchive.com/",
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "description": "Score 155 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49879577",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "description": "Score 151 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49857729",
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "title": "What would a serious AI product look like?",
+    "description": "Score 155 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49876148",
+    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-    "description": "Score 149 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49844896",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+    "description": "Score 140 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49855059",
+    "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   },
   {
-    "title": "A single function Jev-like wrapper for LLMs, including vision models",
-    "description": "Score 141 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49853175",
-    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "title": "What reversing, modernising old games tells us about the economic impact of AI",
+    "description": "Score 122 on Hacker News. Discuss: https://news.ycombinator.com/item?id=49861755",
+    "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
     "source": "Hacker News",
-    "time": "2026-09-27 10:16:18"
+    "time": "2026-09-29 10:58:13"
   }
 ];
