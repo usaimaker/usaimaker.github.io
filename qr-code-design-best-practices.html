@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QR Code Design Best Practices for Print</title>
+<meta name="description" content="Contrast, size, error correction and SVG export: the practical checklist for QR codes that scan reliably on packaging and posters.">
+<link rel="canonical" href="https://usaimaker.github.io/qr-code-design-best-practices.html">
+<meta name="robots" content="index,follow">
+</head>
+<body style="font:16px/1.65 system-ui,Arial,sans-serif;max-width:820px;margin:0 auto;padding:28px;color:#1a2230">
+<h1>QR Code Design Best Practices for Print</h1>
+<p>QR codes fail in print far more often than on screen. The three variables that decide whether a code scans are contrast, size, and error correction — in that order, and all three are under your control before the file leaves the browser.</p>
+<p>Keep dark modules on a light background. Inverted codes (light on dark) are decoded inconsistently by older phone cameras, and gradient fills or low-contrast brand colours are the number one cause of support tickets after a packaging run. A centre logo should stay under roughly 20% of the code area with error correction set to H.</p>
+<h2>What actually matters in practice</h2>
+<p>For digital use a PNG at 1024 px is plenty. For posters, labels and packaging, export SVG so the modules stay razor sharp at any physical size, and always include a quiet zone. Test the final artwork on at least two phones before sending it to the printer.</p>
+<h2>Ready-made QR tools</h2>
+<p>These presets are built into <a href="https://qrify.dynv6.net">QRify</a>, a browser-based generator. Nothing is uploaded to a server and there is no signup or watermark.</p>
+<ul>
+        <li><a href="https://qrify.dynv6.net/qr-code-with-logo">Qr Code With Logo</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/vcard-qr-code">Vcard Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/svg-qr-code">Svg Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/whatsapp-qr-code">Whatsapp Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/instagram-qr-code">Instagram Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/business-card-qr-code">Business Card Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+        <li><a href="https://qrify.dynv6.net/transparent-qr-code">Transparent Qr Code</a> — Generate this code with custom colours, logo and SVG export, no signup.</li>
+</ul>
+<h2>Generate one now</h2>
+<p><a href="https://qrify.dynv6.net">Open the free QR code generator</a>, pick a preset, set the colour and error correction, then export PNG or SVG. For a full list of the 14 presets see <a href="https://usaimaker.github.io/free-qr-code-generator.html">the free QR code generator guide</a>.</p>
+<h2>Related reading</h2>
+<p><a href="https://usaimaker.github.io/qr-code-for-restaurant-menus.html">Restaurant menu QR code guide</a></p>
+<h2>FAQ</h2>
+<h3>Does a styled QR code still scan?</h3>
+<p>Yes, provided you keep strong contrast, a quiet zone around the code, and high error correction. Always test a printed sample with two different phones before a full print run.</p>
+<h3>Should I use a dynamic or a static QR code?</h3>
+<p>Use a static code when the destination will never change. If you may need to edit the destination later, print a code that points to a stable URL you control and redirect it, so the printed piece never has to be replaced.</p>
+<p style="margin-top:40px;color:#667"><a href="https://usaimaker.github.io/">Back to the homepage</a></p>
+</body>
+</html>
